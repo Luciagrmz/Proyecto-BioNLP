@@ -1,0 +1,19 @@
+**********        VALIDATION REPORT     **********
+Classifier: SVM
+Kernel: rbf
+Best scoremake_scorer(f1_score, pos_label=DISEASE): 0.5806210252233993
+Best parameters:
+	C: 1.6962487046234629
+	cache_size: 200
+	class_weight: 'balanced'
+	coef0: 0.0
+	decision_function_shape: 'ovr'
+	degree: 3
+	gamma: 0.016959629191460518
+	kernel: 'rbf'
+	max_iter: -1
+	probability: False
+	random_state: None
+	shrinking: True
+	tol: 0.001
+	verbose: False
