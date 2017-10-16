@@ -1,2 +1,2 @@
 ### Minerıa de textos para la extracción de asociaciones polimorfismo-enfermedad en literatura biomédica 
-Lucıa G Ramırez*, Gilberto Duran, Luis F Altamirano and Luis E. Ramırez
+Lucía G Ramírez*, Gilberto Durán, Luis F Altamirano and Luis E. Ramírez
