@@ -1,0 +1,6760 @@
+rs028	schizophrenia
+rs0818488	rheumatoid arthritis
+rs10004195	H. pylori infection
+rs1000597	nephrolithiasis
+rs10010131	diabetes
+rs1001179	body mass index
+rs1001179	breast cancer
+rs1001179	C-reactive protein
+rs1001179	diabetes
+rs1001179	hypertension
+rs1001179	prostate cancer
+rs10012946	diabetes
+rs10020464	colon cancer
+rs1002630	diabetes
+rs1003623	breast cancer
+rs10036665	schizophrenia
+rs10036748	asthma
+rs10036748	systemic lupus erythematosus
+rs10037045	stroke
+rs10044254	Asthma
+rs1004467	hypertension
+rs10045431	multiple sclerosis
+rs10046	breast cancer
+rs10046	endometriosis
+rs10046	lung cancer
+rs10046	prostate cancer
+rs1004819	interleukin
+rs10052016	gastric cancer
+rs1006737	major depressive disorder
+rs1006737	memory
+rs1006737	migraine
+rs1006737	schizophrenia
+rs10069690	breast cancer
+rs10069690	telomere length
+rs1007311	Hemoglobin
+rs1007888	diabetes
+rs1007888	insulin resistance
+rs10079250	lung cancer
+rs10086846	hypertension
+rs1008805	breast cancer
+rs1008949	schizophrenia
+rs1009153	schizophrenia
+rs10109984	breast cancer
+rs1010	Atherosclerosis
+rs1010	coronary heart disease
+rs1010	stroke
+rs10118570	squamous cell carcinoma
+rs1011970	breast cancer
+rs1012477	breast cancer
+rs1012477	prostate cancer
+rs10135525	spina bifida
+rs10141940	schizophrenia
+rs10142034	schizophrenia
+rs10145182	body mass index
+rs10145182	breast cancer
+rs10145182	pancreatic cancer
+rs10146997	obesity
+rs1014971	bladder cancer
+rs1015213	glaucoma
+rs10156191	migraine
+rs10166942	migraine
+rs10167219	atherosclerosis
+rs10169372	breast cancer
+rs10181656	systemic lupus erythematosus
+rs10183087	breast cancer
+rs1018351	schizophrenia
+rs1019731	ovarian cancer
+rs10197862	asthma
+rs10204475	stroke
+rs1020760	psoriasis
+rs10227303	otosclerosis
+rs10228265	ovarian cancer
+rs1024323	myocardial infarction
+rs1024323	stroke
+rs1024611	breast cancer
+rs1024611	lupus nephritis
+rs1024611	systemic lupus erythematosus
+rs10260404	amyotrophic lateral sclerosis
+rs1026916	breast cancer
+rs10273639	pancreatitis
+rs10276036	Efavirenz
+rs10282458	body mass index
+rs102834	migraine
+rs1028583	diabetes
+rs1028583	metabolic syndrome
+rs1029273	Creutzfeldt-Jakob disease
+rs1029946	breast cancer
+rs103294	prostate cancer
+rs10336	HIV
+rs1033772	schizophrenia
+rs1034428	schizophrenia
+rs1034794	breast cancer
+rs1035938	meningioma
+rs1036477	aneurysm
+rs1038304	osteoporosis
+rs1039002	alcohol dependence
+rs10399805	schizophrenia
+rs10399931	sarcoidosis
+rs10399931	schizophrenia
+rs1040079	leprosy
+rs1040288	body mass index
+rs10411210	body mass index
+rs10411210	Colon Cancer
+rs10416265	longevity
+rs10416265	osteoporosis
+rs1041981	body mass index
+rs1041981	breast cancer
+rs1041981	diabetes
+rs1041981	insulin resistance
+rs1041981	metabolic syndrome
+rs1042031	atherosclerosis
+rs1042031	body mass index
+rs1042031	breast cancer
+rs1042031	diabetes
+rs1042173	autism
+rs10421916	gastric cancer
+rs1042522	adenocarcinoma
+rs1042522	amyotrophic lateral sclerosis
+rs1042522	breast cancer
+rs1042522	cervical cancer
+rs1042522	colorectal cancer
+rs1042522	diabetes
+rs1042522	endometriosis
+rs1042522	glioma
+rs1042522	lung cancer
+rs1042522	Lymphoma
+rs1042522	melanoma
+rs1042522	neutropenia
+rs1042522	ovarian cancer
+rs1042636	hypercalcemia
+rs1042636	hyperparathyroidism
+rs1042636	parathyroid carcinoma
+rs10426628	prostate cancer
+rs1042711	Asthma
+rs1042713	asthma
+rs1042713	hypertension
+rs1042713	obesity
+rs1042714	Asthma
+rs1042714	body mass index
+rs1042714	hypertension
+rs1042714	obesity
+rs10427255	hair
+rs10428132	Brugada syndrome
+rs1042838	breast cancer
+rs1042838	migraine
+rs10432782	prostate cancer
+rs1043307	carpal tunnel syndrome
+rs1043307	diabetes
+rs1043307	hypercholesterolemia
+rs1043307	hypertension
+rs1043307	nephropathy
+rs1043307	neuropathy
+rs1043307	obesity
+rs1043618	leukemia
+rs1044396	dementia
+rs1044396	nicotine dependence
+rs1044397	nicotine dependence
+rs1044498	diabetes
+rs1044498	insulin resistance
+rs1044498	metabolic syndrome
+rs1044498	myocardial infarction
+rs1044498	nephropathy
+rs1044498	obesity
+rs10447248	metabolic syndrome
+rs1044	diabetes
+rs1044	nephropathy
+rs1045485	breast cancer
+rs1045485	pancreatic cancer
+rs104548	ovarian cancer
+rs1045494	breast cancer
+rs1045531	prostate cancer
+rs10455872	coronary artery disease
+rs10455872	diabetes
+rs1045642	adenosine triphosphate
+rs1045642	breast cancer
+rs1045642	epilepsy
+rs1045642	HIV
+rs1045642	lung cancer
+rs1045642	lymphoma
+rs1045642	neutropenia
+rs1045642	Ovarian Cancer
+rs1045642	xeroderma pigmentosum
+rs1045881	schizophrenia
+rs10462020	diabetes
+rs10462028	breast cancer
+rs1046282	lung cancer
+rs1046428	bladder cancer
+rs10468017	diabetes
+Rs1047286	complement component
+rs10474352	breast cancer
+rs1047521	schizophrenia
+rs10475407	lung cancer
+rs1047552	HIV
+rs10477313	breast cancer
+rs1047739	breast cancer
+rs1047768	osteosarcoma
+rs1047840	cervical cancer
+rs10478723	stroke
+rs1047964	migraine
+rs10483813	breast cancer
+rs10484561	lymphoma
+rs10484718	gene expression
+rs10484879	periodontitis
+rs10486567	prostate cancer
+rs1048661	cataract
+rs1048661	exfoliation syndrome
+rs1048661	glaucoma
+rs10486776	stroke
+rs10488	myopia
+rs10489177	diabetes
+rs10489177	hypertension
+rs10489202	schizophrenia
+rs1048943	breast cancer
+rs1048943	cervical cancer
+rs1048943	lung cancer
+rs1048943	lymphoma
+rs104894	lung cancer
+rs1048990	asthma
+rs10490924	hemorrhage
+rs10490924	macular degeneration
+rs10490924	vasculopathy
+rs10491434	AIDS
+rs10491434	Celiac disease
+rs10491434	inflammatory bowel disease
+rs10491434	nephropathy
+rs10491734	obsessive-compulsive disorder
+rs10492120	stroke
+rs1049216	lymphoma
+rs10492972	multiple sclerosis
+rs1049305	cirrhosis
+rs1049305	gene expression
+rs1049331	hypercholesterolemia
+rs1049331	hypertension
+rs1049353	major depressive disorder
+rs1049353	multiple sclerosis
+rs1049353	schizophrenia
+rs1049380	body mass index
+rs1049380	renal cell carcinoma
+rs10494366	diabetes
+rs1049550	sarcoidosis
+rs1049673	coronary heart disease
+rs1049673	diabetes
+rs10496768	alcohol dependence
+rs1049742	migraine
+rs1049793	migraine
+rs1049817	diabetes
+rs10499194	rheumatoid arthritis
+rs1050045	sarcoidosis
+rs10501367	body mass index
+rs10501367	hypertension
+rs1050152	inflammatory bowel disease
+rs1050283	stroke
+rs1050298	lung cancer
+rs1050298	squamous cell carcinoma
+rs10503253	schizophrenia
+rs1050450	bladder cancer
+rs1050450	body mass index
+rs1050450	C-reactive protein
+rs1050450	diabetes
+rs1050450	hypertension
+rs1050450	prostate cancer
+rs10504861	migraine
+rs1050501	asthma
+rs1050501	atopy
+rs1050501	IgE
+rs1050501	systemic lupus erythematosus
+rs10505477	breast cancer
+rs10505477	colorectal cancer
+rs10505477	gastric cancer
+rs10507391	stroke
+rs10507875	stroke
+rs10508266	adenocarcinoma
+rs10508266	lung cancer
+rs10508503	body mass index
+rs10508881	endometriosis
+rs10509373	breast cancer
+rs10509540	diabetes
+rs10509540	interleukin
+rs10509670	gastric cancer
+rs10509676	hypertension
+rs10510102	breast cancer
+rs10510418	osteoporosis
+rs1051266	neuroblastoma
+rs10512948	lung cancer
+rs10513025	Autism
+rs1051312	Autism
+rs1051319	stroke
+rs10515083	breast cancer
+rs10515115	schizophrenia
+rs10515353	diabetes
+rs10515807	asthma
+rs10516487	systemic lupus erythematosus
+rs1051690	diabetes
+rs1051690	nephropathy
+rs1051730	adenocarcinoma
+rs1051730	body mass index
+rs1051730	COPD
+rs1051730	lung cancer
+rs1051730	nicotine dependence
+rs1051730	obesity
+rs1051730	pulmonary disease
+rs1051730	schizophrenia
+rs1051730	squamous cell carcinoma
+rs1051740	adenomas
+rs1051740	lymphoma
+rs1051740	ovarian cancer
+rs1051792	rheumatoid arthritis
+rs1051849	melanoma
+rs10519177	aneurysm
+rs10519203	lung cancer
+rs10519297	osteoporosis
+rs10519963	hypertension
+rs10520873	obesity
+rs10521145	nephropathy
+rs10521253	diabetes
+rs1052133	bladder cancer
+rs1052133	breast cancer
+rs1052133	colorectal cancer
+rs1052133	diabetes
+rs1052133	glioma
+rs1052133	leukemia
+rs1052133	melanoma
+rs1052133	prostate cancer
+rs1052133	Squamous Cell Carcinoma
+rs105213	breast cancer
+rs10521496	macular degeneration
+rs10521496	premature ovarian failure
+rs1052486	lung cancer
+rs1052501	multiple myeloma
+rs1052532	breast cancer
+rs1052576	lymphoma
+rs1052667	osteosarcoma
+rs1052700	diabetes
+rs1052700	obesity
+rs1053005	autoimmune thyroid disease
+rs1053049	diabetes
+rs1054135	obesity
+rs10551063	obesity
+rs10551063	schizophrenia
+rs1056285	Angelman syndrome
+rs1056503	hair
+rs1056534	diabetes
+rs1056663	ovarian cancer
+rs1056836	breast cancer
+rs1056836	colorectal cancer
+rs1056836	endometrial cancer
+rs1056836	prostate cancer
+rs1057079	colon cancer
+rs1057910	stroke
+rs1058046	obesity
+rs1058319	glioma
+rs1059004	gene expression
+rs1059004	schizophrenia
+rs1059234	cervical cancer
+rs1059293	breast cancer
+rs1059394	breast cancer
+rs1059513	glioma
+rs1059702	interleukin
+rs1059702	pulmonary fibrosis
+rs1059702	systemic lupus erythematosus
+rs1060896	insulin resistance
+rs1061170	hypertension
+rs1061170	macular degeneration
+rs1061170	sarcoidosis
+rs1061302	lung cancer
+rs1061581	leukemia
+rs1061622	breast cancer
+rs1061624	breast cancer
+rs1062827	body mass index
+rs1062827	diabetes
+rs1062935	gastric cancer
+rs1063147	cataract
+rs1063147	cataracts
+rs1063355	asthma
+rs1063478	interleukin
+rs1063537	nephropathy
+rs10636	breast cancer
+rs1064395	schizophrenia
+rs1064891	obesity
+rs10675722	dementia
+rs1071630	leprosy
+rs10719	breast cancer
+rs10735810	breast cancer
+rs10735810	ovarian cancer
+rs10735810	ovarian carcinoma
+rs10736303	breast cancer
+rs10739971	gastric cancer
+rs10740051	prostate cancer
+rs10741657	colon cancer
+rs10741657	coronary artery disease
+rs10741657	thyroid carcinoma
+rs10743980	stroke
+rs10744777	stroke
+rs10748842	schizophrenia
+rs10749408	prostate cancer
+rs10751301	diabetes
+rs10754339	breast cancer
+rs10754558	HIV
+rs10754833	melanoma
+rs10754833	nevus
+rs10757274	coronary artery disease
+rs10757274	diabetes
+rs10757274	myocardial infarction
+rs10757274	stroke
+rs10757278	coronary artery disease
+rs10757278	myocardial infarction
+rs10758669	inflammatory bowel disease
+rs10759931	asthma
+rs10759932	H. pylori infection
+rs10759	bladder cancer
+rs10759	schizophrenia
+rs10761482	schizophrenia
+rs10761482	unipolar depression
+rs10761581	prostate cancer
+rs10763976	Down syndrome
+rs10765576	breast cancer
+rs10766197	asthma
+rs10770125	diabetes
+rs10770141	schizophrenia
+rs10771399	breast cancer
+rs10771973	neuropathy
+rs10774625	antiphospholipid syndrome
+rs10775480	bladder cancer
+rs10776909	interleukin
+rs10782001	psoriasis
+rs10782001	psoriatic arthritis
+rs10788160	prostate cancer
+rs10788165	prostate cancer
+rs10789166	asthma
+rs10795668	body mass index
+rs10795668	Colon Cancer
+rs10795668	colorectal cancer
+rs10801935	breast cancer
+rs10802996	cervical cancer
+rs10811661	body mass index
+rs10811661	diabetes
+rs10811661	nephropathy
+rs10811661	obesity
+rs10813831	melanoma
+rs10816625	breast cancer
+rs10818488	complement component
+rs10818488	rheumatoid arthritis
+rs10818488	systemic lupus erythematous
+rs10818684	diabetes
+rs10821936	leukemia
+rs10822013	breast cancer
+rs10823406	plasma glucose
+rs10830196	asthma
+rs10830963	acute insulin response
+rs10830963	body mass index
+rs10830963	diabetes
+rs10830963	hemoglobin
+rs10830963	insulin resistance
+rs10830963	obesity
+rs10830963	plasma glucose
+rs10838524	seasonal affective disorder
+rs10838725	obesity
+rs10841845	C-reactive protein
+rs10846744	atherosclerosis
+rs10846744	myocardial infarction
+rs10850335	metabolic syndrome
+rs10852936	psoriasis
+rs10853728	hepatitis C virus
+rs10859871	endometriosis
+rs10860812	hypertension
+rs10861279	Angelman syndrome
+rs10865035	rheumatoid arthritis
+rs10865035	systemic lupus erythematosus
+rs10868138	hemoglobin
+rs10877012	thyroid carcinoma
+rs10881578	interleukin
+rs10883866	schizophrenia
+rs10889677	breast cancer
+rs10889677	lung cancer
+rs10889677	nasopharyngeal carcinoma
+rs1088967	colorectal cancer
+rs10891556	breast cancer
+rs10892151	HIV
+rs10892151	immunodeficiency
+rs10893506	cervical cancer
+rs10895068	endometriosis
+rs10895304	prostate cancer
+rs10902845	breast cancer
+rs10903323	C-reactive protein
+rs10906115	diabetes
+rs10911021	coronary heart disease
+rs10911021	diabetes
+rs10912580	breast cancer
+rs10913469	Metabolic Syndrome
+rs10913469	obesity
+rs10915437	migraine
+rs10916832	schizophrenia
+rs10917661	asthma
+rs10917661	atopy
+rs10923931	diabetes
+rs10927887	hypertension
+rs1092913	breast cancer
+rs10930201	memory
+rs10930963	diabetes
+rs10932029	breast cancer
+rs10932037	breast cancer
+rs10934853	prostate cancer
+rs10935838	myocardial infarction
+rs10935838	stroke
+rs10935838	thromboembolism
+rs10936599	bladder cancer
+rs10937405	adenocarcinoma
+rs10938397	body mass index
+rs10938397	diabetes
+rs10938397	hypertension
+rs10938397	Metabolic Syndrome
+rs10938397	obesity
+rs10941235	breast cancer
+rs10941679	breast cancer
+rs10946398	body mass index
+rs10946398	diabetes
+rs10947803	gene expression
+rs10947803	hemorrhage
+rs10947803	stroke
+rs10951982	inflammatory bowel disease
+rs10952	schizophrenia
+rs10953316	endometriosis
+rs10954213	systemic lupus erythematosus
+rs10956514	tuberculosis
+rs10965235	endometriosis
+rs10968576	obesity
+rs10970985	colorectal cancer
+rs10974944	myelofibrosis
+rs10974944	myeloproliferative neoplasms
+rs10974944	polycythemia vera
+rs10974944	thrombocythemia
+rs10974944	thromboembolism
+rs10983755	gastric cancer
+rs10986105	hyperandrogenism
+rs10986769	hemorrhage
+rs10987883	diabetes
+rs10987883	prostate cancer
+rs10988217	narcolepsy
+rs10993994	prostate cancer
+rs10993994	spermatogenic failure
+rs10994336	migraine
+rs10994336	schizophrenia
+rs10994336	unipolar depression
+rs10994982	leukemia
+rs10995190	breast cancer
+rs11012732	meningioma
+rs11013452	sarcoidosis
+rs11020802	lung cancer
+rs11022775	diabetes
+rs11024102	glaucoma
+rs11037909	diabetes
+rs11038167	schizophrenia
+rs11038172	schizophrenia
+rs11039149	diabetes
+rs11039149	pancreatic cancer
+rs11040	tuberculosis
+rs11045585	neutropenia
+rs11045879	lymphoma
+rs11046966	COPD
+rs11052413	stroke
+rs11055027	endometrial cancer
+rs11055786	breast cancer
+rs11064560	hypertension
+rs11064	cervical cancer
+rs11066001	atherosclerosis
+rs11066001	diabetes
+rs11066001	metabolic syndrome
+rs11066001	myocardial infarction
+rs11066280	diabetes
+rs11066280	gastric cancer
+rs11066280	hyperlipidemia
+rs11066280	hypertension
+rs11067228	prostate cancer
+rs11070795	stroke
+rs11071657	diabetes
+rs11071657	plasma glucose
+rs11075884	breast cancer
+rs11075995	breast cancer
+rs11077654	bladder cancer
+rs11077	hepatocellular carcinoma
+rs11078927	asthma
+rs11078928	asthma
+rs11078928	autoimmune disease
+rs11078928	multiple sclerosis
+rs11079041	glioma
+rs11079344	prostate cancer
+rs1107946	myopia
+rs11079788	dermatitis
+rs11084753	obesity
+rs11085226	diabetes
+rs11088680	gastric cancer
+rs11089788	nephropathy
+rs11091253	malaria
+rs1109374	insulin resistance
+rs11098403	schizophrenia
+rs11099592	multiple myeloma
+rs11102930	asthma
+rs11105468	seizures
+rs11111285	ovarian cancer
+rs11113179	breast cancer
+rs1111875	acute insulin response
+rs1111875	diabetes
+rs1111875	polycystic ovary syndrome
+rs11119982	hypertension
+rs11119982	preeclampsia
+rs11122576	body mass index
+rs11122576	diabetes
+rs1113132	diabetes
+rs11133373	prostate cancer
+rs11133391	glioma
+rs11134242	COPD
+rs11134290	lung cancer
+rs11134527	cervical cancer
+rs11134527	hepatocellular carcinoma
+rs11134527	myocardial infarction
+rs11136000	complement component
+rs11136000	dementia
+rs11136000	memory
+rs11136000	schizophrenia
+rs11141915	neutropenia
+rs11169571	ovarian cancer
+rs11169748	lung cancer
+rs11171739	diabetes
+rs11172113	migraine
+rs11172113	stroke
+rs11190140	gene expression
+rs11190140	inflammatory bowel disease
+rs11190870	scoliosis
+rs11191439	bladder cancer
+rs11191548	hypertension
+rs11196205	diabetes
+rs11196218	diabetes
+rs11196236	insulin resistance
+rs11197557	schizophrenia
+rs11199874	prostate cancer
+rs11200014	breast cancer
+rs11200638	macular degeneration
+rs11203200	breast cancer
+rs11203203	diabetes
+rs11206510	diabetes
+rs11206510	hypertension
+rs11209026	colorectal cancer
+rs11209026	gastric cancer
+rs11209026	inflammatory bowel disease
+rs11209026	Interleukin
+rs11209026	periodontitis
+rs11209026	psoriasis
+rs11212617	ataxia
+rs11212617	diabetes
+rs11212617	HIV
+rs11212617	insulin resistance
+rs11212617	telangiectasia
+rs11218544	myopia
+rs1121980	obesity
+rs11221497	hypertension
+rs11225395	myopia
+rs1122608	atherosclerosis
+rs1122608	cholesterol level
+rs1122608	coronary artery disease
+rs1122608	stroke
+rs11235127	breast cancer
+rs11242417	schizophrenia
+rs11243444	diabetes
+rs11246226	schizophrenia
+rs11249433	breast cancer
+rs112587690	melanoma
+rs1126497	breast cancer
+rs1126535	body mass index
+rs1126535	malaria
+rs1126535	menopause
+rs1126535	osteoporosis
+rs11265455	body mass index
+rs11265455	diabetes
+rs1126579	lung cancer
+rs1126680	obesity
+rs1126742	hypertension
+rs1127354	anemia
+rs1127354	body mass index
+rs1127354	hemoglobin
+rs1127354	hepatitis C virus
+rs1127354	HIV
+rs1127354	immunodeficiency
+rs1127354	leukemia
+rs1127354	neutropenia
+rs11283943	breast cancer
+rs1128397	schizophrenia
+rs1128503	neutropenia
+rs1128503	Ovarian Cancer
+rs112956	colon cancer
+rs1130183	IGE
+rs1130409	breast cancer
+rs1130409	glioblastoma
+rs1130409	lung cancer
+rs1130409	melanoma
+rs1130838	interleukin
+rs1130864	atherosclerosis
+rs1130864	stroke
+rs1130866	COPD
+rs1131012	graft-versus-host disease
+rs1131017	diabetes
+rs1131339	nicotine addiction
+rs1131339	schizophrenia
+rs1131445	cervical cancer
+rs1131445	gene expression
+rs1131454	prostate cancer
+rs1131532	breast cancer
+rs1131580	fatty liver
+rs1131820	atrial fibrillation
+rs1131882	asthma
+rs1132200	multiple sclerosis
+rs1132440	asthma
+rs1133503	alcohol dependence
+rs1133503	panic disorder
+rs1136201	breast cancer
+rs1136287	macular degeneration
+rs1136287	vasculopathy
+rs1136410	bladder cancer
+rs1136410	breast cancer
+rs1136410	colorectal cancer
+rs1136410	glioma
+rs1136410	lung cancer
+rs1136410	melanoma
+rs1137070	gout
+rs1137070	hyperuricemia
+rs1137100	atherosclerosis
+rs1137100	body mass index
+rs1137100	breast cancer
+rs1137100	lung cancer
+rs1137100	obesity
+rs1137100	prostate cancer
+rs1137101	atherosclerosis
+rs1137101	body mass index
+rs1137101	breast cancer
+rs1137101	obesity
+rs1138272	asthma
+rs1138272	prostate cancer
+rs1140409	cirrhosis
+rs1142636	schizophrenia
+rs1143623	colorectal cancer
+rs1143623	H. pylori infection
+rs1143623	ovarian cancer
+rs1143627	colorectal cancer
+rs1143627	interleukin
+rs1143634	colorectal cancer
+rs1143634	diabetes
+rs1143634	HIV
+rs1143634	insulin resistance
+rs1143634	interleukin
+rs1143634	lung cancer
+rs1143634	migraine
+rs1143679	celiac disease
+rs1143679	diabetes
+rs1143679	multiple sclerosis
+rs1143679	rheumatoid arthritis
+rs1143679	systemic lupus erythematosus
+rs1143683	systemic lupus erythematosus
+rs1143684	pancreatic cancer
+rs1143770	nephropathy
+rs11439060	rheumatoid arthritis
+rs114444506	seizures
+rs11466651	allergic rhinitis
+rs11466651	asthma
+rs11466782	lymphoma
+rs1149048	scoliosis
+rs114931935	COPD
+rs1151640	myocardial infarction
+rs115214213	gene expression
+rs11523871	breast cancer
+rs1153188	diabetes
+rs11536878	gastric cancer
+rs11536889	gastric cancer
+rs11536889	infections
+rs11536889	periodontitis
+rs11536891	colorectal cancer
+rs11536898	colon cancer
+rs11541353	seasonal affective disorder
+rs1154155	narcolepsy
+rs11543198	bladder cancer
+rs115494657	hepatitis B virus
+rs11549465	hepatitis B virus
+rs11554137	leukemia
+rs11554159	diabetes
+rs11554159	obesity
+rs11554159	plasma glucose
+rs115550680	Alzheimer disease
+rs1155563	interleukin
+rs1155563	melanoma
+rs11556218	coronary artery disease
+rs11556924	atherosclerosis
+rs11556924	coronary artery disease
+rs11556924	hypertension
+rs11568563	diabetes
+rs11568563	supranuclear palsy
+rs11568563	systemic lupus erythematosus
+rs11568732	hypertension
+rs11568818	coronary artery disease
+rs11568818	gene expression
+rs11568820	ovarian cancer
+rs11568820	ovarian carcinoma
+rs11568821	rheumatoid arthritis
+rs11568821	systemic lupus erythematosus
+rs11568828	diabetes
+rs11571833	breast cancer
+rs11571833	lung cancer
+rs11571833	squamous cell carcinoma
+rs1157358	epilepsy
+rs1157358	seasonal affective disorder
+rs11574129	hypertension
+rs11574311	cataract
+rs11574311	cataracts
+rs11574	diabetes
+rs11575892	body mass index
+rs11575892	obesity
+rs11575893	schizophrenia
+rs11575934	adenocarcinoma
+rs11584340	psoriasis
+rs11592737	endometriosis
+rs1159327	endometriosis
+rs11594656	diabetes
+rs11605924	diabetes
+rs11614913	bladder cancer
+rs11614913	breast cancer
+rs11614913	end-stage renal disease
+rs11614913	gastric cancer
+rs11614913	gene expression
+rs11614913	hepatocellular carcinoma
+rs11614913	inflammatory bowel disease
+rs11614913	lung cancer
+rs11614913	myocardial infarction
+rs11614913	nephropathy
+rs11614913	squamous cell carcinoma
+rs11614913	stroke
+rs11615	adenocarcinoma
+rs11615	breast cancer
+rs11615	colorectal cancer
+rs11615	esophageal cancer
+rs11615	gastric cancer
+rs11615	glioblastoma
+rs11615	lung cancer
+rs11615	osteosarcoma
+rs11615	prostate cancer
+rs11615	xeroderma pigmentosum
+rs11624283	cleft palate
+rs11624704	obesity
+rs11625206	colon cancer
+rs11634351	Nicotine Dependence
+rs11635825	stroke
+rs11636753	Nicotine Dependence
+rs11637635	lung cancer
+rs11642015	obesity
+rs11644943	obesity
+rs11652075	psoriasis
+rs11655081	dystonia
+rs11655505	breast cancer
+rs11655505	gene expression
+rs11656696	glaucoma
+rs11662595	breast cancer
+rs11671784	bladder cancer
+rs11685878	breast cancer
+rs116909374	thyroid cancer
+rs1169288	C-reactive protein
+rs1169288	diabetes
+rs1169310	Hypertriglyceridemia
+rs1169313	Hypertriglyceridemia
+rs1170155	nephrolithiasis
+rs117039649	ovarian cancer
+rs11706052	neutropenia
+rs11708067	diabetes
+rs11711441	Parkinson disease
+rs11712619	diabetes
+rs11712619	hypertension
+rs11719165	neutropenia
+rs11720822	glaucoma
+rs11721827	colon cancer
+rs11724320	panic disorder
+rs11724758	plasma glucose
+rs1172822	menopause
+rs11737660	hypertension
+rs11741137	Asthma
+rs11746443	nephrolithiasis
+rs11747270	inflammatory bowel disease
+rs1175543	metabolic syndrome
+rs1176744	alcohol dependence
+rs11767557	memory
+rs11779254	asthma
+rs11779254	COPD
+rs11789399	schizophrenia
+rs11805303	psoriasis
+rs1182	dystonia
+rs1183201	gout
+rs11833579	atherosclerosis
+rs11833579	stroke
+rs1183910	alkaline phosphatase
+rs1183910	bilirubin
+rs1183910	C-reactive protein
+rs1183910	diabetes
+rs1183910	gamma-glutamyltransferase
+rs1183910	plasma glucose
+rs1183910	recombination rate
+rs11852361	colorectal cancer
+rs11854484	anemia
+rs11854484	hemoglobin
+rs11854949	stroke
+rs11856808	tremor
+rs11856995	hair
+rs11859266	schizophrenia
+rs11866002	osteosarcoma
+rs11868035	C-reactive protein
+rs11868035	metabolic syndrome
+rs11868035	schizophrenia
+rs11868035	tremor
+rs11871756	bladder cancer
+rs11872992	obesity
+rs11878583	breast cancer
+rs11881222	hepatitis C virus
+rs11881222	HIV
+rs11881222	interleukin
+rs11886868	thalassemia
+rs11887092	hemorrhage
+rs11887092	stroke
+rs11887698	breast cancer
+rs11889031	breast cancer
+rs11890028	epilepsy
+rs11892031	bladder cancer
+rs11894868	schizophrenia
+rs11898505	longevity
+rs11898505	osteoporosis
+rs11902171	prostate cancer
+rs11913319	prostate cancer
+rs11915160	breast cancer
+rs11915160	diabetes
+rs11915160	end-stage renal disease
+rs11920090	diabetes
+rs11923427	colon cancer
+rs11941492	adenocarcinoma
+rs11941492	colon cancer
+rs11946004	panic disorder
+rs11954856	ovarian cancer
+rs11978267	leukemia
+rs11979158	glioma
+rs11984041	stroke
+rs11986220	prostate cancer
+rs1202524	endometrial cancer
+rs12037879	colorectal cancer
+rs12041331	coronary artery disease
+rs12042319	interleukin
+rs12046844	neutropenia
+rs12048235	ovarian cancer
+rs12050217	coronary artery disease
+rs12051272	adiponectin
+rs12051272	metabolic syndrome
+rs12051272	plasma glucose
+rs12053868	interleukin
+rs1205923	diabetes
+rs1205923	plasma glucose
+rs1205	asthma
+rs1205	atherosclerosis
+rs1205	breast cancer
+rs1205	colon cancer
+rs1205	COPD
+rs1205	C-reactive protein
+rs1205	interleukin
+rs1205	stroke
+rs1206634	diabetes
+rs12072037	lung cancer
+rs12078839	hypertension
+rs12083239	gastric cancer
+rs12086634	metabolic syndrome
+rs1209523	diabetes
+rs1209523	plasma glucose
+rs12101261	leukemia
+rs12108497	gastric cancer
+rs1211375	malaria
+rs12115114	multiple sclerosis
+rs1212171	asthma
+rs1212171	atopy
+rs1212171	HIV
+rs12130333	stroke
+rs12133337	body mass index
+rs12134493	migraine
+rs12137417	memory
+rs12138977	glaucoma
+rs12144309	lymphoma
+rs12144939	body mass index
+rs12144939	diabetes
+rs12147254	multiple myeloma
+rs12149545	myocardial infarction
+rs12150220	diabetes
+rs12150220	melanoma
+rs12155400	hypertension
+rs12190287	atherosclerosis
+rs12194974	menarche
+rs1219648	breast cancer
+rs12201676	schizophrenia
+rs12203592	melanoma
+rs12203592	nevus
+rs12210050	melanoma
+rs12210050	squamous cell carcinoma
+rs12212067	malaria
+rs12212067	rheumatoid arthritis
+rs12212740	asthma
+rs12218	hyperuricemia
+rs12218	obesity
+rs12218	osteoporosis
+rs12221497	diabetes
+rs12221497	stroke
+rs12229654	diabetes
+rs12229654	hyperlipidemia
+rs12229654	hypertension
+rs12233372	diabetes
+rs12252	HIV
+rs12252	infections
+rs12252	influenza
+rs1225404	breast cancer
+rs12255372	body mass index
+rs12255372	breast cancer
+rs12255372	diabetes
+rs12255372	insulin resistance
+rs12255372	obesity
+rs12255372	plasma glucose
+rs12268840	lung cancer
+rs12273363	migraine
+rs1229984	alcohol dependence
+Rs1229984	body mass index
+Rs1229984	coronary heart disease
+rs1229984	diabetes
+rs1229984	esophageal cancer
+rs1229984	gastric cancer
+Rs1229984	interleukin
+rs1229984	nicotine addiction
+rs1229984	squamous cell carcinoma
+rs1229984	stroke
+rs12304647	cirrhosis
+rs12304647	gastric cancer
+rs1231202	breast cancer
+rs12315175	prostate cancer
+rs12325489	breast cancer
+rs12325817	breast cancer
+rs1233478	diabetes
+rs1233710	schizophrenia
+rs12342	adiponectin
+rs12342	atherosclerosis
+rs12342	cerebral infarction
+rs12342	stroke
+rs12343867	leukemia
+rs12355840	breast cancer
+rs12373	colorectal cancer
+rs12373	gene expression
+rs12375498	myocardial infarction
+rs12375498	preeclampsia
+rs12375841	hepatitis B virus
+rs12402521	hypertension
+rs12402521	obesity
+rs12411988	Gene expression
+rs12415607	lung cancer
+rs12423791	myopia
+rs12425434	schizophrenia
+rs12425791	stroke
+rs1243180	glioma
+rs1243180	meningioma
+rs1243180	ovarian cancer
+rs12434716	schizophrenia
+rs12437854	diabetes
+rs12437854	end-stage renal disease
+rs12437854	nephropathy
+rs12437854	proteinuria
+rs12443621	breast cancer
+rs12449782	nephropathy
+rs12453407	hyperlipidemia
+rs12453407	hypertriglyceridemia
+rs12460535	prostate cancer
+rs12466358	nicotine dependence
+rs12470143	prostate cancer
+rs12487066	infections
+rs12487736	myocardial infarction
+rs12490265	metabolic syndrome
+rs12493607	breast cancer
+rs1249719	diabetes
+rs12498529	colon cancer
+rs12510359	myocardial infarction
+rs12515012	breast cancer
+rs12516	breast cancer
+rs12522383	diabetes
+rs12525163	breast cancer
+rs12526453	arterial calcification
+rs1252906	diabetes
+rs12529	bladder cancer
+rs12529	prostate cancer
+rs1253192	diabetes
+rs12532	cleft palate
+rs12539530	breast cancer
+rs1256031	glaucoma
+rs1256049	bone mineral density
+rs1256049	breast cancer
+rs1256049	lung cancer
+rs1256049	phobia
+rs1256049	prostate cancer
+rs1256049	rheumatoid arthritis
+rs12565932	body mass index
+rs12565932	diabetes
+rs12566340	diabetes
+rs12566340	lymphoma
+rs12570116	breast cancer
+rs125701	bladder cancer
+rs125701	prostate cancer
+rs12573128	schizophrenia
+rs12582717	cardiomyopathy
+rs12586317	psoriasis
+rs12586317	psoriatic arthritis
+rs12602885	gastric cancer
+rs1260326	Body mass index
+rs1260326	C-reactive protein
+rs1260326	diabetes
+rs1260326	fatty liver
+rs1260326	gout
+rs1260326	hypertriglyceridemia
+rs1260326	insulin resistance
+rs1260326	MODY
+rs1260326	myocardial infarction
+rs1260326	obesity
+rs1260326	plasma glucose
+Rs12604675	diabetes
+rs12604675	nephropathy
+Rs12604675	proteinuria
+rs12608932	amyotrophic lateral sclerosis
+rs12611091	premature ovarian failure
+rs12619285	coronary heart disease
+rs12619285	eosinophilia
+rs12628	melanoma
+rs12628	thyroid carcinoma
+rs12632110	diabetes
+rs12632110	hypertension
+rs12652447	breast cancer
+rs12653946	prostate cancer
+rs12654812	nephrolithiasis
+rs1265564	diabetes
+rs1266175	hyperlipidemia
+rs1266175	hypertriglyceridemia
+rs12662670	breast cancer
+rs12669187	nephrolithiasis
+rs12673692	osteoporosis
+rs12676	breast cancer
+rs12678919	diabetes
+rs12679196	hemorrhage
+rs12685977	hypertension
+rs12688220	pancreatitis
+rs12691	acute insulin response
+rs12691	Metabolic Syndrome
+rs12700667	endometriosis
+rs12704795	Diabetes
+rs1270942	AIDS
+rs12710696	breast cancer
+rs12714145	warfarin sensitivity
+rs1271572	ovarian cancer
+rs1271572	ovarian carcinoma
+rs12716080	myopia
+rs12722489	interleukin
+rs12722489	multiple sclerosis
+rs12722605	C-reactive protein
+rs12722605	interleukin
+rs12731181	blood pressure regulation
+rs12731181	hypertension
+rs12733285	colon cancer
+rs12742393	diabetes
+rs12746200	myocardial infarction
+rs12746200	stroke
+rs12762549	neutropenia
+rs12770228	glioma
+rs12770228	meningioma
+rs12770228	ovarian cancer
+rs12779790	diabetes
+rs12785878	colon cancer
+rs12785878	diabetes
+rs12794714	coronary artery disease
+rs12794714	thyroid carcinoma
+rs1279683	gene expression
+rs12803	schizophrenia
+rs12807809	schizophrenia
+rs12817488	Parkinson disease
+rs12826786	gene expression
+rs12858139	Sarcoidosis
+rs12885713	scoliosis
+rs12900948	epilepsy
+rs12905120	stroke
+rs12910984	COPD
+rs12910984	Lung Disease
+rs12912233	epilepsy
+rs12913832	hair
+rs12913832	nevus
+rs12914272	breast cancer
+rs12914385	adenocarcinoma
+rs12914385	lung cancer
+rs12917707	end-stage renal disease
+rs12917	colorectal cancer
+rs12917	glioma
+rs12917	hair
+rs12917	lymphoma
+rs1292011	breast cancer
+rs12936231	asthma
+rs12946522	breast cancer
+rs12946942	scoliosis
+rs12953717	colon cancer
+rs12953717	colorectal cancer
+rs1295371	colon cancer
+rs1295685	COPD
+rs12964873	breast cancer
+rs12970134	body mass index
+rs12970134	diabetes
+rs12970134	obesity
+rs1297860	interleukin
+rs12979860	aspartate aminotransferase
+rs12979860	bilirubin
+rs12979860	cirrhosis
+rs12979860	diabetes
+rs12979860	fatty liver
+rs12979860	gene expression
+rs12979860	hepatitis B virus
+rs12979860	hepatitis C virus
+rs12979860	hepatocellular carcinoma
+rs12979860	HIV
+rs12979860	immunodeficiency
+rs12979860	infections
+rs12979860	insulin resistance
+rs12979860	interleukin
+rs12979860	leukemia
+rs12979860	Lymphoma
+rs12980275	diabetes
+rs12980275	hepatitis B virus
+rs12980275	hepatitis C virus
+rs12980275	hepatocellular carcinoma
+rs12980275	HIV
+rs12980275	infections
+rs12980275	insulin resistance
+rs12980275	interleukin
+rs12983273	breast cancer
+rs129882	Parkinson Disease
+rs12998	breast cancer
+rs13000344	autism
+rs13006529	breast cancer
+rs130067	psoriasis
+rs13009079	lung cancer
+rs13010343	COPD
+rs13017599	rheumatoid arthritis
+rs13041247	cleft palate
+rs13042395	gastric cancer
+rs13048019	amyotrophic lateral sclerosis
+rs13058338	hypertension
+rs13063604	ovarian cancer
+rs13098279	colorectal cancer
+rs13109000	autism
+rs131113549	breast cancer
+rs13113	lymphoma
+rs13117307	cervical cancer
+rs13118928	COPD
+rs13118928	pulmonary disease
+rs13119723	autoimmune disease
+rs13119723	prostate cancer
+rs13130123	insomnia
+rs13144140	diabetes
+rs13144478	coronary heart disease
+rs13144478	gene expression
+rs131451	myopia
+rs13151961	autoimmune disease
+rs13151961	prostate cancer
+rs13156930	breast cancer
+rs13162612	lung cancer
+Rs13170530	lung cancer
+rs1317286	schizophrenia
+rs13180	COPD
+rs13181	bladder cancer
+rs13181	breast cancer
+rs13181	colorectal cancer
+rs13181	esophageal cancer
+rs13181	gastric cancer
+rs13181	glioblastoma
+rs13181	glioma
+rs13181	lung cancer
+rs13181	lymphoma
+rs13181	osteosarcoma
+rs13181	prostate cancer
+rs13181	xeroderma pigmentosum
+rs1318653	seizures
+rs13207351	hemoglobin
+rs13208321	migraine
+rs13222905	asthma
+rs1322784	schizophrenia
+rs1324694	hemorrhage
+rs13250096	schizophrenia
+rs13266634	body mass index
+rs13266634	diabetes
+rs13266634	hemoglobin
+rs13266634	hepatitis C virus
+rs13266634	HIV
+rs13266634	insulin resistance
+rs13266634	obesity
+rs13266634	plasma glucose
+rs1326934	nephropathy
+rs13273442	nicotine dependence
+rs13275170	gastric cancer
+rs132770	breast cancer
+rs132770	hepatocellular carcinoma
+rs132770	renal cell carcinoma
+rs13277113	diabetes
+rs13277113	lung disease
+rs13277113	multiple sclerosis
+rs13277113	systemic lupus erythematosus
+rs13277254	nicotine dependence
+rs132788	breast cancer
+rs132793	breast cancer
+rs132793	hepatocellular carcinoma
+rs132793	renal cell carcinoma
+rs13281615	breast cancer
+rs13283456	diabetes
+rs13283662	breast cancer
+rs13283662	gene expression
+rs13290387	myocardial infarction
+rs13290387	preeclampsia
+rs13290547	coronary artery disease
+rs13294895	breast cancer
+Rs13306465	ovarian cancer
+rs13312840	breast cancer
+rs13314271	adenocarcinoma
+rs133291	C-reactive protein
+rs133291	metabolic syndrome
+rs13329835	breast cancer
+rs1333040	atherosclerosis
+rs1333040	myocardial infarction
+rs1333040	squamous cell carcinoma
+rs1333049	atherosclerosis
+rs1333049	coronary artery disease
+rs1333049	coronary heart disease
+rs1333049	dementia
+rs1333049	diabetes
+rs1333049	hemoglobin
+rs1333062	body mass index
+rs1333062	diabetes
+rs13333226	hypertension
+rs13337626	adenocarcinoma
+rs13347	gene expression
+rs13361189	inflammatory bowel disease
+rs13361707	gastric cancer
+rs13376333	atrial fibrillation
+rs13382811	myopia
+rs13385191	prostate cancer
+rs13387042	breast cancer
+rs133885	dyslexia
+rs1338993	schizophrenia
+rs13393577	breast cancer
+rs13394619	endometriosis
+rs1340513	autism
+rs13405728	adenocarcinoma
+rs13405728	endometrial carcinoma
+rs13405728	polycystic ovary syndrome
+rs13408661	asthma
+rs13412852	fatty liver
+rs13420827	gastric cancer
+rs13420827	H. pylori infection
+rs13420827	ovarian carcinoma
+rs1342326	asthma
+rs1342387	adiponectin
+rs1342387	colon cancer
+rs1342387	colorectal cancer
+rs13428113	obesity
+rs13429458	endometrial carcinoma
+rs13429458	polycystic ovary syndrome
+rs1344706	major depressive disorder
+rs1344706	memory
+rs1344706	schizophrenia
+rs13447075	diabetes
+rs13447075	gene expression
+rs1346044	colorectal cancer
+rs1346044	hair
+rs13505	colorectal cancer
+rs13515	Major Depressive Disorder
+rs1358030	diabetes
+rs1359790	diabetes
+rs1360780	gene expression
+rs1360780	Intelligence
+rs1360780	major depressive disorder
+rs1360780	Memory
+rs1360780	thrombocytopenic purpura
+rs1365611	colon cancer
+rs1366842	schizophrenia
+rs1367610	Breast Cancer
+rs1368408	interleukin
+rs1369481	prostate cancer
+rs13702	stroke
+rs1374645	body mass index
+rs1374645	insulin resistance
+rs1376251	coronary heart disease
+rs1376251	myocardial infarction
+rs1378942	hypertension
+rs1380576	prostate cancer
+rs138213197	prostate cancer
+rs1386494	major depressive disorder
+rs1387153	diabetes
+rs1387153	pancreatic cancer
+rs1387923	major depressive disorder
+rs1398024	sarcoidosis
+rs139883	schizophrenia
+rs139887	schizophrenia
+rs140121121	osteogenesis imperfecta
+rs1401296	stroke
+rs140490	autoimmune disease
+rs1405209	schizophrenia
+rs1405655	diabetes
+rs140693	lung cancer
+rs1406961	stroke
+rs140701	breast cancer
+rs1410996	body mass index
+rs1410996	diabetes
+rs1411478	supranuclear palsy
+rs1411832	memory
+rs1411832	schizophrenia
+rs1413239	neuropathy
+rs1414334	body mass index
+rs14158	hepatitis C virus
+rs14158	HIV
+rs14158	immunodeficiency
+rs14158	interleukin
+rs1420101	coronary heart disease
+rs1420101	eosinophilia
+rs1421085	body mass index
+rs1421085	obesity
+rs1421125	breast cancer
+rs1422673	asthma
+rs1424233	body mass index
+rs1427407	hemoglobin
+rs1429409	prostate cancer
+rs142978743	cirrhosis
+rs1432679	breast cancer
+rs143383	developmental dysplasia of the hip
+rs143383	hip dysplasia
+rs143383	osteoarthritis susceptibility
+rs143536437	seizures
+rs1435879	asthma
+rs1436955	diabetes
+rs1439490	hepatitis B virus
+rs144045115	breast cancer
+rs1441585	asthma
+rs1441585	IgE
+rs1441586	asthma
+rs144383	hip dysplasia
+rs144383	lumbar disc degeneration
+rs1447295	atherosclerosis
+rs1447295	diabetes
+rs1447295	Hirschsprung disease
+rs1447295	hypertension
+rs1447295	macular degeneration
+rs1447295	prostate cancer
+rs144848	hair
+rs1451240	nicotine dependence
+rs1453559	asthma
+rs145450955	insulin resistance
+rs1456031	schizophrenia
+rs1456315	colorectal cancer
+rs1456315	prostate cancer
+rs1457092	celiac disease
+rs1457092	Down syndrome
+rs145889899	prostate cancer
+rs146021107	body mass index
+rs146021107	hypertension
+rs14647	endometriosis
+rs14647	Wolf-Hirschhorn syndrome
+rs1466100	diabetes
+rs1466113	body mass index
+rs1466535	aneurysm
+rs1466535	atherosclerosis
+rs1466535	coronary artery disease
+rs1466535	diabetes
+rs1466535	interleukin
+rs1466785	breast cancer
+rs1466785	ovarian cancer
+rs1467465	ovarian cancer
+rs1468063	gastric cancer
+rs1468271	hypercholesterolemia
+rs1468271	hypertriglyceridemia
+rs1468412	schizophrenia
+rs1468727	glioma
+rs1469513	body mass index
+rs1469513	obesity
+rs1470579	diabetes
+rs1473473	anorexia nervosa
+rs1476413	Bladder cancer
+rs1477196	breast cancer
+rs1478604	gastric cancer
+rs1478604	interleukin
+rs1482057	breast cancer
+rs148314165	systemic lupus erythematosus
+rs1483757	stroke
+rs148972953	breast cancer
+rs1494555	leukemia
+rs1494555	lymphoma
+rs1495741	bladder cancer
+rs1496770	Down syndrome
+rs1501299	adiponectin
+rs1501299	breast cancer
+rs1501299	colon cancer
+rs1501299	colorectal cancer
+rs1501299	coronary artery disease
+rs1501299	diabetes
+rs1501299	insulin resistance
+rs1501299	myocardial infarction
+rs1501299	obesity
+rs1501299	pancreatic cancer
+rs1501299	rheumatoid arthritis
+rs1501299	stroke
+rs1501899	nephrolithiasis
+rs1503112	schizophrenia
+rs1503185	breast cancer
+rs1503298	coronary heart disease
+rs1503298	Diabetes
+rs1508147	asthma
+rs1512268	prostate cancer
+rs1514175	obesity
+rs1515104	Atherosclerosis
+rs1517440	multiple sclerosis
+rs1518111	stroke
+rs1519480	migraine
+rs1520220	diabetes
+rs1524668	stroke
+rs1529916	prostate cancer
+rs1530440	hypertension
+rs153109	breast cancer
+rs153109	esophageal cancer
+rs1531343	diabetes
+rs1534891	prostate cancer
+rs1535045	atherosclerosis
+rs1535255	alcohol dependence
+rs1535500	diabetes
+rs1537415	periodontitis
+rs1539355	insulin resistance
+rs1541160	amyotrophic lateral sclerosis
+rs1542725	COPD
+rs1544410	bone mineral density
+rs1544410	breast cancer
+rs1544410	interleukin
+rs1544410	osteoporosis
+rs1544410	ovarian cancer
+rs1544410	ovarian carcinoma
+rs1544791	asthma
+rs1545620	celiac disease
+rs1545620	inflammatory bowel disease
+rs1545843	memory
+rs1545843	unipolar depression
+rs1546124	cleft palate
+rs1549870	major depressive disorder
+rs1550117	gastric cancer
+rs1550117	H. pylori infection
+rs1554286	leprosy
+rs1554286	stroke
+rs1554483	hypertension
+rs1556547	hair
+rs1558726	Asthma
+rs1558902	insulin resistance
+rs1558902	obesity
+rs1559931	colorectal cancer
+rs1561570	diabetes
+rs1561570	supranuclear palsy
+rs1561570	systemic lupus erythematosus
+rs1562430	breast cancer
+rs1562430	colorectal cancer
+rs1562430	gastric cancer
+rs1562444	diabetes
+rs1564282	tremor
+rs1564483	lung cancer
+rs1565445	major depressive disorder
+rs156697	bladder cancer
+rs1567438	hypertension
+rs1569686	schizophrenia
+rs1570056	diabetes
+rs1570360	diabetes
+rs1570360	end-stage renal disease
+rs1570360	hemoglobin
+rs1570360	nephropathy
+rs1571801	prostate cancer
+rs1572931	amyotrophic lateral sclerosis
+rs1572931	multiple system atrophy
+rs1573496	nicotine addiction
+rs1573496	squamous cell carcinoma
+rs1580833	breast cancer
+rs1583645	gene expression
+rs1595066	squamous cell carcinoma
+rs160277	gastric cancer
+rs1610216	breast cancer
+rs1611115	epilepsy
+rs16131	insulin resistance
+rs16131	metabolic syndrome
+rs16131	obesity
+rs16139	asthma
+rs16139	atherosclerosis
+rs16139	obesity
+rs16147	asthma
+rs16147	atherosclerosis
+rs16147	hypertension
+rs16147	insulin resistance
+rs16147	metabolic syndrome
+rs16147	obesity
+rs16147	schizophrenia
+rs161740	end-stage renal disease
+rs1617640	anemia
+rs1617640	breast cancer
+rs1617640	diabetes
+rs1617640	end-stage renal disease
+rs162049	breast cancer
+rs162430	obesity
+rs1625579	schizophrenia
+rs1625649	colorectal cancer
+rs1625895	lung cancer
+rs1625895	lymphoma
+rs16260	cleft palate
+rs1630498	birth weight
+rs1633445	schizophrenia
+rs1635529	myopia
+rs1635	schizophrenia
+rs1642742	renal cell carcinoma
+rs1642785	glioma
+rs16430	breast cancer
+rs16430	cleft palate
+rs1643659	colorectal cancer
+rs1644731	myopia
+rs16475	obesity
+rs16475	schizophrenia
+rs1650232	tuberculosis
+rs1655505	breast cancer
+rs165599	gene expression
+rs165599	memory
+rs165599	schizophrenia
+rs1656930	adiponectin
+rs1656930	hypertension
+rs165774	alcohol dependence
+rs165774	schizophrenia
+rs165815	schizophrenia
+rs165849	schizophrenia
+rs165854	schizophrenia
+rs166050	prostate cancer
+rs1663689	lung cancer
+rs1671021	body mass index
+rs1671021	hypertension
+rs1671021	stroke
+rs1675126	breast cancer
+rs16754	leukemia
+rs16754	Wilms tumor
+rs1676486	glaucoma
+rs1677693	colorectal cancer
+rs167770	breast cancer
+rs16826658	endometriosis
+rs16835198	insulin resistance
+rs16845990	squamous cell carcinoma
+rs16847548	QT interval
+rs16850331	IGE
+rs16850331	seizures
+rs16856322	memory
+rs16860234	diabetes
+rs16861329	diabetes
+rs16871471	schizophrenia
+rs16886165	breast cancer
+rs16887244	schizophrenia
+rs16891982	hair
+rs16891982	melanoma
+rs16892766	body mass index
+rs16892766	Colon Cancer
+rs16901937	breast cancer
+rs16901979	prostate cancer
+rs16902094	colorectal cancer
+rs16902094	prostate cancer
+rs16906252	colorectal cancer
+rs16906252	glioblastoma
+rs16917302	breast cancer
+rs1693482	diabetes
+rs16936752	hemorrhage
+rs16943429	epilepsy
+rs16944	adenocarcinoma
+rs16944	allergic rhinitis
+rs16944	cervical cancer
+rs16944	colorectal cancer
+rs16944	COPD
+rs16944	C-reactive protein
+rs16944	diabetes
+rs16944	epilepsy
+rs16944	HIV
+rs16944	insulin resistance
+rs16944	interleukin
+rs16944	lung cancer
+rs16944	multiple sclerosis
+rs16944	polyposis
+rs16944	pulmonary function
+rs16944	schizophrenia
+rs16947078	asthma
+rs16948305	lung cancer
+rs16949649	endometrial cancer
+rs1694964	endometrial cancer
+rs16953	esophageal cancer
+rs16955329	breast cancer
+rs1695	anemia
+rs1695	asthma
+rs1695	bladder cancer
+rs1695	breast cancer
+rs1695	gastric cancer
+rs1695	lung cancer
+rs1695	medulloblastoma
+rs1695	prostate cancer
+rs16965628	gene expression
+rs1696698	lung cancer
+rs16969968	lung cancer
+rs16969968	nicotine addiction
+rs16969968	nicotine dependence
+rs16970218	schizophrenia
+rs16973487	stroke
+rs16982844	prostate cancer
+rs16996148	stroke
+rs16998073	hypertension
+rs16998248	coronary artery disease
+rs17000900	gene expression
+rs1700	schizophrenia
+rs1701704	diabetes
+rs1701704	supranuclear palsy
+rs1701704	systemic lupus erythematosus
+rs17024926	breast cancer
+rs17024926	prostate cancer
+rs17032362	stature
+rs1705236	diabetes
+rs1705236	schizophrenia
+rs17065417	neuroblastoma
+rs17066364	obesity
+rs17070145	memory
+rs17095830	inflammatory bowel disease
+rs17096090	COPD
+rs17106184	diabetes
+rs17110453	diabetes
+rs17110453	hypertension
+rs17114036	atherosclerosis
+rs17114036	coronary artery disease
+rs17118	diabetes
+rs17118	hypertension
+rs17125944	obesity
+rs17127114	asthma
+rs1713239	psoriasis
+rs17140129	diabetes
+rs17140229	cystic fibrosis
+rs17145738	stroke
+rs17179740	endometriosis
+rs1718119	Diabetes
+rs17202060	breast cancer
+rs17222691	breast cancer
+rs17222919	hemorrhage
+rs17222919	stroke
+rs17226566	asthma
+rs17228212	atherosclerosis
+rs17228212	coronary artery disease
+rs172378	breast cancer
+rs172378	complement component
+rs172378	gene expression
+rs1724120	colon cancer
+rs17249437	asthma
+rs17249754	diabetes
+rs17249754	hyperlipidemia
+rs17249754	hypertension
+rs17251221	diabetes
+rs17251221	myocardial infarction
+rs17251221	nephrolithiasis
+rs17266594	gene expression
+rs17271305	plasma glucose
+rs17284990	ovarian carcinoma
+rs17286604	diabetes
+rs17286604	hypertension
+rs17296479	glioblastoma
+rs17297207	diabetes
+rs17300539	metabolic syndrome
+rs17300539	obesity
+rs17309872	prostate cancer
+rs17321515	stroke
+rs17337023	rheumatoid arthritis
+rs17360539	diabetes
+rs17367504	hypertension
+rs17368528	cortisone reductase deficiency
+rs17376826	obesity
+rs17381194	myotonic dystrophy
+rs17388568	autoimmune disease
+rs17388568	diabetes
+rs17388568	prostate cancer
+rs17398575	atherosclerosis
+rs17398575	coronary artery disease
+rs17401966	hepatitis B virus
+rs17401966	hepatitis C virus
+rs17401966	hepatocellular carcinoma
+rs17408276	lung cancer
+rs17433222	leukemia
+rs17445836	autoimmune disease
+rs174546	stroke
+rs174556	hypertension
+rs174576	intelligence
+rs174576	schizophrenia
+rs174576	velocardiofacial syndrome
+rs17465637	atherosclerosis
+rs17465637	coronary artery disease
+rs17465637	melanoma
+rs17465637	myocardial infarction
+rs1746661	hypercholesterolemia
+rs17468277	breast cancer
+rs174697	major depressive disorder
+rs17471	diabetes
+rs17486278	lung cancer
+rs17493811	diabetes
+rs17501010	dermatitis
+rs17503908	ataxia
+rs17503908	prostate cancer
+rs17503908	telangiectasia
+rs17506395	breast cancer
+rs17506395	ovarian cancer
+rs17512836	schizophrenia
+rs175174	schizophrenia
+rs17520350	stroke
+rs17520378	stroke
+rs17529111	breast cancer
+rs17530068	breast cancer
+rs17550038	breast cancer
+rs17561	breast cancer
+rs17561	interleukin
+rs17561	malaria
+rs17561	migraine
+rs17561	multiple sclerosis
+rs17561	polyposis
+rs17563161	lung disease
+rs17563161	meconium ileus
+rs17576	coronary artery disease
+rs17576	glaucoma
+rs17577	coronary artery disease
+rs17578796	schizophrenia
+rs17584499	diabetes
+rs17584499	plasma glucose
+rs17593068	asthma
+rs17593222	autoimmune thyroid disease
+rs17599586	myocardial infarction
+rs17603876	schizophrenia
+rs1760944	lung cancer
+rs17609459	breast cancer
+rs1761667	metabolic syndrome
+rs17619601	adenocarcinoma
+rs17625898	adenocarcinoma
+rs17632542	prostate cancer
+rs17639215	atopy
+rs17645523	stroke
+rs17646946	hair
+rs17650792	prostate cancer
+rs17651	gene expression
+rs17651	osteoporosis
+rs17655	breast cancer
+rs17655	lung cancer
+rs17655	lymphoma
+rs17655	osteosarcoma
+rs17663555	breast cancer
+rs17674580	bladder cancer
+rs17694933	endometriosis
+rs17700633	obesity
+rs17708574	adenocarcinoma
+rs17728461	lung cancer
+rs17740607	allergic rhinitis
+rs17740607	asthma
+rs17746501	schizophrenia
+rs17758761	multiple sclerosis
+rs17773946	memory
+rs1778155	stroke
+rs17782312	insulin resistance
+rs17782313	body mass index
+rs17782313	colorectal cancer
+rs17782313	C-reactive protein
+rs17782313	diabetes
+rs17782313	endometrial cancer
+rs17782313	hypertension
+rs17782313	insulin resistance
+rs17782313	Metabolic Syndrome
+rs17782313	obesity
+rs17782313	Pick disease
+rs17782313	stroke
+rs17782313	telomere length
+rs17810235	diabetes
+rs17817449	body mass index
+rs17817449	breast cancer
+rs17817449	insulin resistance
+rs17817449	obesity
+rs17818902	obesity
+rs17822931	breast cancer
+rs17824933	multiple sclerosis
+rs17847036	warfarin sensitivity
+rs17848939	obesity
+rs17849071	thyroid cancer
+rs17855750	esophageal cancer
+rs17868320	diarrhea
+rs17878362	adenocarcinoma
+rs17879961	lung cancer
+rs17883323	adenocarcinoma
+rs17884057	prostate cancer
+rs17886084	hepatitis C virus
+rs178	obesity
+rs179008	gene expression
+rs179008	interleukin
+rs179012	HIV
+rs1794068	schizophrenia
+rs1797912	metabolic syndrome
+rs1799722	obesity
+rs1799724	breast cancer
+rs1799724	C-reactive protein
+rs1799724	diabetes
+rs1799724	interleukin
+rs1799724	lung cancer
+rs1799724	lymphoma
+rs1799724	malaria
+rs1799724	Ovarian Cancer
+rs1799724	prostate cancer
+rs1799732	schizophrenia
+rs1799750	bladder cancer
+rs1799750	osteoarthritis susceptibility
+rs1799750	pancreatitis
+rs1799752	interleukin
+rs1799752	nephropathy
+rs1799782	breast cancer
+rs1799782	colorectal cancer
+rs1799782	coronary artery disease
+rs1799782	gene expression
+rs1799782	glioma
+rs1799782	lung cancer
+rs1799782	melanoma
+rs1799782	pancreatic cancer
+rs1799793	bladder cancer
+rs1799793	breast cancer
+rs1799793	esophageal cancer
+rs1799793	gastric cancer
+rs1799793	glioma
+rs1799793	lung cancer
+rs1799793	osteosarcoma
+rs1799794	breast cancer
+rs1799794	esophageal cancer
+rs1799794	gastric cancer
+rs1799794	lung cancer
+rs1799794	xeroderma pigmentosum
+rs1799801	breast cancer
+rs1799809	warfarin sensitivity
+rs1799817	diabetes
+rs1799817	nephropathy
+rs1799821	metabolic syndrome
+rs1799853	stroke
+rs1799854	diabetes
+rs1799864	stroke
+rs1799883	diabetes
+rs1799884	diabetes
+rs1799884	plasma glucose
+rs1799889	colorectal cancer
+rs1799889	hepatitis C virus
+rs1799895	pancreatic cancer
+rs1799930	breast cancer
+rs1799941	body mass index
+rs1799941	diabetes
+rs1799941	insulin resistance
+rs1799941	obesity
+rs1799945	hemochromatosis
+rs1799945	hypertension
+rs1799950	prostate cancer
+rs1799963	colorectal cancer
+rs1799964	diabetes
+rs1799964	malaria
+rs1799964	Ovarian Cancer
+rs1799964	prostate cancer
+rs1799966	breast cancer
+rs1799966	lung cancer
+rs1799966	xeroderma pigmentosum
+rs1799971	alcohol dependence
+rs1799971	nicotine dependence
+rs1799971	opioid dependence
+rs1799971	schizophrenia
+rs1799977	breast cancer
+rs1799983	Atherosclerosis
+rs1799983	bladder cancer
+rs1799983	breast cancer
+rs1799983	coronary heart disease
+rs1799983	dementia
+rs1799983	hemoglobin
+rs1799983	hypertension
+rs1799983	migraine
+rs1799983	prostate cancer
+rs1799983	stroke
+rs1799983	thrombosis
+rs1799987	stroke
+rs1799988	HIV
+rs1799998	atherosclerosis
+rs1799998	coronary artery disease
+rs1799998	coronary heart disease
+rs1799998	C-reactive protein
+rs1799998	hypertension
+rs1799998	stroke
+rs1800006	diabetes
+rs18000497	obesity
+rs1800057	prostate cancer
+rs1800067	breast cancer
+rs1800067	lung cancer
+rs1800067	meningioma
+rs1800206	diabetes
+rs1800206	plasma glucose
+rs1800247	obesity
+rs1800255	hemorrhage
+rs1800255	pelvic organ prolapse
+rs1800255	stroke
+rs1800264	breast cancer
+rs1800264	lung cancer
+rs1800371	adenocarcinoma
+rs1800372	osteosarcoma
+rs1800440	breast cancer
+rs1800440	colorectal cancer
+rs1800440	endometrial cancer
+rs1800440	prostate cancer
+rs1800469	breast cancer
+rs1800469	colon cancer
+rs1800469	periodontitis
+rs1800469	stroke
+rs1800469	tetralogy of fallot
+rs1800470	hypertension
+rs1800470	interleukin
+rs1800470	lung cancer
+rs1800470	osteoporosis
+rs1800470	periodontitis
+rs1800470	schizophrenia
+rs1800471	hepatitis C virus
+rs1800471	interleukin
+rs1800471	interstitial nephritis
+rs1800471	schizophrenia
+rs1800472	periodontitis
+rs1800497	body mass index
+rs1800497	epilepsy
+rs1800497	nicotine dependence
+rs1800497	obesity
+rs1800497	schizophrenia
+rs1800532	alcohol dependence
+rs1800532	major depressive disorder
+rs1800542	stroke
+rs1800544	schizophrenia
+rs1800562	hemochromatosis
+rs1800566	bladder cancer
+rs1800566	colorectal cancer
+rs1800566	coronary artery disease
+rs1800566	gastric cancer
+rs1800566	leukemia
+rs1800566	lung cancer
+rs1800566	lymphoma
+rs1800566	pancreatic cancer
+rs1800566	schizophrenia
+rs1800574	diabetes
+rs1800587	dementia
+rs1800587	diabetes
+rs1800587	HIV
+rs1800587	interleukin
+rs1800587	schizophrenia
+rs1800588	coronary artery disease
+rs1800592	diabetes
+rs1800592	metabolic syndrome
+rs1800610	body mass index
+rs1800610	diabetes
+rs1800610	insulin resistance
+rs1800610	metabolic syndrome
+rs1800610	Ovarian Cancer
+rs1800610	prostate cancer
+rs1800624	breast cancer
+rs1800624	diabetes
+rs1800624	lung cancer
+rs1800625	diabetes
+rs1800625	nephropathy
+rs1800625	squamous cell carcinoma
+rs1800629	adenocarcinoma
+rs1800629	adiponectin
+rs1800629	allergic rhinitis
+rs1800629	asthma
+rs1800629	atherosclerosis
+rs1800629	body mass index
+rs1800629	breast cancer
+rs1800629	candidiasis
+rs1800629	cervical cancer
+rs1800629	C-reactive protein
+rs1800629	creatinine clearance
+rs1800629	diabetes
+rs1800629	epilepsy
+rs1800629	gastric cancer
+rs1800629	HIV
+rs1800629	IgE
+rs1800629	insulin resistance
+rs1800629	interleukin
+rs1800629	leukemia
+rs1800629	lymphoma
+rs1800629	metabolic syndrome
+rs1800629	migraine
+rs1800629	multiple sclerosis
+rs1800629	Ovarian Cancer
+rs1800629	periodontitis
+rs1800629	polyposis
+rs1800629	prostate cancer
+rs1800629	psoriasis
+rs1800629	rheumatoid arthritis
+rs1800629	schizophrenia
+rs1800630	body mass index
+rs1800630	diabetes
+rs1800630	insulin resistance
+rs1800630	malaria
+rs1800630	metabolic syndrome
+rs1800630	Ovarian Cancer
+rs1800630	prostate cancer
+rs1800668	prostate cancer
+rs1800682	cervical cancer
+rs1800682	hepatocellular carcinoma
+rs1800682	rheumatoid arthritis
+rs1800682	squamous cell carcinoma
+rs1800693	breast cancer
+rs1800693	multiple sclerosis
+rs1800734	colorectal cancer
+rs1800734	dermatitis
+rs1800734	glioblastoma
+rs1800734	lung cancer
+rs1800750	malaria
+rs1800764	nephropathy
+rs1800779	birth weight
+rs1800779	encephalopathy
+rs1800780	hypertension
+rs1800783	diabetes
+rs1800783	encephalopathy
+rs1800783	nephropathy
+rs1800795	adiponectin
+rs1800795	body mass index
+rs1800795	breast cancer
+rs1800795	C-reactive protein
+rs1800795	diabetes
+rs1800795	epilepsy
+rs1800795	gastric cancer
+rs1800795	glioma
+rs1800795	hypertension
+rs1800795	interleukin
+rs1800795	lymphoma
+rs1800795	multiple sclerosis
+rs1800795	neuroblastoma
+rs1800795	psoriasis
+rs1800795	schizophrenia
+rs1800795	seizures
+rs1800796	C-reactive protein
+rs1800796	diabetes
+rs1800796	hypertension
+rs1800796	interleukin
+rs1800796	lung cancer
+rs1800796	obesity
+rs1800796	stroke
+rs1800796	tuberculosis
+rs1800797	colon cancer
+rs1800797	diabetes
+rs1800797	interleukin
+rs1800797	leprosy
+rs1800797	obesity
+rs1800849	insulin resistance
+rs1800849	obesity
+rs1800871	AIDS
+rs1800871	breast cancer
+rs1800871	interleukin
+rs1800871	leprosy
+rs1800871	lung cancer
+rs1800871	lymphoma
+rs1800872	colorectal cancer
+rs1800872	esophageal cancer
+rs1800872	hepatitis C virus
+rs1800872	interleukin
+rs1800872	leprosy
+rs1800872	lymphoma
+rs1800875	IgE
+rs1800875	nephropathy
+rs1800888	Asthma
+rs1800888	diabetes
+rs1800888	obesity
+rs1800890	colorectal cancer
+rs1800890	interleukin
+rs1800890	lymphoma
+rs1800896	adenocarcinoma
+rs1800896	adiponectin
+rs1800896	asthma
+rs1800896	atopy
+rs1800896	colorectal cancer
+rs1800896	coronary artery disease
+rs1800896	creatinine clearance
+rs1800896	dermatitis
+rs1800896	diabetes
+rs1800896	glioma
+rs1800896	hepatitis C virus
+rs1800896	interleukin
+rs1800896	lymphoma
+rs1800896	ovarian cancer
+rs1800925	allergic rhinitis
+rs1800925	atopy
+rs1800925	esophageal cancer
+rs1800925	glioma
+rs1800925	hepatitis B virus
+rs1800925	hepatocellular carcinoma
+rs1800925	H. pylori infection
+rs1800925	interleukin
+rs1800925	malaria
+rs1800925	psoriasis
+rs1800925	pulmonary fibrosis
+rs1800925	pulmonary function
+rs1800947	atherosclerosis
+rs1800947	colorectal cancer
+rs1800947	stroke
+rs1800972	candidiasis
+rs1800972	tuberculosis
+rs1800975	breast cancer
+rs1800975	lung cancer
+rs1800975	lymphoma
+rs1800975	squamous cell carcinoma
+rs1800	schizophrenia
+rs1801018	lung cancer
+rs1801028	schizophrenia
+rs1801058	myocardial infarction
+rs1801058	stroke
+rs1801131	esophageal cancer
+rs1801131	gastric cancer
+rs1801131	hypertension
+rs1801131	intelligence
+rs1801131	lung cancer
+rs1801131	lymphoma
+rs1801131	thrombosis
+rs1801132	breast cancer
+rs1801132	dementia
+rs1801132	HIV
+rs1801132	lipodystrophy
+rs1801132	memory
+rs1801132	metabolic syndrome
+rs1801132	migraine
+rs1801132	prostate cancer
+rs1801133	bladder cancer
+rs1801133	cervical cancer
+rs1801133	colon cancer
+rs1801133	colorectal cancer
+rs1801133	coronary artery disease
+rs1801133	diabetes
+rs1801133	endometriosis
+rs1801133	hemoglobin
+rs1801133	hemorrhage
+rs1801133	hypertension
+rs1801133	intelligence
+rs1801133	interleukin
+rs1801133	lung cancer
+rs1801133	lymphoma
+rs1801133	major depressive disorder
+rs1801133	migraine
+rs1801133	neuroblastoma
+rs1801133	obesity
+rs1801133	osteoporosis
+rs1801133	ovarian cancer
+rs1801133	plasma glucose
+rs1801133	psoriasis
+rs1801133	schizophrenia
+rs1801133	stroke
+rs1801133	thrombosis
+rs1801157	breast cancer
+rs1801157	lymphoma
+rs1801173	lung cancer
+rs1801195	lymphoma
+rs1801198	endometriosis
+rs1801198	ovarian cancer
+rs1801200	breast cancer
+rs1801200	H. pylori infection
+rs1801252	hypertension
+rs1801253	hypertension
+rs1801253	metabolic syndrome
+rs1801260	insomnia
+rs1801260	obesity
+rs1801265	ovarian carcinoma
+rs1801270	cervical cancer
+rs1801272	nicotine dependence
+rs1801274	AIDs
+rs1801274	asthma
+rs1801274	atopy
+rs1801274	complement component
+rs1801274	dengue fever
+rs1801274	diabetes
+rs1801274	gastric cancer
+rs1801274	Interleukin
+rs1801274	Kawasaki disease
+rs1801274	lymphoma
+rs1801274	periodontitis
+rs1801274	systemic lupus erythematosus
+rs1801274	thrombocytopenic purpura
+rs1801275	breast cancer
+rs1801275	glioma
+rs1801275	hypertension
+rs1801275	interleukin
+rs1801275	rheumatoid arthritis
+rs1801278	breast cancer
+rs1801278	colorectal cancer
+rs1801278	metabolic syndrome
+rs1801278	myocardial infarction
+Rs1801278	ovarian cancer
+rs1801282	adiponectin
+rs1801282	atherosclerosis
+rs1801282	body mass index
+rs1801282	breast cancer
+rs1801282	coronary heart disease
+rs1801282	diabetes
+rs1801282	hepatitis C virus
+rs1801282	HIV
+rs1801282	insulin resistance
+rs1801282	menopause
+rs1801282	nephropathy
+rs1801282	obesity
+rs1801282	pancreatic cancer
+rs1801282	plasma glucose
+rs1801282	Rheumatoid Arthritis
+rs1801320	breast cancer
+rs1801368	ovarian cancer
+rs1801394	cervical cancer
+rs1801394	endometriosis
+rs1801394	leukemia
+rs1801394	obesity
+rs1801394	ovarian cancer
+rs1801516	adenocarcinoma
+rs1801516	breast cancer
+rs1801968	dystonia
+rs1802295	diabetes
+rs180349	metabolic syndrome
+rs1805010	asthma
+rs1805010	IgE
+rs1805010	interleukin
+rs1805010	rheumatoid arthritis
+rs1805011	glioma
+rs1805012	glioma
+rs1805015	glioma
+rs1805015	hepatitis B virus
+rs1805015	interleukin
+rs1805015	malaria
+rs1805017	coronary artery disease
+rs1805017	myocardial infarction
+rs1805054	major depressive disorder
+rs1805081	body mass index
+rs1805081	hypertension
+rs1805081	Metabolic Syndrome
+rs1805081	obesity
+rs1805081	Pick disease
+rs1805087	cervical cancer
+rs1805087	cholesterol level
+rs1805087	endometriosis
+rs1805087	lymphoma
+rs1805087	ovarian cancer
+rs1805097	breast cancer
+rs1805127	atrial fibrillation
+rs1805134	Spina bifida
+rs180515	multiple sclerosis
+rs1805329	hair
+rs1805377	hair
+rs1805388	glioma
+rs1805404	breast cancer
+rs1805414	breast cancer
+rs1805794	bladder cancer
+rs1805794	breast cancer
+rs1805794	gastric cancer
+rs1805794	lung cancer
+rs1805794	meningioma
+rs1805794	prostate cancer
+rs180743	obesity
+rs1808593	encephalopathy
+rs181206	esophageal cancer
+rs1816	dementia
+rs1820453	breast cancer
+rs1820453	gene expression
+rs1820453	lung cancer
+rs182052	adiponectin
+rs182052	myocardial infarction
+rs182052	renal cell carcinoma
+rs182052	stroke
+rs1828591	COPD
+rs1828591	pulmonary disease
+rs1834306	cervical cancer
+rs1835740	migraine
+rs184003	diabetes
+rs184003	nephropathy
+rs1844925	breast cancer
+rs185070757	breast cancer
+rs1856057	obesity
+rs1858830	autism
+rs1858830	gene expression
+rs1858973	obesity
+rs1859430	Asthma
+rs1861972	Autism
+rs1862162	endometrial cancer
+rs1862513	atherosclerosis
+rs1862513	diabetes
+rs1862513	rheumatoid arthritis
+rs1863800	autoimmune disease
+rs1864112	breast cancer
+rs1864169	diabetes
+rs1864169	hypertension
+rs1864169	obesity
+rs1864169	stroke
+rs1867226	hypertension
+rs1867277	thyroid cancer
+rs187084	cervical cancer
+rs187084	rheumatoid arthritis
+rs1871042	asthma
+rs1871054	osteoarthritis susceptibility
+rs1872387	asthma
+rs187269	schizophrenia
+rs1877455	autism
+rs1878406	atherosclerosis
+rs1878406	coronary artery disease
+rs1881084	autism
+rs188140481	prostate cancer
+rs1881457	atopy
+rs1881457	lung cancer
+rs1881457	malaria
+rs1882095	diabetes
+rs1883025	diabetes
+rs1883633	prostate cancer
+rs1883832	atherosclerosis
+rs1883832	body mass index
+rs1883832	coronary artery disease
+rs1883832	lymphoma
+rs1883832	menopause
+rs1883832	osteoporosis
+rs1883965	adenocarcinoma
+rs1883965	gastric cancer
+rs1884049	dementia
+rs1884052	osteoporosis
+rs1884613	body mass index
+rs1884613	diabetes
+rs1884613	insulin resistance
+rs1884613	metabolic syndrome
+rs1884614	body mass index
+rs1884614	diabetes
+rs1884614	insulin resistance
+rs1884614	metabolic syndrome
+rs1885088	diabetes
+rs1885088	metabolic syndrome
+rs1886970	myopia
+rs188703	gastric cancer
+rs189037	ataxia
+rs189037	coronary artery disease
+rs189037	diabetes
+rs189037	lung cancer
+rs189037	telangiectasia
+rs1891467	sarcoidosis
+rs1893352	interleukin
+rs1893352	tuberculosis
+rs1898830	lung disease
+rs1901440	neutropenia
+rs1917799	gastric cancer
+rs1919314	colorectal cancer
+rs1920116	glioma
+rs1920792	diabetes
+rs1926447	body mass index
+rs1926447	hypertension
+rs1926447	menopause
+rs1926723	body mass index
+rs1926723	diabetes
+rs1926736	leprosy
+rs1927911	allergic rhinitis
+rs1927911	asthma
+rs1927911	cerebral infarction
+rs1927911	interleukin
+rs1934179	hypospadias
+rs193466	breast cancer
+rs1934951	anemia
+rs1934951	multiple myeloma
+rs1934951	neuropathy
+rs193779	breast cancer
+rs1938526	memory
+rs1941404	schizophrenia
+rs1943226	obesity
+rs1946518	breast cancer
+rs1946518	tuberculosis
+rs1946519	cervical cancer
+rs1946519	interleukin
+rs1948	lung cancer
+rs1948	Nicotine Dependence
+rs1950902	migraine
+rs1950902	ovarian carcinoma
+rs1970764	lung cancer
+rs1974201	insulin resistance
+rs1978331	asthma
+rs1978331	prostate cancer
+rs1979572	migraine
+rs1982073	asthma
+rs1982073	breast cancer
+rs1982073	gene expression
+rs1982073	obesity
+rs1982151	colorectal cancer
+rs198358	hypertension
+rs198388	hyperlipidemia
+rs1983891	prostate cancer
+rs198389	hyperlipidemia
+rs1984112	hypercholesterolemia
+rs198977	prostate cancer
+rs1989969	diabetes
+rs1990622	Alzheimer disease
+rs1990622	frontotemporal lobar degeneration
+rs1990760	diabetes
+rs1990760	melanoma
+rs1990760	rheumatoid arthritis
+rs1990760	systemic lupus erythematosus
+rs1991401	breast cancer
+rs1994198	prostate cancer
+rs1996656	ovarian cancer
+rs1997679	schizophrenia
+rs2000813	diabetes
+rs2002064	birth weight
+rs2004640	pulmonary fibrosis
+rs2004640	rheumatoid arthritis
+rs2004640	systemic lupus erythematosus
+rs2004776	hypertension
+rs2005171	diabetes
+rs2005172	diabetes
+rs200820567	systemic lupus erythematosus
+rs200847762	lung cancer
+rs2008591	breast cancer
+rs2008691	osteoporosis
+rs2009658	breast cancer
+rs2009746	COPD
+rs2010750	breast cancer
+rs2010963	colon cancer
+rs2010963	gene expression
+rs2010963	glioblastoma
+rs2010963	glioma
+rs2010963	migraine
+rs2011616	hypertension
+rs2013109	gene expression
+rs2014355	acute insulin response
+rs2014886	asthma
+rs2014886	autoimmune disease
+rs2014886	multiple sclerosis
+rs2016347	breast cancer
+rs2016520	body mass index
+rs2016520	diabetes
+rs2016520	obesity
+rs2018650	autism
+rs2020936	COPD
+rs2021785	diabetes
+rs202680	stroke
+rs2028122	seasonal affective disorder
+rs2028299	diabetes
+rs2031920	bladder cancer
+rs2031920	colorectal cancer
+rs2031920	gastric cancer
+rs2032487	nephropathy
+rs2032582	HIV
+rs2032582	lymphoma
+rs2032582	Ovarian Cancer
+rs2034650	pulmonary fibrosis
+rs2036527	lung cancer
+rs2036527	Nicotine Dependence
+rs2038366	asthma
+rs20417	breast cancer
+rs20417	colorectal cancer
+rs20417	coronary artery disease
+rs20417	esophagitis
+rs20417	glioma
+rs20417	myocardial infarction
+rs20417	stroke
+rs2043055	cardiomyopathy
+rs2043211	atherosclerosis
+rs2043211	coronary artery disease
+rs2043211	diabetes
+rs2043211	hypertension
+rs2043211	inflammatory bowel disease
+rs2043211	interleukin
+rs2043211	Myocardial Infarction
+rs2043211	stroke
+rs2043556	breast cancer
+rs20455	Atherosclerosis
+rs20455	coronary artery disease
+rs20455	coronary heart disease
+rs20455	stroke
+rs2046210	breast cancer
+rs2046210	endometrial cancer
+rs2046934	myocardial infarction
+rs2046934	stroke
+rs2046934	thromboembolism
+rs2048327	hypertension
+rs2049046	migraine
+rs2051579	breast cancer
+rs2052129	migraine
+rs20541	allergic rhinitis
+rs20541	asthma
+rs20541	atopy
+rs20541	COPD
+rs20541	glioma
+rs20541	hepatitis B virus
+rs20541	hepatocellular carcinoma
+rs20541	IgE
+rs20541	interleukin
+rs20541	leukemia
+rs20541	lymphoma
+rs20541	psoriasis
+rs2055314	schizophrenia
+rs2056202	autism
+rs2057482	diabetes
+rs2057482	hypercholesterolemia
+rs2057482	hypertension
+rs2057482	hypertriglyceridemia
+rs2057482	obesity
+rs20575	hepatitis C virus
+rs20576	hepatitis C virus
+rs2057768	adenocarcinoma
+rs2057768	interleukin
+rs20579	lung cancer
+rs20580	lung cancer
+rs20581	lung cancer
+rs2058660	leprosy
+rs2059614	breast cancer
+rs2059806	diabetes
+rs2059806	nephropathy
+rs206530	sarcoidosis
+rs2066702	alcohol dependence
+rs2066713	migraine
+rs2066808	psoriasis
+rs2066827	breast cancer
+rs2066843	inflammatory bowel disease
+rs2066853	breast cancer
+rs2066853	hyperlipidemia
+rs2066865	colorectal cancer
+rs2066865	myocardial infarction
+rs2066865	thrombosis
+rs2066960	COPD
+rs2067980	breast cancer
+rs206936	obesity
+rs2069591	gene expression
+rs2069705	malaria
+rs2069718	malaria
+rs2069727	malaria
+rs2069728	malaria
+rs2069756	interleukin
+rs2069756	schizophrenia
+rs2069762	autoimmune disease
+rs2069762	H. pylori infection
+rs2069762	prostate cancer
+rs2069763	diabetes
+rs2069763	HIV
+rs2069763	interleukin
+rs2069812	lymphoma
+rs2069825	COPD
+rs2069835	interleukin
+rs2069861	breast cancer
+rs2069885	Asthma
+rs2070106	schizophrenia
+rs2070150	diabetes
+rs2070565	schizophrenia
+rs2070584	bladder cancer
+rs2070593	breast cancer
+rs2070600	asthma
+rs2070600	COPD
+rs2070600	diabetes
+rs2070600	lung cancer
+rs2070600	nephropathy
+rs2070673	lymphoma
+rs2070744	birth weight
+rs2070744	bladder cancer
+rs2070744	breast cancer
+rs2070744	encephalopathy
+rs2070744	hypertension
+rs2070744	migraine
+rs2070874	allergic rhinitis
+rs2070874	asthma
+rs2070874	glioma
+rs2070874	Interleukin
+rs2070874	stroke
+rs2070950	hypertension
+rs2071197	epilepsy
+rs2071214	breast cancer
+rs2071348	hemoglobin
+rs2071348	thalassemia
+rs2071375	gene expression
+rs2071375	osteoporosis
+rs2071430	gene expression
+rs2071504	gastric cancer
+rs2071559	coronary artery disease
+rs2071559	diabetes
+rs2071559	hypertension
+rs2071559	myocardial infarction
+rs2071590	atherosclerosis
+rs2071699	aspartate aminotransferase
+rs2071746	atherosclerosis
+rs2071746	stroke
+rs2072134	hypertension
+rs2072446	asthma
+rs2072446	atopy
+rs2072446	HIV
+rs2072450	alcohol dependence
+rs2072472	endometriosis
+rs2072621	Seasonal Affective Disorder
+rs2072633	AIDS
+rs2072895	autoimmune thyroid disease
+rs2072895	diabetes
+rs2073438	obesity
+rs2073440	allergic rhinitis
+rs2073440	asthma
+rs2073618	diabetes
+rs2073658	hepatocellular carcinoma
+rs2073658	hyperlipidemia
+rs2074356	gastric cancer
+rs2074379	hypertriglyceridemia
+rs2074379	interleukin
+rs2074388	hypertriglyceridemia
+rs2074388	interleukin
+rs2074451	breast cancer
+rs2075241	stroke
+rs2075252	hearing loss
+rs2075356	breast cancer
+rs2075533	lung cancer
+rs2075555	breast cancer
+rs2075555	myopia
+rs2075555	osteoporosis
+rs2075555	prostate cancer
+rs2075650	Alzheimer disease
+rs2075650	macular degeneration
+rs2075650	obesity
+rs2075650	vasculopathy
+Rs2075786	colorectal cancer
+rs2075799	schizophrenia
+rs2075800	sarcoidosis
+rs2075876	rheumatoid arthritis
+rs2076530	sarcoidosis
+rs2076756	inflammatory bowel disease
+rs2077647	breast cancer
+rs2077647	prostate cancer
+rs2078371	migraine
+rs2093395	hypertension
+rs2097603	schizophrenia
+rs2104286	interleukin
+rs2104286	multiple sclerosis
+rs2104286	rheumatoid arthritis
+rs2106261	coronary artery disease
+rs2106261	diabetes
+rs2106261	hypertension
+rs2107301	melanoma
+rs2107356	gastric cancer
+rs2107356	Interleukin
+rs2107425	breast cancer
+rs2107538	stroke
+rs2107595	stroke
+rs2108622	stroke
+rs2108622	warfarin sensitivity
+rs211014	seizures
+rs211037	epilepsy
+rs211037	IGE
+rs2110726	interleukin
+rs2111235	H. pylori infection
+rs2111902	schizophrenia
+rs2114039	adenocarcinoma
+rs2114724	Schizophrenia
+rs2116519	body mass index
+rs2116519	hypertension
+rs2116830	obesity
+rs2118181	aneurysm
+rs2118181	hypertension
+rs2119882	insomnia
+rs2119882	insulin resistance
+rs2119882	plasma glucose
+rs2119882	schizophrenia
+rs2120825	menopause
+rs212528	atherosclerosis
+rs212528	hypertension
+rs2125489	sarcoidosis
+rs213045	atherosclerosis
+rs213045	hypertension
+rs2131190	migraine
+rs2131877	lung cancer
+rs2134808	breast cancer
+rs2138533	hemorrhage
+rs2138533	stroke
+rs2139733	stroke
+rs2142731	schizophrenia
+rs2143678	stroke
+rs2144300	coronary artery disease
+rs2144300	hypertension
+rs2144908	Atherosclerosis
+rs2144908	diabetes
+rs2144908	Insulin Resistance
+rs2144908	metabolic syndrome
+rs2146323	asthma
+rs2146727	diabetes
+rs2151280	squamous cell carcinoma
+rs2153271	hair
+rs2155219	dermatitis
+rs2157719	exfoliation syndrome
+rs2157719	glaucoma
+rs216250	schizophrenia
+rs216489	glaucoma
+rs2165241	cataract
+rs2165241	exfoliation syndrome
+rs2165241	glaucoma
+rs2166975	cleft palate
+rs2167270	atherosclerosis
+rs2167270	colon cancer
+rs2167270	colorectal cancer
+rs2167270	lymphoma
+rs2167270	menarche
+rs2167270	menopause
+rs2167270	rheumatoid arthritis
+rs2171492	prostate cancer
+rs2172362	gastric cancer
+rs2179922	memory
+rs2180341	breast cancer
+rs2187668	nephropathy
+rs2188380	diabetes
+rs2188380	gout
+rs2189480	osteoporosis
+rs2189814	memory
+rs2189814	schizophrenia
+rs2195239	diabetes
+rs219780	bone mineral density
+rs219780	hyperparathyroidism
+rs2201841	interleukin
+rs2201841	psoriasis
+rs220599	memory
+rs220599	schizophrenia
+rs2206734	pancreatic cancer
+rs220721	obesity
+rs2208532	prostate cancer
+rs2209972	body mass index
+rs2209972	insulin resistance
+rs2221903	IgE
+rs2227098	schizophrenia
+rs2227281	autism
+rs2227283	autism
+rs2227284	allergic rhinitis
+rs2227284	asthma
+rs2227307	lymphoma
+rs2227310	lung cancer
+rs222741	migraine
+rs2227667	multiple myeloma
+rs2227721	thrombosis
+rs2227744	COPD
+rs2227744	gene expression
+rs2227744	pulmonary disease
+rs2227956	interleukin
+rs2227956	leukemia
+rs2227956	schizophrenia
+rs2227998	breast cancer
+rs2228000	breast cancer
+rs2228000	lung cancer
+rs2228001	breast cancer
+rs2228048	leprosy
+rs2228054	stroke
+rs2228064	hemorrhage
+rs2228064	stroke
+rs2228145	aneurysm
+rs2228145	asthma
+rs2228145	atrial fibrillation
+rs2228145	coronary artery disease
+rs2228145	coronary heart disease
+rs2228145	C-reactive protein
+rs2228145	diabetes
+rs2228145	Interleukin
+rs2228145	metabolic syndrome
+rs2228145	rheumatoid arthritis
+rs2228224	neuropathy
+rs2228226	glioma
+rs2228262	coronary artery disease
+rs2228262	myocardial infarction
+rs2228314	fatty liver
+rs2228314	myocardial infarction
+rs2228315	stroke
+rs2228480	Breast cancer
+rs2228480	pelvic organ prolapse
+rs2228480	prostate cancer
+rs2228526	prostate cancer
+rs2228561	diabetes
+rs2228570	asthma
+rs2228570	bone mineral density
+rs2228570	breast cancer
+rs2228570	diabetes
+rs2228570	hypertension
+rs2228570	interleukin
+rs2228570	osteoporosis
+rs2228570	ovarian cancer
+rs2228570	ovarian carcinoma
+rs2228576	amyotrophic lateral sclerosis
+rs2228603	cirrhosis
+rs2228603	hepatitis C virus
+rs2228611	Schizophrenia
+rs2228612	esophageal cancer
+rs2228622	obsessive-compulsive disorder
+rs2228671	coronary artery disease
+rs2229094	body mass index
+rs2229094	diabetes
+rs2229094	insulin resistance
+rs2229094	interleukin
+rs2229094	metabolic syndrome
+rs2229116	atherosclerosis
+rs2229116	HIV
+rs2229116	stroke
+rs2229238	atherosclerosis
+rs2229238	C-reactive protein
+rs2229238	interleukin
+rs2229238	obesity
+rs2229416	hypertriglyceridemia
+rs2229422	diabetes
+rs2229422	obesity
+rs2229425	obesity
+rs2229569	diabetes
+rs2229569	graft-versus-host disease
+rs2229616	body mass index
+rs2229616	obesity
+rs2229616	stroke
+rs2229944	epilepsy
+rs2229992	breast cancer
+rs2230009	breast cancer
+rs2230009	colorectal cancer
+rs2230061	lean body mass
+rs2230500	hemorrhage
+rs2230500	hypertension
+rs2230500	stroke
+rs2230739	major depressive disorder
+rs2230804	atopy
+rs2230805	Alzheimer disease
+rs2230805	dementia
+rs2230806	atherosclerosis
+rs2230806	coronary artery disease
+rs2230912	unipolar depression
+rs2230926	rheumatoid arthritis
+rs2231137	gout
+rs2231142	gout
+rs2231142	hyperuricemia
+rs2231142	leukemia
+rs2232618	interleukin
+rs2233406	asthma
+rs2233406	breast cancer
+rs2233407	asthma
+rs2233407	gene expression
+rs2233409	asthma
+rs2233434	rheumatoid arthritis
+rs22334693	memory
+rs2233678	breast cancer
+rs2233678	squamous cell carcinoma
+rs2233679	breast cancer
+rs2233682	breast cancer
+rs2233789	myopia
+rs2234248	glioblastoma
+rs2234248	glioma
+rs2234650	HIV
+rs2234663	COPD
+rs2234663	interleukin
+rs2234663	pulmonary function
+rs2234671	cirrhosis
+rs2234678	asthma
+rs2234678	interleukin
+rs2234693	breast cancer
+rs2234693	coronary heart disease
+rs2234693	dementia
+rs2234693	endometriosis
+rs2234693	HIV
+rs2234693	lipodystrophy
+rs2234693	major depressive disorder
+rs2234693	metabolic syndrome
+rs2234693	migraine
+rs2234693	myocardial infarction
+rs2234693	phobia
+rs2234693	premature ovarian failure
+rs2234711	malaria
+rs2234714	gene expression
+rs2234767	squamous cell carcinoma
+rs2234922	adenomas
+rs2234922	lymphoma
+rs2235076	autism
+rs2235371	cleft palate
+rs2236225	cervical cancer
+rs2236225	cleft palate
+rs2236225	endometriosis
+rs2236225	migraine
+rs2236225	ovarian cancer
+rs2237892	body mass index
+rs2237892	diabetes
+rs2237892	insulin resistance
+rs2237892	obesity
+rs2237895	diabetes
+rs2237895	pancreatic cancer
+rs2237895	plasma glucose
+rs2237897	diabetes
+rs2238135	diabetes
+rs2238631	asthma
+rs2238632	asthma
+rs2238633	asthma
+rs2238634	asthma
+rs2239179	body mass index
+rs2239179	C-reactive protein
+rs2239179	diabetes
+rs2239179	obesity
+rs2239185	asthma
+rs2239185	obesity
+rs2239464	schizophrenia
+rs2239633	leukemia
+rs2239704	lymphoma
+rs2240308	lung cancer
+rs2240308	ovarian cancer
+rs2240340	rheumatoid arthritis
+rs2241220	hypercholesterolemia
+rs2241220	hypertriglyceridemia
+rs2241423	obesity
+rs2241704	COPD
+rs2241718	COPD
+rs2241718	lung disease
+rs2241766	adiponectin
+rs2241766	colorectal cancer
+rs2241766	diabetes
+rs2241766	insulin resistance
+rs2241766	myocardial infarction
+rs2241766	nephropathy
+rs2241766	obesity
+rs2241766	stroke
+rs2241880	interleukin
+rs2241880	obesity
+rs2242400	diabetes
+rs2242578	neuropathy
+rs2242652	breast cancer
+rs2242652	melanoma
+rs2242652	telomere length
+rs2243115	esophageal cancer
+rs2243115	hepatocellular carcinoma
+rs2243115	interleukin
+rs2243115	osteosarcoma
+rs2243188	interleukin
+rs2243248	glioma
+rs2243248	interleukin
+rs2243250	allergic rhinitis
+rs2243250	asthma
+rs2243250	breast cancer
+rs2243250	diabetes
+rs2243250	glioma
+rs2243250	IgE
+rs2243250	interleukin
+rs2243250	malaria
+rs2243250	rheumatoid arthritis
+rs2243250	stroke
+rs2243250	systemic lupus erythematosus
+rs2243268	tuberculosis
+rs2243274	tuberculosis
+rs2243639	COPD
+rs2243639	interleukin
+rs2243639	pulmonary function
+rs2243828	colon cancer
+rs2244012	asthma
+rs2244613	neutropenia
+rs2245121	COPD
+rs2245532	schizophrenia
+rs2246614	lupus nephritis
+rs2246942	coronary heart disease
+rs2248137	thyroid carcinoma
+rs2248690	atherosclerosis
+rs2248949	diabetes
+rs2250747	COPD
+rs2250889	coronary artery disease
+rs2250889	glaucoma
+rs2251746	IgE
+rs2252586	glioma
+rs2253319	prostate cancer
+rs2253388	insulin resistance
+rs2253478	schizophrenia
+rs2254002	breast cancer
+rs2254137	Major Depressive Disorder
+rs2254298	autism
+rs2254298	major depressive disorder
+rs2256111	stroke
+rs2259816	coronary artery disease
+rs2259816	C-reactive protein
+rs2259816	Hypertriglyceridemia
+rs2259820	diabetes
+rs2259820	hypertension
+rs2259820	Hypertriglyceridemia
+rs2260000	body mass index
+rs2260000	diabetes
+rs2267337	breast cancer
+rs2267437	breast cancer
+rs2267437	hepatocellular carcinoma
+rs2267437	renal cell carcinoma
+rs2267664	diabetes
+rs2267665	diabetes
+rs2267668	diabetes
+rs2268277	rheumatoid arthritis
+rs2268388	diabetes
+Rs2268388	end-stage renal disease
+rs2268388	nephropathy
+rs2268388	proteinuria
+rs2268578	pancreatic cancer
+rs2269067	interleukin
+rs2269336	myopia
+rs2269368	schizophrenia
+rs2269383	metabolic syndrome
+rs2269426	eosinophilia
+rs2269655	alcohol dependence
+rs2270628	ovarian cancer
+rs2272382	obesity
+rs2272400	schizophrenia
+rs2272522	schizophrenia
+rs2273061	osteoporosis
+rs2273206	breast cancer
+rs2273206	prostate cancer
+rs2273535	breast cancer
+rs2273697	epilepsy
+rs2273802	breast cancer
+rs2273953	lung cancer
+rs2274223	adenocarcinoma
+rs2274223	esophageal cancer
+rs2274223	esophageal carcinoma
+rs2274223	gastric cancer
+rs2274223	squamous cell carcinoma
+rs2274316	migraine
+rs2274567	malaria
+rs2274700	hypertension
+rs2274700	macular degeneration
+rs2274755	myopia
+rs2274907	obesity
+rs2274908	obesity
+rs2274911	prostate cancer
+rs2274976	cleft palate
+rs2275008	gastric cancer
+rs2275703	diabetes
+rs2275913	asthma
+rs2275913	bladder cancer
+rs2275913	colorectal cancer
+rs2275913	graft-versus-host disease
+rs2275913	IgE
+rs2275913	interleukin
+rs2275913	ovarian cancer
+rs2275913	periodontitis
+rs2275913	tuberculosis
+rs2276047	diabetes
+rs2276047	metabolic syndrome
+rs2276048	diabetes
+rs2276048	metabolic syndrome
+rs2276109	aneurysm
+rs2276109	asthma
+rs2276109	bladder cancer
+rs2276109	pulmonary fibrosis
+rs2276465	gastric cancer
+rs2276466	colorectal cancer
+rs2276466	xeroderma pigmentosum
+rs2277438	periodontitis
+rs2277460	asthma
+rs2277499	schizophrenia
+rs2277798	hematuria
+rs2277998	HIV
+rs2278493	premature ovarian failure
+rs2278749	breast cancer
+rs2279020	epilepsy
+rs2279115	gastric cancer
+rs2279115	lung cancer
+rs2279238	diabetes
+rs2279744	adenocarcinoma
+rs2279744	endometrial cancer
+rs2279744	gastric cancer
+rs2279744	hepatocellular carcinoma
+rs2279744	leukemia
+rs2279744	lung cancer
+rs2279744	neutropenia
+rs2280714	systemic lupus erythematosus
+rs2281082	breast cancer
+rs2282679	colon cancer
+rs2282679	hemochromatosis
+rs2283228	diabetes
+rs2283265	schizophrenia
+rs2283725	gout
+rs2284033	asthma
+rs2284378	breast cancer
+rs2284659	breast cancer
+rs2284659	myocardial infarction
+rs2285053	coronary artery disease
+rs228614	multiple sclerosis
+rs2287161	seasonal affective disorder
+rs2287497	ovarian cancer
+rs2287498	ovarian cancer
+rs2287499	breast cancer
+rs2289086	schizophrenia
+rs2289205	endometriosis
+rs2289277	gene expression
+rs2289277	hypertension
+rs2289277	obesity
+rs2289591	glioma
+rs2289591	prostate cancer
+rs2289669	diabetes
+rs2289708	schizophrenia
+rs2289917	cataract
+rs2289954	schizophrenia
+rs2290035	breast cancer
+rs2290203	breast cancer
+rs2290400	asthma
+rs2290430	epilepsy
+rs2291281	autoimmune thyroid disease
+rs2291282	autoimmune thyroid disease
+rs2291726	metabolic syndrome
+rs2291855	asthma
+Rs2292462	obesity
+rs2292813	autism
+rs2292832	breast cancer
+rs2292832	end-stage renal disease
+rs2292832	gastric cancer
+rs2292832	hepatocellular carcinoma
+rs2292832	lung cancer
+rs2292912	prostate cancer
+rs2293050	stroke
+rs2293152	autoimmune thyroid disease
+rs2293152	gastric cancer
+rs2293157	glioblastoma
+rs2293157	glioma
+rs2293855	diabetes
+rs2293855	insulin resistance
+rs2293855	metabolic syndrome
+rs2293855	obesity
+rs2294008	adenocarcinoma
+rs2294008	bladder cancer
+rs2294008	gastric cancer
+rs2294008	H. pylori infection
+rs2294020	alopecia
+rs2294020	gene expression
+rs2294757	hypertension
+rs2295080	gastric cancer
+rs2295080	leukemia
+rs2295190	ovarian cancer
+rs2295490	myocardial infarction
+rs2295632	obesity
+rs2295633	obesity
+rs2295778	adenocarcinoma
+rs2295814	schizophrenia
+rs2295826	asthma
+rs2295827	asthma
+rs2296135	breast cancer
+rs2296147	prostate cancer
+rs229614	prostate cancer
+rs2296160	malaria
+rs2296188	adenocarcinoma
+rs2296239	obesity
+rs2296241	breast cancer
+rs2296241	thyroid carcinoma
+rs2296283	Sarcoidosis
+rs2296545	hypertension
+rs2296793	dystonia
+rs2297339	thalassemia
+rs2297381	breast cancer
+rs2297440	glioblastoma
+rs2297488	schizophrenia
+rs2297508	coronary heart disease
+rs2297518	colon cancer
+rs2297518	gastric cancer
+rs2297518	H. pylori infection
+rs2297518	migraine
+rs2297660	memory
+rs2297660	schizophrenia
+rs2298566	Atherosclerosis
+rs2298566	coronary heart disease
+rs2298771	epilepsy
+rs2298771	seizures
+rs2298849	interleukin
+rs2298881	colorectal cancer
+rs2298881	lung cancer
+rs2298881	prostate cancer
+rs2298881	xeroderma pigmentosum
+rs2299869	diabetes
+rs230119	stroke
+rs2301228	schizophrenia
+rs2301241	breast cancer
+rs2301339	hypertension
+rs2301339	myocardial infarction
+rs2301339	stroke
+rs2302254	endometrial cancer
+rs23022685	stroke
+rs2302313	colon cancer
+rs2302685	stroke
+rs230310	gastric cancer
+rs2303138	psoriasis
+rs2303425	lung cancer
+rs2304204	colon cancer
+rs2304240	lymphoma
+rs2304256	multiple sclerosis
+rs2304256	systemic lupus erythematosus
+rs2304277	breast cancer
+rs2304277	ovarian cancer
+rs2304595	hypertension
+rs2304672	obesity
+rs2304725	schizophrenia
+rs2304796	diabetes
+rs2304796	obesity
+rs23051560	breast cancer
+rs2305480	asthma
+rs2305482	hepatitis C virus
+rs2305482	neutropenia
+rs2305619	pulmonary fibrosis
+rs2305764	celiac disease
+rs2305764	Down syndrome
+rs2305767	celiac disease
+rs2305795	narcolepsy
+rs2305948	coronary artery disease
+rs2305948	diabetes
+rs2305948	myocardial infarction
+rs2305949	hypertension
+rs2306033	osteoporosis
+rs2306073	phobia
+rs2306074	Alzheimer disease
+rs2306074	breast cancer
+rs2306677	amyotrophic lateral sclerosis
+rs2306819	obesity
+rs2307424	HIV
+rs2308237	colorectal cancer
+rs2308321	hair
+rs2308327	hair
+rs2308327	lung cancer
+rs2308765	hypertension
+rs231362	diabetes
+rs2314339	seasonal affective disorder
+rs231775	asthma
+rs231775	autoimmune disease
+rs231775	IgE
+rs231775	osteosarcoma
+rs2332897	colon cancer
+rs2333227	C-reactive protein
+rs2333227	interleukin
+rs2333227	lung cancer
+rs2335491	diabetes
+rs2337107	colorectal cancer
+rs2346061	nephropathy
+rs234709	lung cancer
+rs234715	autism
+rs2348071	asthma
+rs2351791	myocardial infarction
+rs2352028	adenocarcinoma
+rs2352028	lung cancer
+rs2353397	COPD
+rs2356606	memory
+rs235756	anemia
+rs2359612	coronary heart disease
+rs2359612	stroke
+rs236114	menopause
+rs2363956	breast cancer
+rs236918	cirrhosis
+rs236918	insulin resistance
+rs2373115	Alzheimer disease
+rs2380205	breast cancer
+rs2381289	allergic rhinitis
+rs2381289	asthma
+rs2383206	coronary artery disease
+rs2383206	diabetes
+rs2383206	myocardial infarction
+rs2383207	myocardial infarction
+rs2383207	stroke
+rs238415	lung cancer
+rs2384628	diabetes
+rs2387084	prostate cancer
+rs2388639	Asthma
+rs2391191	schizophrenia
+rs2392510	periodontitis
+rs2393791	diabetes
+rs2393791	hypertension
+rs2393791	Hypertriglyceridemia
+rs2395029	HIV
+rs2395185	asthma
+rs2395185	body mass index
+rs2395655	cervical cancer
+rs2395	breast cancer
+rs2396753	schizophrenia
+rs2397084	asthma
+rs2410373	breast cancer
+rs2410373	prostate cancer
+rs2412522	hemoglobin
+rs2413739	leukemia
+rs2414096	hyperandrogenism
+rs2414096	polycystic ovary syndrome
+rs2416257	eosinophilia
+rs2424932	schizophrenia
+rs242557	diabetes
+rs242557	supranuclear palsy
+rs242557	systemic lupus erythematosus
+rs2426618	breast cancer
+rs242941	major depressive disorder
+rs243021	pancreatic cancer
+rs2430561	asthma
+rs2430561	breast cancer
+rs2430561	hepatocellular carcinoma
+rs2430561	interleukin
+rs2430561	leprosy
+rs2430561	malaria
+rs2430561	schizophrenia
+rs2430561	tuberculosis
+rs2431238	body mass index
+rs2431238	pancreatic cancer
+rs2431697	systemic lupus erythematosus
+rs2435357	Hirschsprung disease
+rs243865	bladder cancer
+rs243865	rheumatoid arthritis
+rs2439302	thyroid cancer
+rs2440915	lung cancer
+rs2454206	diabetes
+rs2454873	osteoporosis
+rs2457576	hypertension
+rs2464196	C-reactive protein
+rs2464196	diabetes
+rs2464196	hypertension
+rs2464196	Hypertriglyceridemia
+rs2466571	lymphoma
+rs2470152	hyperandrogenism
+rs2470152	polycystic ovary syndrome
+rs2470893	breast cancer
+rs2472493	glaucoma
+rs2476601	autoimmune thyroid disease
+rs2476601	diabetes
+rs2476601	myasthenia
+rs2476601	psoriasis
+rs2476601	rheumatoid arthritis
+rs2476601	systemic lupus erythematosus
+rs2476601	tuberculosis
+rs2479106	adenocarcinoma
+rs2479106	endometrial carcinoma
+rs2479106	polycystic ovary syndrome
+rs2480256	gastric cancer
+rs2486253	epilepsy
+rs2486253	seizures
+rs2487453	memory
+rs248793	alcohol dependence
+rs2488457	myasthenia
+rs2493132	hypertension
+rs2494250	C-reactive protein
+rs2495636	asthma
+rs2495636	IgE
+rs2498801	endometrial cancer
+rs2499953	plasma glucose
+rs250108	breast cancer
+rs2509049	lymphoma
+rs2511989	macular degeneration
+rs2514259	carpal tunnel syndrome
+rs2514259	diabetes
+rs2514259	hypercholesterolemia
+rs2514259	hypertension
+rs2514259	nephropathy
+rs2514259	neuropathy
+rs2514259	obesity
+rs2516448	cervical cancer
+rs2516839	coronary artery disease
+rs2518136	atherosclerosis
+rs2518824	intelligence
+rs2518824	schizophrenia
+rs2518824	velocardiofacial syndrome
+rs2519152	schizophrenia
+rs2522137	lung cancer
+rs2522137	pulmonary disease
+rs2522137	tuberculosis
+rs2522833	major depressive disorder
+rs2522833	memory
+rs2522833	unipolar depression
+rs2523924	asthma
+rs2526246	metabolic syndrome
+rs2536	gastric cancer
+rs2536	leukemia
+rs2540317	diabetes
+rs25406	meningioma
+rs2542151	diabetes
+rs2542151	rheumatoid arthritis
+rs25486	breast cancer
+rs25487	breast cancer
+rs25487	cervical cancer
+rs25487	cirrhosis
+rs25487	colorectal cancer
+rs25487	coronary artery disease
+rs25487	glioblastoma
+rs25487	glioma
+rs25487	hypertension
+rs25487	lung cancer
+rs25487	melanoma
+rs25487	pancreatic cancer
+rs25487	systemic lupus erythematosus
+rs25487	xeroderma pigmentosum
+rs25489	breast cancer
+rs25489	glioma
+rs25489	lung cancer
+rs25489	melanoma
+rs255163	major depressive disorder
+rs2551922	Major Depressive Disorder
+rs25531	autism
+rs25531	diabetes
+rs25531	major depressive disorder
+rs25532	gene expression
+rs2555639	colon cancer
+rs25648	acetylation
+rs25648	bladder cancer
+rs2566	cervical cancer
+rs2568958	obesity
+rs2569190	asthma
+rs2569190	IgE
+rs2569191	Asthma
+rs2569191	atopy
+rs2569192	atopy
+rs2569512	diabetes
+rs2569512	hypertension
+rs2569512	hypertriglyceridemia
+rs2569512	interleukin
+rs2569512	myocardial infarction
+rs2576178	hypertension
+rs2580520	breast cancer
+rs2588809	breast cancer
+rs2596542	cirrhosis
+rs2596542	hepatitis B virus
+rs2596542	hepatitis C virus
+rs2596542	hepatocellular carcinoma
+rs2603751	schizophrenia
+rs2604204	body mass index
+rs2604204	hypertension
+rs2604894	COPD
+rs2605100	obesity
+rs2619112	body mass index
+rs2621416	lymphoma
+rs2622590	thyroid carcinoma
+rs2645424	body mass index
+rs2645424	diabetes
+rs2645424	hemoglobin
+rs2645424	insulin resistance
+rs2647012	lymphoma
+rs2648862	diabetes
+rs2650000	diabetes
+rs2651899	migraine
+rs2658161	lung cancer
+rs2659056	prostate cancer
+rs2660	infections
+rs2660	prostate cancer
+rs2664155	prostate cancer
+rs2665582	prostate cancer
+rs266729	adiponectin
+rs266729	atherosclerosis
+rs266729	colon cancer
+rs266729	diabetes
+rs266729	metabolic syndrome
+rs266729	myocardial infarction
+rs266729	obesity
+rs266729	renal cell carcinoma
+rs266729	rheumatoid arthritis
+rs266729	stroke
+rs266849	prostate cancer
+rs2669845	complement component
+rs2669845	obesity
+rs2670660	prostate cancer
+rs2671222	diabetes
+rs2673142	Atherosclerosis
+rs267734	diabetes
+rs26802	obesity
+rs2682818	breast cancer
+rs26865	gastric cancer
+rs2699887	endometrial cancer
+rs2701124	schizophrenia
+rs2706347	asthma
+rs2708861	ovarian cancer
+rs2709800	H. pylori infection
+rs2710102	autism
+rs2710102	specific language impairment
+rs271924	menopause
+rs271939	diabetes
+rs271939	obesity
+rs2721051	keratoconus
+rs2725338	cataract
+rs2725338	cataracts
+rs2725362	colorectal cancer
+rs2725383	cataract
+rs2725383	cataracts
+rs2727943	alcohol dependence
+rs272879	inflammatory bowel disease
+rs2731880	schizophrenia
+rs273259	seizures
+rs2734647	schizophrenia
+rs2735059	autoimmune thyroid disease
+rs2735059	diabetes
+rs2735839	prostate cancer
+rs2736098	adenocarcinoma
+rs2736098	bladder cancer
+rs2736098	glioblastoma
+rs2736098	glioma
+rs2736098	hepatocellular carcinoma
+rs2736098	lung cancer
+rs2736098	prostate cancer
+rs2736098	squamous cell carcinoma
+rs2736100	adenocarcinoma
+rs2736100	atherosclerosis
+rs2736100	bilirubin
+rs2736100	bladder cancer
+rs2736100	breast cancer
+rs2736100	coronary heart disease
+rs2736100	glioblastoma
+rs2736100	glioma
+rs2736100	lung cancer
+rs2736100	nicotine dependence
+rs2736100	prostate cancer
+rs2736100	stroke
+rs2736100	telomere length
+rs2736108	breast cancer
+rs2736109	breast cancer
+rs2736118	colon cancer
+rs2736122	coronary heart disease
+rs2736122	stroke
+rs2736158	squamous cell carcinoma
+rs2736340	diabetes
+rs2736340	multiple sclerosis
+rs2736340	systemic lupus erythematosus
+rs2736654	diabetes
+rs2736911	macular degeneration
+rs2737713	myasthenia
+rs2737713	rheumatoid arthritis
+rs2737	colon cancer
+rs2737	colorectal cancer
+rs2738169	gastric cancer
+rs2740574	hypertension
+rs2741354	lung cancer
+rs2744148	multiple sclerosis
+rs2747648	breast cancer
+rs27524	psoriasis
+rs2754511	glaucoma
+rs275645	hypertension
+rs2758330	prostate cancer
+rs2762051	AIDS
+rs2762051	Celiac disease
+rs2762051	inflammatory bowel disease
+rs2762051	nephropathy
+rs2769605	major depressive disorder
+rs2779249	migraine
+rs2780885	asthma
+rs2780890	breast cancer
+rs2780895	asthma
+rs2781666	myocardial infarction
+rs2781667	myocardial infarction
+rs2781668	myocardial infarction
+rs2786098	asthma
+rs2787487	breast cancer
+rs2790	breast cancer
+rs2793094	memory
+rs2794520	C-reactive protein
+rs2794520	interleukin
+rs2794520	lung cancer
+rs2794521	stroke
+rs2796749	obesity
+rs279858	alcohol dependence
+rs279871	alcohol dependence
+rs2802292	longevity
+rs280519	breast cancer
+rs2808629	C-reactive protein
+rs2808629	diabetes
+rs2808630	COPD
+rs2808667	endometrial cancer
+rs2811712	hyperlipidemia
+rs2813544	HIV
+rs2813544	lipodystrophy
+rs2813544	metabolic syndrome
+rs281439	breast cancer
+rs2814707	amyotrophic lateral sclerosis
+rs2815272	hypertension
+rs2815752	obesity
+rs2817399	patent ductus arteriosus
+rs28305	diabetes
+rs2834167	stroke
+rs2835267	lung cancer
+rs28357094	muscular dystrophy
+rs28358887	obesity
+rs28362491	breast cancer
+rs28362491	H. pylori infection
+rs28363312	breast cancer
+rs28366003	breast cancer
+rs28366003	menarche
+rs283720	breast cancer
+rs28383487	major depressive disorder
+rs2838513	thalassemia
+rs28399433	nicotine dependence
+rs2842958	prostate cancer
+rs2844479	Metabolic Syndrome
+rs2844479	obesity
+rs2844484	asthma
+rs2844573	hypersensitivity syndrome
+rs2844573	leprosy
+rs284489	exfoliation syndrome
+rs284489	glaucoma
+rs28451617	glucocorticoid resistance
+rs28493229	aneurysm
+rs28493229	Kawasaki disease
+rs2850328	breast cancer
+rs2853559	diabetes
+rs2853668	colon cancer
+rs2853668	coronary heart disease
+rs2853668	stroke
+rs2853669	breast cancer
+rs2853669	prostate cancer
+rs2853676	adenocarcinoma
+rs2853676	glioma
+rs2853676	lung cancer
+rs2853676	melanoma
+rs2853676	nicotine dependence
+rs2853676	squamous cell carcinoma
+rs2853677	breast cancer
+rs2853707	complement component
+rs2853707	obesity
+rs2854116	body mass index
+rs2854116	fatty liver
+rs2854117	body mass index
+rs2854117	fatty liver
+rs2854344	ovarian cancer
+rs2854482	breast cancer
+rs2854744	adiponectin
+rs2854744	colon cancer
+rs2854744	ovarian cancer
+rs2854746	ovarian cancer
+rs2855192	ovarian cancer
+rs2856718	hepatitis B virus
+rs2856718	hepatitis C virus
+rs2856718	hepatocellular carcinoma
+rs2856718	interleukin
+rs2857461	sarcoma
+rs2857461	Wilms tumor
+rs2857656	stroke
+rs2858056	rheumatoid arthritis
+rs2858881	psoriasis
+rs2858996	hemochromatosis
+rs28665122	asthma
+rs28665122	dermatitis
+rs2867125	obesity
+rs2872507	asthma
+rs2872507	gene expression
+rs2872507	rheumatoid arthritis
+rs28757218	schizophrenia
+rs28777	hair
+rs2881766	breast cancer
+rs2895680	lung cancer
+rs2895811	atherosclerosis
+rs2896218	autism
+rs29001322	osteosarcoma
+rs290481	diabetes
+rs290487	body mass index
+rs290487	diabetes
+rs2908007	longevity
+rs2908007	osteoporosis
+rs2910164	asthma
+rs2910164	atherosclerosis
+rs2910164	bladder cancer
+rs2910164	body mass index
+rs2910164	breast cancer
+rs2910164	colorectal cancer
+rs2910164	diabetes
+rs2910164	end-stage renal disease
+rs2910164	esophageal cancer
+rs2910164	gastric cancer
+rs2910164	hepatocellular cancer
+rs2910164	hepatocellular carcinoma
+rs2910164	hypertension
+rs2910164	inflammatory bowel disease
+rs2910164	leukemia
+rs2910164	lung cancer
+rs2910164	melanoma
+rs2910164	metabolic syndrome
+rs2910164	myocardial infarction
+rs2910164	nasopharyngeal carcinoma
+rs2910164	nephropathy
+rs2910164	ovarian cancer
+rs2910164	psoriasis
+rs2910164	rheumatoid arthritis
+rs2910164	seizures
+rs2910164	squamous cell carcinoma
+rs2910164	stroke
+rs2910164	systemic lupus erythematosus
+Rs2910164	thyroid cancer
+rs2910164	thyroid carcinoma
+rs2915863	asthma
+rs2915863	atopy
+rs2916733	breast cancer
+rs2916733	neutropenia
+rs2917666	asthma
+rs291766	ovarian cancer
+rs2918419	insulin resistance
+rs2918419	metabolic syndrome
+rs2918419	obesity
+rs2920502	epilepsy
+rs2924471	lung cancer
+rs2938392	osteoporosis
+rs2942168	Parkinson disease
+rs2943634	atherosclerosis
+rs2943634	insulin resistance
+rs2943641	atherosclerosis
+rs2943641	diabetes
+rs2943641	insulin resistance
+rs2943650	atherosclerosis
+rs2944829	schizophrenia
+rs2946834	breast cancer
+rs2946834	colorectal cancer
+rs2946834	prostate cancer
+rs2953	ovarian cancer
+rs2954029	myocardial infarction
+rs2954041	schizophrenia
+rs2960306	hypertension
+rs2960306	myocardial infarction
+rs2960306	stroke
+rs2961024	QT interval
+rs2968804	schizophrenia
+rs2968915	hypertension
+rs2970847	diabetes
+rs2972144	Atherosclerosis
+rs2972146	atherosclerosis
+rs2976392	gastric cancer
+rs2981096	melanoma
+rs2981575	breast cancer
+rs2981579	breast cancer
+rs2981582	breast cancer
+rs2981582	ovarian cancer
+rs2981745	breast cancer
+rs2982552	longevity
+rs2982552	osteoporosis
+rs2982573	obesity
+rs2986017	Alzheimer disease
+rs2987983	breast cancer
+rs299290	breast cancer
+rs29941	colorectal cancer
+rs29941	Metabolic Syndrome
+rs29941	obesity
+rs3003596	HIV
+rs301430	autism
+rs301430	obsessive-compulsive disorder
+rs301443	obsessive-compulsive disorder
+rs301640	interleukin
+rs30187	multiple sclerosis
+rs3020314	breast cancer
+rs3020331	longevity
+rs3020331	osteoporosis
+rs3020348	endometriosis
+rs3020450	HIV
+rs3020450	lipodystrophy
+rs3020450	metabolic syndrome
+rs3021097	hepatitis C virus
+rs3024496	colorectal cancer
+rs3024498	colorectal cancer
+rs3024498	tuberculosis
+rs3024500	malaria
+rs3024505	colorectal cancer
+rs3024944	malaria
+rs3024979	breast cancer
+rs3025039	breast cancer
+rs3025039	diabetes
+rs3025039	hypothyroidism
+rs3025039	nephropathy
+rs3025058	aneurysm
+rs3025058	myocardial infarction
+rs3027172	alcohol dependence
+rs3027188	breast cancer
+rs3027898	interleukin
+rs3027898	rheumatoid arthritis
+rs3027898	systemic lupus erythematosus
+rs304270	breast cancer
+rs304283	breast cancer
+rs3045215	coronary artery disease
+rs30461	periodontitis
+rs305217	multiple sclerosis
+rs3077	gene expression
+rs3077	hepatitis B virus
+rs3077	interleukin
+rs3087243	autoimmune disease
+rs3087243	autoimmune thyroid disease
+rs3087243	diabetes
+rs3087243	osteosarcoma
+rs3087403	neutropenia
+rs3087456	multiple sclerosis
+rs3087456	myocardial infarction
+rs3087456	rheumatoid arthritis
+rs3088440	melanoma
+rs3091244	C-reactive protein
+rs3091244	obesity
+rs3091244	telomere length
+rs3091307	malaria
+rs3092945	interleukin
+rs3093024	psoriasis
+rs3093024	rheumatoid arthritis
+rs3093075	atherosclerosis
+rs3093075	colon cancer
+rs3093075	stroke
+rs3093261	stroke
+rs3093301	IgE
+rs3093662	tuberculosis
+rs3094626	HIV
+rs310245	breast cancer
+rs3104746	breast cancer
+rs3108910	premature ovarian failure
+rs3109894	stroke
+rs3111754	hemorrhage
+rs3112612	breast cancer
+rs311499	breast cancer
+rs3117027	cervical cancer
+rs3117222	gene expression
+rs3117222	lymphoma
+rs3117582	lung cancer
+rs3117582	tuberculosis
+rs3117604	stroke
+rs3118470	breast cancer
+rs3118470	diabetes
+rs3118470	interleukin
+rs3124591	breast cancer
+rs3125734	rheumatoid arthritis
+rs3127334	spina bifida
+rs312986	esophageal cancer
+rs3129882	Parkinson disease
+rs3130297	schizophrenia
+rs3130340	osteoporosis
+rs3130501	diabetes
+rs3130501	insulin resistance
+rs3130932	breast cancer
+rs3131379	systemic lupus erythematosus
+rs313158	stroke
+rs3134069	diabetes
+rs3134613	gastric cancer
+rs3134615	breast cancer
+rs3134615	lung cancer
+rs3134931	HIV
+rs3135388	multiple sclerosis
+rs3135388	psoriasis
+rs3135388	white blood cell count
+rs3135506	Body mass index
+rs3135506	diabetes
+rs3135506	HIV
+rs3135506	hypertension
+rs3135506	obesity
+rs3136025	melanoma
+rs3136228	neutropenia
+rs3136534	autoimmune disease
+rs3136534	prostate cancer
+rs3136820	bladder cancer
+rs3136820	lung cancer
+rs3138053	asthma
+rs3138055	stroke
+rs3138557	leprosy
+rs3138557	malaria
+rs3138869	alopecia
+rs314277	colorectal cancer
+rs31480	interleukin
+rs31489	adenocarcinoma
+rs31489	lung cancer
+rs31489	nicotine dependence
+rs31563	esophageal cancer
+rs31563	interleukin
+rs31564	esophageal cancer
+rs31564	interleukin
+rs315952	end-stage renal disease
+rs315952	HIV
+rs315952	multiple sclerosis
+rs315952	systemic lupus erythematosus
+rs316019	hypertension
+rs3160	gastric cancer
+rs3171425	leprosy
+rs3176336	breast cancer
+rs3176352	cervical cancer
+rs3181366	lung cancer
+rs3184504	antiphospholipid syndrome
+rs3184504	breast cancer
+rs3184504	colorectal cancer
+rs3184504	coronary heart disease
+rs3184504	diabetes
+rs3184504	eosinophilia
+rs3184504	lung cancer
+rs3197999	cholangitis
+rs320	obesity
+rs321159	coronary heart disease
+rs3212220	tuberculosis
+rs3212227	asthma
+rs3212227	esophageal cancer
+rs3212227	hepatocellular carcinoma
+rs3212227	interleukin
+rs3212227	osteosarcoma
+rs3212227	psoriasis
+rs3212961	hair
+rs3212964	lung cancer
+rs3212980	lung cancer
+rs3212986	colorectal cancer
+rs3212986	esophageal cancer
+rs3212986	glioma
+rs3212986	osteosarcoma
+rs3212986	xeroderma pigmentosum
+rs3213094	tuberculosis
+rs3213207	panic disorder
+rs3213245	lung cancer
+rs3213445	fatty liver
+rs3213445	metabolic syndrome
+rs3217304	asthma
+rs3218005	breast cancer
+rs3218253	rheumatoid arthritis
+rs3218536	breast cancer
+rs3218536	cervical cancer
+rs3218536	ovarian cancer
+rs3219073	lung cancer
+rs3219090	melanoma
+rs3219151	epilepsy
+rs3219151	IGE
+rs3219151	schizophrenia
+rs3219466	melanoma
+rs3219466	meningioma
+rs324011	asthma
+rs324015	asthma
+rs324015	glioma
+rs324418	obesity
+rs324419	obesity
+rs324420	obesity
+rs324981	panic disorder
+rs32582	ataxia
+rs328	Body mass index
+rs328	obesity
+rs331894	schizophrenia
+rs334543	diabetes
+rs334	malaria
+rs339331	prostate cancer
+rs33980500	psoriasis
+rs33996649	systemic lupus erythematosus
+rs33997857	body mass index
+rs33997857	diabetes
+rs33997857	insulin resistance
+rs33997857	obesity
+rs340630	systemic lupus erythematosus
+rs34069356	tuberculosis
+rs34087264	breast cancer
+rs340874	diabetes
+rs34137742	prostate cancer
+rs34171309	HIV
+rs34330	breast cancer
+rs34330	endometrial cancer
+rs34330	lung cancer
+rs34391416	COPD
+rs344550	lymphoma
+rs344781	hypertension
+rs344781	migraine
+rs3448	prostate cancer
+rs345299	breast cancer
+rs34603401	polycystic ovary syndrome
+rs34856358	leprosy
+rs34917480	lung cancer
+rs3495	obesity
+rs35010275	gastric cancer
+rs35068180	hepatitis C virus
+rs35117667	adenocarcinoma
+rs351771	ovarian cancer
+rs35180395	obesity
+rs351855	thrombosis
+rs35201266	schizophrenia
+rs352140	hepatitis B virus
+rs352140	HIV
+rs35337543	diabetes
+rs35391	hair
+rs35400704	obesity
+rs35490896	breast cancer
+rs356220	tremor
+rs35652124	diabetes
+rs35667974	diabetes
+rs35678	Autism
+rs3569413	lung cancer
+rs35705950	lung disease
+rs35705950	pulmonary fibrosis
+Rs35705950	pulmonary function
+rs35720349	coronary artery disease
+rs35724886	stroke
+rs35732034	diabetes
+rs35744605	diabetes
+rs35753505	schizophrenia
+rs35761398	hepatitis C virus
+rs35767	stature
+rs35829419	diabetes
+rs35829419	hypertension
+rs35829419	lung disease
+rs35859249	obesity
+rs35898099	diabetes
+rs35927125	diabetes
+rs35929607	hypertension
+rs35975099	migraine
+rs36012910	gastric cancer
+rs360717	asthma
+rs360717	dermatitis
+rs360718	cervical cancer
+rs360718	interleukin
+rs360719	interleukin
+rs361072	diabetes
+rs361072	insulin resistance
+rs361072	obesity
+rs361525	allergic rhinitis
+rs361525	body mass index
+rs361525	breast cancer
+rs361525	COPD
+rs361525	diabetes
+rs361525	insulin resistance
+rs361525	lymphoma
+rs361525	metabolic syndrome
+rs361525	osteolysis
+rs361525	Ovarian Cancer
+rs361525	polyposis
+rs361525	prostate cancer
+rs361525	psoriasis
+rs362719	schizophrenia
+rs362962	breast cancer
+rs363039	Autism
+rs363043	Autism
+rs363050	autism
+rs36600	lung cancer
+rs368234815	hepatitis C virus
+rs368234815	HIV
+rs37161548	breast cancer
+rs3730353	asthma
+rs3730353	atopy
+rs3730859	lung cancer
+rs3730865	endometrial cancer
+rs3731127	endometrial cancer
+rs3731217	leukemia
+rs3731239	breast cancer
+rs3731834	schizophrenia
+rs3732378	atherosclerosis
+rs3732379	atherosclerosis
+rs3733591	gout
+rs3733890	breast cancer
+rs3733890	cervical cancer
+rs3733890	endometriosis
+rs3733890	ovarian cancer
+rs3734091	breast cancer
+rs3734091	hepatocellular carcinoma
+rs3734254	diabetes
+rs3734254	lung cancer
+rs3734354	obesity
+rs3734444	prostate cancer
+rs3734802	breast cancer
+rs3734805	breast cancer
+rs373533	cystic fibrosis
+rs373533	malaria
+rs3735590	stroke
+rs3735684	colorectal cancer
+rs3736001	prostate cancer
+rs3736234	atherosclerosis
+rs37369	coronary heart disease
+rs37369	diabetes
+rs3737787	gene expression
+rs3737787	Hyperlipidemia
+rs3737983	memory
+rs3737983	schizophrenia
+rs3738401	memory
+rs3738414	breast cancer
+rs3740066	epilepsy
+rs3740165	diabetes
+rs3740835	hypertension
+rs3740878	diabetes
+rs3740938	myopia
+rs3741378	breast cancer
+rs3741775	schizophrenia
+rs3741834	myopia
+rs3742207	body mass index
+rs3742207	diabetes
+rs3742207	hypertension
+rs3742264	body mass index
+rs3742264	hypertension
+rs3742264	menopause
+rs3742303	breast cancer
+rs3742879	asthma
+rs3743073	lung cancer
+rs3743076	lung cancer
+rs3743078	lung cancer
+rs3743205	dyslexia
+rs3743251	thrombosis
+rs3743852	schizophrenia
+rs374400	colon cancer
+rs3744508	stroke
+rs3745274	HIV
+rs3746444	bladder cancer
+rs3746444	breast cancer
+rs3746444	end-stage renal disease
+rs3746444	gastric cancer
+rs3746444	hepatitis B virus
+rs3746444	hepatocellular carcinoma
+rs3746444	leukemia
+rs3746444	lung cancer
+rs3746444	myocardial infarction
+rs3746444	rheumatoid arthritis
+rs3746444	stroke
+rs3746544	Autism
+rs3746544	schizophrenia
+rs3746804	squamous cell carcinoma
+rs3746876	diabetes
+rs3747517	diabetes
+rs3748962	schizophrenia
+rs3749034	schizophrenia
+rs3749474	breast cancer
+rs3750192	schizophrenia
+rs3750420	breast cancer
+rs3750420	epilepsy
+rs3750420	seasonal affective disorder
+rs3750804	breast cancer
+rs3750804	diabetes
+rs3750805	breast cancer
+rs3750817	breast cancer
+rs3750861	adenocarcinoma
+rs3750861	lung cancer
+rs3750861	prostate cancer
+rs3751143	thyroid cancer
+rs3751143	tuberculosis
+rs3751397	colon cancer
+rs3751591	menopause
+rs3751812	body mass index
+rs3751812	hemoglobin
+rs3751812	obesity
+rs3751812	plasma glucose
+rs3751932	gastric cancer
+rs3751934	gastric cancer
+rs3752462	nephropathy
+rs3753194	asthma
+rs3753519	obesity
+rs3753841	glaucoma
+rs3754334	cataract
+rs3754334	cataracts
+rs3754734	hypertension
+rs3754777	hypertension
+rs3754860	schizophrenia
+rs3755486	gene expression
+rs3755486	lung cancer
+rs3755724	epilepsy
+rs3755724	seizures
+rs3756824	breast cancer
+rs3757318	breast cancer
+rs3757417	colorectal cancer
+rs3757441	cirrhosis
+rs3758539	diabetes
+rs3758539	obesity
+rs3758673	diabetes
+rs3759216	endometrial cancer
+rs3759223	myopia
+rs3760138	breast cancer
+rs3760396	stroke
+rs3761121	glioma
+rs3761548	breast cancer
+rs3761548	colorectal cancer
+rs3761549	breast cancer
+rs3761581	body mass index
+rs3761581	hypertension
+rs3761624	tuberculosis
+rs3761740	coronary heart disease
+rs3761740	hypercholesterolemia
+rs3762894	alcohol dependence
+rs3763153	schizophrenia
+rs3764261	diabetes
+rs3764650	memory
+rs3764879	tuberculosis
+rs3764880	tuberculosis
+rs3765524	esophageal cancer
+rs3765524	gastric cancer
+rs376563	hypertension
+rs3767434	diabetes
+rs3768080	nevus
+rs3769955	seizures
+rs3770502	glioma
+rs3771166	asthma
+rs3771180	asthma
+rs3771300	atopy
+rs3771300	IgE
+rs3771829	alcohol dependence
+rs37733634	IGE
+rs3773364	epilepsy
+rs3773885	end-stage renal disease
+rs3774262	adiponectin
+rs3774262	renal cell carcinoma
+rs3775290	hepatitis B virus
+rs3775291	hepatitis C virus
+rs3775291	HIV
+rs3775291	macular degeneration
+rs3775291	melanoma
+rs3775291	pancreatitis
+rs3775292	colon cancer
+rs3775292	melanoma
+rs3775296	anemia
+rs3775296	gene expression
+rs3778099	osteoporosis
+rs3781387	stroke
+rs3781590	hypertension
+rs3781590	pulmonary disease
+rs3781637	body mass index
+rs3781637	diabetes
+rs3782218	hypertension
+rs3782886	metabolic syndrome
+rs3782889	hypertension
+rs378299	alopecia
+rs378299	gene expression
+rs3783550	interleukin
+rs3783553	interleukin
+rs3783553	squamous cell carcinoma
+rs3783553	thyroid carcinoma
+rs3783903	spina bifida
+rs3784262	adenocarcinoma
+rs3785074	breast cancer
+rs3785931	asthma
+rs3785931	atopy
+rs3786054	complement component
+rs3786989	asthma
+rs3787016	squamous cell carcinoma
+rs3787268	breast cancer
+rs3788266	gene expression
+rs3788266	glioblastoma
+rs3788266	neuroblastoma
+rs378854	prostate cancer
+rs3788766	lung disease
+rs3788766	meconium ileus
+rs3789210	gastric cancer
+rs3789607	lymphoma
+rs3789678	diabetes
+rs3789678	hypertension
+rs3789679	hepatitis C virus
+rs379016	osteoporosis
+rs3790433	insulin resistance
+rs379123	pulmonary disease
+rs3791709	schizophrenia
+rs3792267	diabetes
+rs3792876	rheumatoid arthritis
+rs3794087	tremor
+rs3794338	myopia
+rs3794405	adenocarcinoma
+rs3794624	breast cancer
+rs3794624	coronary artery disease
+rs3794845	leukemia
+rs37972	asthma
+rs37973	asthma
+rs3798220	coronary heart disease
+rs3798343	diabetes
+rs3798377	breast cancer
+rs3798573	endometriosis
+rs3798758	Breast cancer
+rs3802230	hypertension
+rs3802842	body mass index
+rs3802842	Colon Cancer
+rs3802842	colorectal cancer
+rs3802905	autism
+rs3803036	myopia
+rs3803662	breast cancer
+rs3803662	gastric cancer
+rs3804099	colon cancer
+rs3804100	infections
+rs3804100	lung disease
+rs3804452	schizophrenia
+rs3805246	H. pylori infection
+rs3806277	asthma
+rs3806792	stroke
+rs3807987	gastric cancer
+rs3808348	colorectal cancer
+rs3808942	schizophrenia
+rs3808943	schizophrenia
+rs3809021	hemorrhage
+rs3809021	stroke
+rs3809021	thrombosis
+rs3809508	obesity
+rs3809865	asthma
+rs3809865	autism
+rs3810366	breast cancer
+rs3810608	Major Depressive Disorder
+rs3810651	migraine
+rs3811021	lymphoma
+rs3811047	rheumatoid arthritis
+rs3811647	anemia
+rs3811951	diabetes
+rs3811951	obesity
+rs3812316	diabetes
+rs3812316	obesity
+rs3812316	stroke
+rs3812704	diabetes
+rs3812718	body mass index
+rs3812718	epilepsy
+rs3812718	seizures
+rs3813867	colorectal cancer
+rs3814113	ovarian cancer
+rs3814903	breast cancer
+rs3815823	epilepsy
+rs3815824	epilepsy
+rs3816358	breast cancer
+rs3816360	breast cancer
+rs3816527	migraine
+rs3817198	breast cancer
+rs3817198	lung cancer
+rs3817334	obesity
+rs3817588	diabetes
+rs3817588	plasma triglyceride level
+rs3818247	diabetes
+rs3818247	metabolic syndrome
+rs3821949	cleft palate
+rs3825172	carpal tunnel syndrome
+rs3825172	diabetes
+rs3825172	hypercholesterolemia
+rs3825172	hypertension
+rs3825172	nephropathy
+rs3825172	neuropathy
+rs3825172	obesity
+rs3825214	atrial fibrillation
+rs3825214	QT interval
+rs3825214	ventricular tachycardia
+rs3825807	arterial calcification
+rs3825807	atherosclerosis
+rs3825807	coronary artery disease
+rs3825942	cataract
+rs3825942	exfoliation syndrome
+rs3825942	glaucoma
+rs3826169	obesity
+rs3829787	lung cancer
+rs3834129	breast cancer
+rs3834129	lung cancer
+rs3835	breast cancer
+rs3838646	breast cancer
+rs3841324	lung cancer
+rs3841324	nasopharyngeal carcinoma
+rs3842225	dystonia
+rs3842570	diabetes
+rs3842788	hemorrhage
+rs3842788	stroke
+rs3845971	diabetes
+rs3847153	premature ovarian failure
+rs3847987	diabetes
+rs3848403	diabetes
+rs3850641	atherosclerosis
+rs3850641	breast cancer
+rs3850641	cerebral infarction
+rs3850641	myocardial infarction
+rs3851179	dementia
+rs3851179	obesity
+rs3851179	schizophrenia
+rs3853248	memory
+rs3853839	systemic lupus erythematosus
+rs3856806	breast cancer
+rs3856806	coronary heart disease
+rs3856806	diabetes
+rs3856806	menarche
+rs3856806	menopause
+rs3856806	metabolic syndrome
+rs3856806	obesity
+rs3857384	schizophrenia
+rs3858145	glaucoma
+rs3859192	asthma
+rs3861950	atherosclerosis
+rs3861950	diabetes
+rs3861950	hypertension
+rs3861950	stroke
+rs3864075	schizophrenia
+rs3864659	breast cancer
+rs3865188	adiponectin
+rs3865188	obesity
+rs3865418	hypertension
+rs3865443	prostate cancer
+rs3865444	obesity
+rs3877899	aneurysm
+rs3887412	neuropathy
+rs3890011	hypertension
+rs3894194	asthma
+rs3900115	lymphoma
+rs3900940	Atherosclerosis
+rs3900940	coronary heart disease
+rs3900940	stroke
+rs3902802	migraine
+rs3903529	breast cancer
+rs3903529	epilepsy
+rs3903529	seasonal affective disorder
+rs391300	diabetes
+rs3914131	otosclerosis
+rs3914132	otosclerosis
+rs3916874	lung cancer
+rs3916966	schizophrenia
+rs3916972	schizophrenia
+rs3917200	sarcoidosis
+rs3917356	diabetes
+rs3917356	insulin resistance
+rs3917412	colon cancer
+rs3917887	nephropathy
+rs3918166	migraine
+rs3918166	stroke
+rs3918181	hypertension
+rs3918188	hypertension
+rs3918188	obesity
+rs3918226	hypertension
+rs3918226	migraine
+rs3918226	obesity
+rs3918242	bladder cancer
+rs3918346	schizophrenia
+rs3918347	schizophrenia
+rs3921	HIV
+rs3923087	ovarian cancer
+rs3923113	diabetes
+rs3923890	autism
+rs3924999	schizophrenia
+rs3931020	coronary heart disease
+rs3931020	gene expression
+rs3939286	eosinophilia
+rs3943809	IGE
+rs3943809	seizures
+rs3957357	bladder cancer
+rs396991	asthma
+rs396991	atopy
+rs396991	periodontitis
+rs401681	adenocarcinoma
+rs401681	basal cell carcinoma
+rs401681	lung cancer
+rs401681	melanoma
+rs401681	nicotine dependence
+rs401681	pancreatic cancer
+rs401681	squamous cell carcinoma
+rs401681	telomere length
+rs40184	major depressive disorder
+rs40239	gastric cancer
+rs402710	adenocarcinoma
+rs402710	lung cancer
+rs402710	squamous cell carcinoma
+rs403636	schizophrenia
+rs40401	allergic rhinitis
+rs40401	asthma
+rs4044210	atherosclerosis
+rs4044210	stroke
+rs4045402	alopecia
+rs404860	asthma
+rs405509	AIDS
+rs405509	atherosclerosis
+rs406113	breast cancer
+rs406193	colorectal cancer
+rs4072032	hypercholesterolemia
+rs4072032	hypertriglyceridemia
+rs4072037	adenocarcinoma
+rs4072037	gastric cancer
+rs4072037	squamous cell carcinoma
+rs4073259	cerebral infarction
+rs4073259	diabetes
+rs4073259	stroke
+rs4073582	diabetes
+rs4073582	gout
+rs4073	adenocarcinoma
+rs4073	breast cancer
+rs4073	gastric cancer
+rs4073	interleukin
+rs4073	lymphoma
+rs4073	periodontitis
+rs4073	prostate cancer
+rs4073	vesicoureteral reflux
+rs4074947	ovarian cancer
+rs4074	cirrhosis
+rs4074	hepatitis C virus
+rs4074	hepatocellular carcinoma
+rs4105144	lung cancer
+rs4128725	C-reactive protein
+rs4129148	schizophrenia
+rs4129218	body mass index
+rs4129267	asthma
+rs4129267	interleukin
+rs41295061	diabetes
+rs41295115	asthma
+rs41302867	hypertension
+rs41302867	nephropathy
+Rs41305272	major depressive disorder
+rs41305272	restless legs syndrome
+rs4141463	autism
+rs4141819	endometriosis
+rs4142110	nephrolithiasis
+rs4143094	colorectal cancer
+rs4143832	coronary heart disease
+rs4143832	eosinophilia
+rs4145643	gastric cancer
+rs4147064	cerebral infarction
+rs4147064	hypertension
+rs4147581	gene expression
+rs4148325	bilirubin
+rs4148325	fatty liver
+rs4148325	obesity
+rs4149000	bilirubin
+rs4149018	cardiomyopathy
+rs4149056	bilirubin
+rs4149056	lymphoma
+rs4149056	myopathy
+rs4149313	atherosclerosis
+rs4149577	breast cancer
+rs4149578	breast cancer
+rs4149584	multiple sclerosis
+rs4149601	hypertension
+rs4149601	obesity
+rs4150386	endometrial cancer
+rs4151667	body mass index
+rs4151667	diabetes
+rs41534847	asthma
+rs417309	breast cancer
+rs419598	colorectal cancer
+rs419598	hypertension
+rs419598	myocardial infarction
+rs4215	obesity
+rs421629	lung cancer
+rs4233508	gastric cancer
+rs4236480	nephrolithiasis
+rs4236601	glaucoma
+rs4238001	body mass index
+rs4238001	coronary heart disease
+rs4238001	diabetes
+rs4238001	hypertension
+rs4238989	breast cancer
+rs424232	schizophrenia
+rs4242392	HIV
+rs4244285	clopidogrel
+rs4244593	endometriosis
+rs4245739	breast cancer
+rs4246444	lung cancer
+rs4246742	breast cancer
+rs4251961	coronary heart disease
+rs4252120	periodontitis
+rs4252243	stroke
+rs4252314	adenocarcinoma
+rs42524	aneurysm
+rs4253079	glioblastoma
+rs4253238	asthma
+rs4253238	COPD
+rs4253238	kallikrein
+rs4253325	hypertension
+rs4253776	diabetes
+rs4253778	diabetes
+rs425535	breast cancer
+rs4267385	hypertension
+rs4271002	asthma
+rs4274112	breast cancer
+rs4275659	diabetes
+rs4281481	nephropathy
+rs4282438	cervical cancer
+rs4291	hypertension
+rs4291	unipolar depression
+rs429358	angiopathy
+rs429358	dementia
+rs429358	hemorrhage
+rs429358	metabolic syndrome
+rs429358	obesity
+rs4295627	glioblastoma
+rs4295627	glioma
+rs429608	complement component
+rs430397	cirrhosis
+rs430397	hepatocellular carcinoma
+rs4305	hypertension
+rs4307059	Autism
+rs4316710	COPD
+rs4320932	ovarian cancer
+rs4331145	schizophrenia
+rs433598	schizophrenia
+rs4340	coronary heart disease
+rs4340	hypertension
+rs434473	hemorrhage
+rs434473	stroke
+rs4354668	schizophrenia
+rs4362	hypertension
+rs4363657	myopathy
+rs4364254	multiple myeloma
+rs437168	nephrotic syndrome
+rs4373767	myopia
+rs4377299	sarcoidosis
+rs4379368	migraine
+rs4380028	atherosclerosis
+rs439132	lung cancer
+Rs439401	insulin resistance
+rs439401	memory
+rs439401	schizophrenia
+rs4402960	body mass index
+rs4402960	diabetes
+rs4402960	hypertension
+rs4402960	nephropathy
+rs4402960	obesity
+rs4402960	schizophrenia
+rs4404254	colorectal cancer
+rs4415084	breast cancer
+rs4430796	diabetes
+rs4430796	endometrial cancer
+rs4430796	prostate cancer
+rs4431128	eosinophilia
+rs4444073	hypertension
+rs4444235	body mass index
+rs4444235	Colon Cancer
+rs4444235	colorectal cancer
+rs4444903	cirrhosis
+rs4444903	colorectal cancer
+rs4444903	glioma
+rs4444903	hepatitis C virus
+rs4444903	hepatocellular carcinoma
+rs4444903	hypertension
+rs4444903	interleukin
+rs4450508	diabetes
+rs4450508	obesity
+rs445114	prostate cancer
+rs445509	periodontitis
+rs4464148	colon cancer
+rs4464148	colorectal cancer
+rs446977	telomere length
+rs4477673	cleft palate
+rs448012	gene expression
+rs4481887	hair
+rs4485648	prostate cancer
+rs4487645	multiple myeloma
+rs4488809	lung cancer
+rs4499545	diabetes
+rs4499545	hypertension
+rs4506565	diabetes
+rs4516035	diabetes
+rs4530903	lymphoma
+rs4532	schizophrenia
+rs4533622	ovarian cancer
+rs4552569	inflammatory bowel disease
+rs4552	spina bifida
+rs4553808	autoimmune disease
+rs4553808	osteosarcoma
+rs4553808	systemic lupus erythematosus
+rs4562	colon cancer
+rs4567028	schizophrenia
+rs4570625	panic disorder
+rs4578621	diabetes
+rs4578621	obesity
+rs4586	interleukin
+rs4590656	Hemoglobin
+rs459552	ovarian cancer
+rs4596	colorectal cancer
+rs4606490	autism
+rs4606565	diabetes
+rs4606	atherosclerosis
+rs4606	hypertension
+rs4606	preeclampsia
+rs4606	schizophrenia
+rs4607103	diabetes
+rs4607517	body mass index
+rs4607517	hemoglobin
+rs4607517	obesity
+rs4607517	plasma glucose
+rs4608623	melanoma
+rs4619915	HIV
+rs4630	neuropathy
+rs4635002	gastric cancer
+rs4636297	diabetes
+rs464094	schizophrenia
+rs4641	body mass index
+rs4641	diabetes
+rs4641	insulin resistance
+rs4641	lean body mass
+rs4641	metabolic syndrome
+rs4644	breast cancer
+rs4645978	prostate cancer
+rs4645981	lung cancer
+rs4646406	endometriosis
+rs4646536	melanoma
+rs4646536	thyroid carcinoma
+rs4646903	breast cancer
+rs4646903	cervical cancer
+rs4646903	coronary heart disease
+rs4646903	esophageal cancer
+rs4646903	H. pylori infection
+rs4646903	lung cancer
+rs4646994	hypertension
+rs4646	breast cancer
+rs4646	menopause
+rs4647610	gastric cancer
+rs4647693	gastric cancer
+rs4648004	stroke
+rs4648068	gastric cancer
+rs4648110	colon cancer
+rs4649203	psoriasis
+rs46522	atherosclerosis
+rs4653436	warfarin sensitivity
+rs465498	lung cancer
+rs4657139	QT interval
+rs4658966	memory
+rs4659744	colorectal cancer
+rs4663302	obesity
+rs4664308	nephropathy
+rs4668123	hearing loss
+rs4671393	thalassemia
+rs4673	body mass index
+rs4673	C-reactive protein
+rs4673	diabetes
+rs4673	hypertension
+rs4675374	breast cancer
+rs4675379	colorectal cancer
+rs4680	alcohol dependence
+rs4680	breast cancer
+rs4680	Coronary Artery Disease
+rs4680	dementia
+rs4680	endometrial cancer
+rs4680	epilepsy
+rs4680	gout
+rs4680	lung cancer
+rs4680	memory
+rs4680	migraine
+rs4680	Nicotine Dependence
+rs4680	ovarian cancer
+rs4680	panic disorder
+rs4680	schizophrenia
+rs4680	spina bifida
+rs4684677	breast cancer
+rs4684846	menarche
+rs4687554	breast cancer
+rs4688011	Gene expression
+rs4693570	myotonic dystrophy
+rs4693608	gene expression
+rs4693608	multiple myeloma
+rs4696480	asthma
+rs4698934	melanoma
+rs4699369	autism
+rs470117	metabolic syndrome
+rs4704397	diabetes
+rs4704397	myocardial infarction
+rs4705343	squamous cell carcinoma
+rs4707436	schizophrenia
+rs4711690	gastric cancer
+rs4712523	diabetes
+rs4712652	adiponectin
+rs4712652	body mass index
+rs4712652	obesity
+rs4726050	breast cancer
+rs4728142	diabetes
+rs4728142	supranuclear palsy
+rs4728142	systemic lupus erythematosus
+rs4729655	endometriosis
+rs4730751	end-stage renal disease
+rs4733220	cataract
+rs4733220	cataracts
+rs4744411	autoimmune disease
+rs4746	autism
+rs4746	diabetes
+rs4751440	body mass index
+rs4751440	insulin resistance
+rs4753426	diabetes
+rs4753426	schizophrenia
+rs4756146	breast cancer
+rs4760658	breast cancer
+rs4763655	gene expression
+rs4764971	myopia
+rs4765905	schizophrenia
+rs4766587	body mass index
+rs4766587	obesity
+rs4767364	nicotine addiction
+rs4769060	stroke
+rs4769874	stroke
+rs4771122	obesity
+rs4771249	colon cancer
+rs4773144	atherosclerosis
+rs4773144	body mass index
+rs4773144	diabetes
+rs4773144	hypertension
+rs4774	human herpesvirus
+rs4775302	prostate cancer
+rs4775892	stroke
+rs4775899	stroke
+rs4775936	breast cancer
+rs4778334	schizophrenia
+rs4778889	coronary artery disease
+rs4779584	body mass index
+rs4779584	Colon Cancer
+rs4779584	colorectal cancer
+rs4783244	adiponectin
+rs4783819	obesity
+rs4784227	breast cancer
+rs4788102	coronary artery disease
+rs4788102	diabetes
+rs4788102	Metabolic Syndrome
+rs4788102	myocardial infarction
+rs4788102	obesity
+rs4788187	epilepsy
+rs4790522	asthma
+rs4793665	adenosine triphosphate
+rs4794067	asthma
+rs4794068	asthma
+rs4795067	psoriasis
+rs4795067	psoriatic arthritis
+rs4795397	asthma
+rs4795404	asthma
+rs4795405	asthma
+rs4795408	asthma
+rs4795895	stroke
+rs479777	sarcoidosis
+rs4798571	multiple sclerosis
+rs4803419	HIV
+rs4803455	breast cancer
+rs4803455	colon cancer
+rs4803817	lung cancer
+rs4804611	body mass index
+rs4804611	diabetes
+rs4804611	hypertension
+rs4804611	myocardial infarction
+rs4804803	dengue fever
+rs4804803	tuberculosis
+rs4807000	atopy
+rs480902	hemoglobin
+rs4809957	lung cancer
+rs4810424	body mass index
+rs4810424	diabetes
+rs4810424	insulin resistance
+rs4810424	metabolic syndrome
+rs4810671	diabetes
+rs4812829	diabetes
+rs4816407	prostate cancer
+rs4816	spina bifida
+rs4818	coronary artery disease
+rs4818	memory
+rs4818	migraine
+rs4819554	diabetes
+rs4820268	anemia
+rs4820268	hemochromatosis
+rs4821480	Atherosclerosis
+rs4821480	diabetes
+rs4821480	nephropathy
+rs4821494	breast cancer
+rs4823613	hypercholesterolemia
+rs4828696	epilepsy
+rs4833095	H. pylori infection
+rs4836133	obesity
+rs4837240	diabetes
+rs4837864	endometriosis
+rs4844600	malaria
+rs4844880	adenocarcinoma
+rs4845617	atherosclerosis
+rs4845623	atherosclerosis
+rs4845625	body mass index
+rs4845625	diabetes
+rs4845625	hypertension
+rs4846049	coronary artery disease
+rs4846914	stroke
+rs4848306	colorectal cancer
+rs4849887	breast cancer
+rs4854344	obesity
+rs4862396	prostate cancer
+rs4864548	hypertension
+rs4869739	longevity
+rs4869739	osteoporosis
+rs4870044	osteoporosis
+rs4880	diabetes
+rs4880	gastric cancer
+rs4880	hearing loss
+rs4880	hypertension
+rs4880	lung cancer
+rs4880	macular degeneration
+rs4880	migraine
+rs4880	pancreatic cancer
+rs4880	prostate cancer
+rs4885493	stroke
+rs4891	lung cancer
+rs4894535	keratoconus
+rs4895441	thalassemia
+rs489693	obesity
+rs4900318	hypertension
+rs4906902	epilepsy
+rs4906902	IGE
+rs4906902	seizures
+rs4910510	colorectal cancer
+rs4914	Asthma
+rs4916008	asthma
+rs4917014	gene expression
+rs4917014	systemic lupus erythematosus
+rs4917	atherosclerosis
+rs4918851	stroke
+rs4918	cerebral infarction
+rs4918	stroke
+rs4919510	breast cancer
+rs4919510	colorectal cancer
+rs4919510	hepatocellular carcinoma
+rs4919510	nasopharyngeal carcinoma
+rs4920037	lung cancer
+rs492146	seizures
+rs4923461	diabetes
+rs4923461	obesity
+rs4925	bladder cancer
+rs492602	hemochromatosis
+rs493258	diabetes
+rs4937391	hypertension
+rs4938723	breast cancer
+rs4938723	colorectal cancer
+rs4938723	diabetes
+rs4938723	gastric cancer
+rs4938723	hepatocellular carcinoma
+rs4939827	body mass index
+rs4939827	colon cancer
+rs4939827	colorectal cancer
+rs4942440	breast cancer
+rs4950928	asthma
+rs4950928	sarcoidosis
+rs4950928	schizophrenia
+rs4951011	breast cancer
+rs495139	ovarian carcinoma
+rs4952	nicotine dependence
+rs4953354	adenocarcinoma
+rs4953354	lung cancer
+rs4954218	keratoconus
+rs4958847	inflammatory bowel disease
+rs4963128	lupus nephritis
+rs4963128	systemic lupus erythematosus
+rs4964057	phobia
+rs496601	adenomas
+rs4969054	bladder cancer
+rs4969170	neutropenia
+rs4969170	thrombocytopenia
+rs4972593	diabetes
+rs4972593	nephropathy
+rs497309	lymphoma
+rs4973768	breast cancer
+rs4975616	adenocarcinoma
+rs4975616	lung cancer
+rs4975709	stroke
+rs4977574	arterial calcification
+rs4977574	coronary heart disease
+rs4977756	adenocarcinoma
+rs4977756	asthma
+rs4977756	atopy
+rs4977756	glioma
+rs4977756	lung cancer
+rs4977756	squamous cell carcinoma
+rs498186	myopia
+rs4986790	atherosclerosis
+rs4986790	candidiasis
+rs4986790	colorectal cancer
+rs4986790	gastric cancer
+rs4986790	hepatitis B virus
+rs4986790	insulin resistance
+rs4986790	interleukin
+rs4986790	ovarian cancer
+rs4986790	rheumatoid arthritis
+rs4986791	colorectal cancer
+rs4986791	gastric cancer
+rs4986791	ovarian cancer
+rs4986791	seizures
+rs4986791	systemic lupus erythematosus
+rs4986850	breast cancer
+rs4986938	bone mineral density
+rs4986938	breast cancer
+rs4986938	coronary heart disease
+rs4986938	endometriosis
+rs4986938	glaucoma
+rs4986938	HIV
+rs4986938	lipodystrophy
+rs4986938	lung cancer
+rs4986938	metabolic syndrome
+rs4986938	prostate cancer
+rs4986938	rheumatoid arthritis
+rs4988235	diabetes
+rs4988235	obesity
+rs4988300	hypertension
+rs4988300	osteoporosis
+rs4988300	pulmonary disease
+rs4988453	colorectal cancer
+rs4988515	ovarian cancer
+rs498872	asthma
+rs498872	atopy
+rs498872	glioblastoma
+rs498872	glioma
+rs4994	diabetes
+rs4994	gout
+rs4994	hypertension
+rs4994	hyperuricemia
+rs4994	metabolic syndrome
+rs4994	pancreatic cancer
+rs4998557	colorectal cancer
+rs4998557	ovarian cancer
+rs501120	atherosclerosis
+rs501120	coronary artery disease
+rs501192	myocardial infarction
+rs5015480	body mass index
+rs5015480	diabetes
+rs5019252	glioma
+rs502419	asthma
+rs502581	asthma
+rs5029410	HIV
+rs5029748	colon cancer
+rs5029924	pancreatitis
+rs5029939	hypertension
+rs5030411	atopy
+rs5030728	breast cancer
+rs5030772	squamous cell carcinoma
+rs5030952	diabetes
+rs5030980	body mass index
+rs5030980	obesity
+rs503662	coronary heart disease
+rs5049	hypertension
+rs505151	coronary artery disease
+rs505151	stroke
+rs505802	gout
+rs505802	hyperuricemia
+rs505922	adenocarcinoma
+rs505922	blood group
+rs505922	breast cancer
+rs505922	pancreatic cancer
+rs5063	hemorrhage
+rs5063	hypertension
+rs5063	stroke
+rs5065	coronary artery disease
+rs5065	hypertension
+rs5065	stroke
+rs5067	stroke
+rs5068	hypertension
+rs507879	lung cancer
+rs511310	epilepsy
+rs512535	obesity
+rs514049	neuroblastoma
+rs515071	diabetes
+rs5174	myocardial infarction
+rs5182	hypertension
+rs5182	Metabolic syndrome
+rs518673	prostate cancer
+rs5186	coronary heart disease
+rs5186	end-stage renal disease
+rs5186	gene expression
+rs5186	hypertension
+rs5186	interleukin
+rs5186	Metabolic syndrome
+rs5186	preeclampsia
+rs5186	stroke
+rs5215	diabetes
+rs5219	body mass index
+rs5219	colorectal cancer
+rs5219	diabetes
+rs5219	obesity
+rs5219	pancreatic cancer
+rs522616	cleft palate
+rs523096	glaucoma
+rs523349	hypertension
+rs523349	preeclampsia
+rs523349	prostate cancer
+rs5275	breast cancer
+rs5275	colorectal cancer
+rs5275	diabetes
+rs5275	endometrial cancer
+rs5275	esophagitis
+rs5275	gastric cancer
+rs5275	hemorrhage
+rs5275	hypertension
+rs5275	ovarian cancer
+rs5275	ovarian carcinoma
+rs5275	pancreatitis
+rs5275	stroke
+rs5277	colorectal cancer
+rs529038	coronary artery disease
+rs529038	myocardial infarction
+rs5320	nicotine dependence
+rs5326	hypertension
+rs533116	asthma
+rs5335	hypertension
+rs535586	colorectal cancer
+rs53576	autism
+rs535860	diabetes
+rs5361	gastric cancer
+rs5361	gene expression
+rs5361	Interleukin
+rs537160	AIDS
+rs541458	dementia
+rs543874	obesity
+rs5443	hypertension
+rs5443	major depressive disorder
+rs5443	myocardial infarction
+rs5443	preeclampsia
+rs545500	breast cancer
+rs545854	obesity
+rs548181	schizophrenia
+rs5498	atherosclerosis
+rs5498	graft-versus-host disease
+rs5498	nephropathy
+rs549908	asthma
+rs549908	rheumatoid arthritis
+rs5516	hypertension
+rs5522	gene expression
+rs5522	hypertension
+rs5534	myocardial infarction
+rs553668	diabetes
+rs556917	asthma
+rs5569	major depressive disorder
+rs5573	obesity
+rs5573	schizophrenia
+rs55743914	gene expression
+rs5574	obesity
+rs5574	schizophrenia
+rs557881	schizophrenia
+rs560191	lung cancer
+rs560426	cleft palate
+rs560887	diabetes
+rs560887	MODY
+rs560887	plasma glucose
+rs56164415	HIV
+rs56204867	hypertension
+rs56225452	fatty liver
+rs56225452	insulin resistance
+rs56225452	metabolic syndrome
+rs562338	coronary heart disease
+rs5628	hemorrhage
+rs5628	stroke
+rs56350726	hemoglobin
+rs564398	diabetes
+rs566164	breast cancer
+rs568404	asthma
+rs568408	asthma
+rs568408	esophageal cancer
+rs568408	hepatocellular carcinoma
+rs568408	interleukin
+rs568408	leukemia
+rs568408	lymphoma
+rs568408	osteosarcoma
+rs569108	asthma
+rs569108	stroke
+rs571312	obesity
+rs57137919	atherosclerosis
+rs57137919	coronary artery disease
+rs57137919	gene expression
+rs57137919	myocardial infarction
+rs572169	breast cancer
+rs572169	obesity
+rs5741883	rheumatoid arthritis
+rs5742629	myopia
+rs5742909	autoimmune disease
+rs5742909	cervical cancer
+rs5742909	osteosarcoma
+rs5742909	rheumatoid arthritis
+rs5742909	systemic lupus erythematosus
+rs5742933	lung cancer
+rs5743313	influenza
+rs5743507	interleukin
+rs5743618	asthma
+rs5743618	interleukin
+rs5743618	tuberculosis
+rs5743708	cerebral infarction
+rs5743708	lung disease
+rs5743810	atopy
+rs5744168	obesity
+rs5744174	H. pylori infection
+rs5744292	asthma
+rs5744292	dermatitis
+rs5744455	asthma
+rs574456	asthma
+rs574456	dermatitis
+rs5745752	breast cancer
+rs574700	asthma
+rs5751129	breast cancer
+rs5751129	hepatocellular carcinoma
+rs5751129	renal cell carcinoma
+rs5751876	panic disorder
+rs5751876	phobia
+rs5757037	breast cancer
+rs5767743	body mass index
+rs5770917	narcolepsy
+rs577948	myopia
+rs5780218	breast cancer
+rs578776	alcohol dependence
+rs578776	lung cancer
+rs578776	nicotine addiction
+rs578776	nicotine dependence
+rs579459	atherosclerosis
+rs579459	blood group
+rs579459	coronary artery disease
+rs5820604	dementia
+rs583583	schizophrenia
+rs5848	amyotrophic lateral sclerosis
+rs5848	dementia
+rs5848	frontotemporal lobar degeneration
+rs5853517	myocardial infarction
+rs5853517	stroke
+rs5853517	thromboembolism
+rs58542926	fatty liver
+rs5871	scoliosis
+rs5882	dementia
+rs5882	longevity
+rs5882	memory
+rs5882	obesity
+rs588765	lung cancer
+rs5888	coronary artery disease
+rs5888	high density lipoprotein cholesterol
+rs5888	hypercholesterolemia
+rs5888	stroke
+rs59007384	epilepsy
+rs5905512	schizophrenia
+rs591758	diabetes
+rs5918	ovarian cancer
+rs5918	stroke
+rs5925	cerebral infarction
+rs5925	stroke
+rs59317557	asthma
+rs5945326	diabetes
+rs5945572	prostate cancer
+rs595055	breast cancer
+rs5953210	gout
+rs59569785	asthma
+rs59569785	COPD
+rs596881	hypertension
+rs597319	longevity
+rs597319	osteoporosis
+rs5981008	hypertension
+rs598126	breast cancer
+rs5985	colorectal cancer
+rs599277	obesity
+rs599839	coronary artery disease
+rs599839	interleukin
+rs599839	myocardial infarction
+rs5999749	gastric cancer
+rs6002421	breast cancer
+rs6003904	HIV
+rs6007897	atherosclerosis
+rs6007897	stroke
+rs6010620	asthma
+rs6010620	glioblastoma
+rs6010620	glioma
+rs601338	celiac disease
+rs601338	cholangitis
+Rs601338	dermatitis
+rs601338	infections
+rs601338	inflammatory bowel disease
+rs601341	lymphoma
+rs6013897	breast cancer
+rs6013897	prostate cancer
+rs602594	epilepsy
+rs6025	colorectal cancer
+rs6025	thrombosis
+rs602662	blood group
+rs6031551	diabetes
+rs6031551	metabolic syndrome
+rs6031552	diabetes
+rs6031552	metabolic syndrome
+rs6046	stroke
+rs604714	lymphoma
+rs605059	endometriosis
+rs6051702	hemoglobin
+rs6052761	asthma
+rs60542319	myopia
+rs6062314	multiple sclerosis
+rs6064099	diabetes
+rs6064099	obesity
+rs6068916	diabetes
+rs6091822	breast cancer
+rs6097809	breast cancer
+rs610604	psoriasis
+rs610932	memory
+rs6127698	tuberculosis
+rs6141383	lung cancer
+rs614367	breast cancer
+rs6147150	hepatocellular carcinoma
+rs6152	alopecia
+rs6152	polycystic ovary syndrome
+rs6152	prostate cancer
+rs615470	alcohol dependence
+rs616256	stroke
+rs6171	diabetes
+rs61739290	schizophrenia
+rs61747728	nephrotic syndrome
+rs61752561	prostate cancer
+rs61755040	spina bifida
+rs61764370	breast cancer
+rs61764370	colorectal cancer
+rs61764370	lung cancer
+rs61764370	ovarian cancer
+rs61764370	sarcoma
+rs61816761	asthma
+rs61816761	dermatitis
+rs61822012	epilepsy
+rs61860052	sarcoidosis
+rs619002	insomnia
+rs619203	myocardial infarction
+rs61923114	tuberculosis
+rs62026376	asthma
+rs62033400	obesity
+rs62048402	body mass index
+rs62048402	obesity
+rs62078748	obesity
+rs620861	breast cancer
+rs620861	prostate cancer
+rs62093482	gene expression
+rs6214	colorectal cancer
+rs6214	esophageal cancer
+rs622342	insulin resistance
+rs623011	thyrotoxic periodic paralysis
+rs6232	obesity
+rs6234	body mass index
+rs6234	diabetes
+rs6234	obesity
+rs623590	breast cancer
+rs6235	body mass index
+rs6235	diabetes
+rs6235	hypertension
+rs6235	Metabolic Syndrome
+rs6235	obesity
+rs62559044	HIV
+rs62559044	interleukin
+rs625879	endometriosis
+rs62589000	obesity
+rs6259	body mass index
+rs6259	breast cancer
+rs6265	Alzheimer disease
+rs6265	major depressive disorder
+rs6265	Metabolic Syndrome
+rs6265	migraine
+rs6265	multiple sclerosis
+rs6265	obesity
+rs6265	Pick disease
+rs6265	psoriasis
+rs6265	schizophrenia
+rs6275	migraine
+rs6276	hypertension
+rs6280	alcohol dependence
+rs6280	HIV
+rs6280	migraine
+rs6280	schizophrenia
+rs6280	tremor
+rs628117	schizophrenia
+rs629367	gastric cancer
+rs6295	epilepsy
+rs6295	major depressive disorder
+rs6295	memory
+rs6295	migraine
+rs6295	schizophrenia
+rs6300	obesity
+rs63020761	stroke
+rs6305	major depressive disorder
+rs630923	multiple sclerosis
+rs6311	major depressive disorder
+rs6311	nicotine dependence
+rs6311	obsessive-compulsive disorder
+rs6311	psoriasis
+rs6311	Tourette syndrome
+rs6313	alcohol dependence
+rs6313	major depressive disorder
+rs6314	obesity
+rs6314	schizophrenia
+rs6318	body mass index
+rs6318	coronary artery disease
+rs6318	diabetes
+rs6318	hypertension
+rs6318	myocardial infarction
+rs632793	hyperlipidemia
+rs6330	dementia
+rs6332	dementia
+rs6347	dementia
+rs63750447	breast cancer
+rs640198	coronary artery disease
+rs6413520	COPD
+rs6429600	obesity
+rs642961	cleft palate
+rs6432860	seizures
+rs643410	schizophrenia
+rs6443624	endometrial cancer
+rs6445055	glaucoma
+rs6445834	metabolic syndrome
+rs6449182	lymphoma
+rs644926	insomnia
+rs645106	hypertension
+rs6451770	breast cancer
+rs6457327	lymphoma
+rs6457452	lung cancer
+rs6457617	cervical cancer
+rs6458238	gastric cancer
+rs6464153	breast cancer
+rs6467	AIDS
+rs6469937	myopia
+rs647126	diabetes
+rs6471	hypertension
+rs6478317	asthma
+rs6479891	Gene expression
+rs6489630	dementia
+rs6490121	intelligence
+rs6490121	memory
+rs6490121	schizophrenia
+rs649129	blood group
+rs6495309	COPD
+rs6495309	lung cancer
+rs6498486	colorectal cancer
+rs6498486	xeroderma pigmentosum
+rs6499640	obesity
+rs6499640	Pick disease
+rs6502867	autoimmune disease
+rs6502976	sarcoidosis
+rs6503527	asthma
+rs6504950	breast cancer
+rs6505162	breast cancer
+rs6505162	hepatocellular carcinoma
+rs6505162	ovarian cancer
+rs651007	obesity
+rs6519265	glioma
+rs653178	antiphospholipid syndrome
+rs653178	celiac disease
+rs653178	coronary artery disease
+rs653178	diabetes
+rs653178	hypertension
+rs6532197	diabetes
+rs6532197	supranuclear palsy
+rs6532197	systemic lupus erythematosus
+rs6535455	multiple myeloma
+rs6537296	COPD
+rs653753	hypertension
+rs653765	neuroblastoma
+rs6537835	autism
+rs6547626	diabetes
+rs6548238	C-reactive protein
+rs6548238	diabetes
+rs6548238	obesity
+rs6548238	telomere length
+rs6550976	interleukin
+rs6557171	dementia
+rs6564851	hemochromatosis
+rs6567160	obesity
+rs6569648	AIDS
+rs6569648	Celiac disease
+rs6569648	inflammatory bowel disease
+rs6569648	nephropathy
+rs6574978	asthma
+rs6574978	COPD
+rs6576618	cleft palate
+rs6583813	diabetes
+rs6583817	diabetes
+rs6584400	schizophrenia
+rs6586161	gastric cancer
+rs6588147	colon cancer
+rs6590109	autism
+rs6590357	hypertension
+rs6591256	asthma
+rs6592961	autism
+rs659366	diabetes
+rs659366	hypertension
+rs659366	insulin resistance
+rs659366	obesity
+rs6596140	hypertension
+rs660118	breast cancer
+rs660118	glioblastoma
+rs6602024	obesity
+rs660652	COPD
+rs660652	lung cancer
+rs660652	Lung Disease
+rs660895	proteinuria
+rs6609533	COPD
+rs662702	myopia
+rs662799	Body mass index
+rs662799	coronary heart disease
+rs662799	diabetes
+rs662799	HIV
+rs662799	hypertension
+rs662799	metabolic syndrome
+rs662799	obesity
+rs662959	lung cancer
+rs662	atherosclerosis
+rs662	clopidogrel
+rs662	leukemia
+rs662	lung cancer
+rs662	lymphoma
+rs662	meningioma
+rs662	obesity
+rs662	retinoblastoma
+rs662	Wilms Tumor
+rs664143	breast cancer
+rs664143	lung cancer
+rs664677	breast cancer
+rs664677	lung cancer
+rs6656401	Alzheimer disease
+rs6656401	angiopathy
+rs6656401	complement component
+rs6656401	hemorrhage
+rs6672420	gastric cancer
+rs6672420	H. pylori infection
+rs6672836	hypertension
+rs6678616	cataract
+rs6682082	hypertension
+rs6684209	hypertension
+rs668514	diabetes
+rs6688832	polycystic ovary syndrome
+rs668	graft-versus-host disease
+rs6690625	colorectal cancer
+rs6690993	amyotrophic lateral sclerosis
+rs6691840	alcohol dependence
+rs6700125	amyotrophic lateral sclerosis
+rs6700896	diabetes
+rs6708316	body mass index
+rs6708316	diabetes
+rs6708316	insulin resistance
+rs6708316	obesity
+rs670	breast cancer
+rs670	obesity
+rs6713532	schizophrenia
+rs67164370	ovarian cancer
+rs6717980	diabetes
+rs671	coronary artery disease
+rs671	coronary heart disease
+rs671	epilepsy
+rs671	gastric cancer
+rs671	hypertension
+rs671	myocardial infarction
+rs671	stroke
+rs6721961	gene expression
+rs6721961	lung cancer
+rs6723108	diabetes
+rs672348	myotonic dystrophy
+rs6735330	autism
+rs67384697	HIV
+rs6740584	Major Depressive Disorder
+rs6742078	bilirubin
+rs6742078	Gilbert syndrome
+rs6744682	body mass index
+rs6744682	diabetes
+rs6744682	insulin resistance
+rs6744682	obesity
+rs67491583	colorectal cancer
+rs6749447	hypertension
+rs6755028	asthma
+rs676033	prostate cancer
+rs676387	breast cancer
+rs6773854	lymphoma
+rs6777038	diabetes
+rs6780995	malaria
+rs67841474	cervical cancer
+rs678653	lung cancer
+rs6790925	migraine
+rs6795970	heart block
+rs6800566	interleukin
+rs6809699	myocardial infarction
+rs6809699	stroke
+rs6809699	thromboembolism
+rs680	adiponectin
+rs680	colon cancer
+rs680	insulin resistance
+rs6810951	hypertension
+rs6812193	Parkinson disease
+rs6813195	diabetes
+rs6815464	diabetes
+rs681591	ataxia
+rs6822844	autoimmune disease
+rs6822844	celiac disease
+rs6822844	diabetes
+rs6822844	interleukin
+rs6822844	prostate cancer
+rs6822844	rheumatoid arthritis
+rs6822844	systemic lupus erythematosus
+rs6825004	Parkinson disease
+rs6828523	breast cancer
+rs682985	stroke
+rs6830266	diabetes
+rs6840978	autoimmune disease
+rs6840978	prostate cancer
+rs6844282	colon cancer
+rs6853	tuberculosis
+rs685428	Diabetes
+rs6855911	hyperuricemia
+rs6855911	phobia
+rs6857600	lymphoma
+rs6857715	obesity
+rs6859219	rheumatoid arthritis
+rs6871626	leprosy
+rs6872664	Autism
+rs6883877	epilepsy
+rs6885224	myopia
+rs6887695	arthropathy
+rs6887695	multiple sclerosis
+rs6887695	psoriasis
+rs688	Alzheimer disease
+rs688	cerebral infarction
+rs688	coronary artery disease
+rs688	hemorrhage
+rs688	stroke
+Rs6893114	lung cancer
+rs689465	prostate cancer
+rs689466	breast cancer
+rs689466	colorectal cancer
+rs689466	H. pylori infection
+rs689466	prostate cancer
+rs689470	esophagitis
+rs689470	myocardial infarction
+rs689470	stroke
+rs6897932	autoimmune disease
+rs6897932	diabetes
+rs6897932	HIV
+rs6897932	interleukin
+rs6897932	lupus nephritis
+rs6897932	multiple sclerosis
+rs6897932	systemic lupus erythematosus
+rs6898743	colorectal cancer
+rs6898743	esophageal cancer
+rs689	diabetes
+rs690037	glaucoma
+rs6902123	diabetes
+rs6903874	schizophrenia
+rs6903956	atherosclerosis
+rs6903956	coronary artery disease
+rs6907340	endometriosis
+rs6908425	diabetes
+rs6910534	menopause
+rs6912200	gastric cancer
+rs6912200	H. pylori infection
+rs6920220	rheumatoid arthritis
+rs6920648	breast cancer
+rs6922269	coronary artery disease
+rs6922269	coronary heart disease
+Rs6923492	breast cancer
+rs6923761	Body mass index
+rs692527	leprosy
+rs6927706	breast cancer
+rs6928499	nicotine dependence
+rs6928	Major Depressive Disorder
+rs6929137	osteoporosis
+rs6929846	body mass index
+rs6929846	coronary heart disease
+rs6929846	diabetes
+rs6929846	hypertension
+rs6929846	hypertriglyceridemia
+rs6929846	interleukin
+rs6929846	metabolic syndrome
+rs6929846	myocardial infarction
+rs6932902	hypospadias
+rs6934903	hemoglobin
+rs6937506	schizophrenia
+rs693955	neutropenia
+rs6939861	gastric cancer
+rs693	atherosclerosis
+rs693	body mass index
+rs693	breast cancer
+rs693	diabetes
+rs693	hypercholesterolemia
+rs6941539	gastric cancer
+rs6943555	autism
+rs694539	schizophrenia
+rs6948	lymphoma
+rs6949149	breast cancer
+rs6949149	prostate cancer
+rs6950683	cirrhosis
+rs6950765	autism
+rs69510130	autism
+rs6957	COPD
+rs6960920	autoimmune disease
+rs696217	breast cancer
+rs6962966	Down syndrome
+rs6964587	breast cancer
+rs6965571	asthma
+rs6967330	asthma
+rs6969502	breast cancer
+rs6969502	prostate cancer
+rs6973569	osteosarcoma
+rs6982502	fatty liver
+rs6982567	vasculopathy
+rs6983267	body mass index
+rs6983267	colon cancer
+rs6983267	colorectal cancer
+rs6983267	prostate cancer
+rs6983267	thyroid cancer
+rs6983561	pancreatic cancer
+rs6983561	prostate cancer
+rs698	alcohol dependence
+rs698	gastric cancer
+rs698	nicotine addiction
+rs6990097	telomere length
+rs6990300	breast cancer
+rs6994992	major depressive disorder
+rs6994992	schizophrenia
+rs699947	diabetes
+rs699947	lung cancer
+rs699947	migraine
+rs699947	nephropathy
+rs699	hypertension
+rs7000448	prostate cancer
+rs7003146	breast cancer
+rs7003908	bladder cancer
+rs7003908	prostate cancer
+rs700519	breast cancer
+rs7007797	Body mass index
+rs7009110	asthma
+rs7009708	schizophrenia
+rs7014346	breast cancer
+rs7022435	epilepsy
+rs7022435	seasonal affective disorder
+rs7023329	melanoma
+rs7025486	aneurysm
+rs7025486	diabetes
+rs7025486	hypertension
+rs7025486	myocardial infarction
+rs7025486	obesity
+rs7025486	stroke
+rs702553	atherosclerosis
+rs702553	gene expression
+rs702553	Hypertension
+rs702553	stroke
+rs702634	diabetes
+rs702689	asthma
+rs7028661	thyroid cancer
+rs702873	rheumatoid arthritis
+rs7034200	diabetes
+rs7037324	thyroid cancer
+rs703817	leukemia
+rs704010	breast cancer
+rs7041	breast cancer
+rs7041	IgE
+rs7041	interleukin
+rs7041	melanoma
+rs7045881	schizophrenia
+rs7057398	pancreatitis
+rs7063116	hypospadias
+rs706778	diabetes
+rs706778	interleukin
+rs7072268	diabetes
+rs7072793	breast cancer
+rs7072793	gene expression
+rs7078012	COPD
+rs707824	lymphoma
+rs707889	hemochromatosis
+rs708272	myocardial infarction
+rs708486	lymphoma
+rs708494	myocardial infarction
+rs708494	stroke
+rs708495	myocardial infarction
+rs708495	stroke
+rs708567	interleukin
+rs708567	malaria
+rs7085725	gene expression
+rs7097397	C-reactive protein
+rs7097	lymphoma
+rs70991108	breast cancer
+rs70991108	nasopharyngeal carcinoma
+rs7100623	diabetes
+rs7100927	diabetes
+rs710521	bladder cancer
+rs7105934	body mass index
+rs7105934	renal cell carcinoma
+rs7119375	body mass index
+rs7119375	hypertension
+rs712012	endometriosis
+rs7124442	asthma
+rs7124442	atopy
+rs712507	migraine
+rs712	colorectal cancer
+rs712	gastric cancer
+rs712	squamous cell carcinoma
+rs7130588	asthma
+rs7130588	interleukin
+rs7131056	phobia
+rs713586	obesity
+rs713875	AIDS
+rs713875	Celiac disease
+rs713875	inflammatory bowel disease
+rs713875	nephropathy
+rs7138803	body mass index
+rs7138803	hypertension
+rs7138803	Metabolic Syndrome
+rs7138803	obesity
+rs7138803	Pick disease
+rs7138803	stroke
+rs71428439	myocardial infarction
+rs715299	sarcoidosis
+rs7154455	HIV
+rs7154455	lipodystrophy
+rs7154455	metabolic syndrome
+rs716274	lung cancer
+rs7163283	stroke
+rs7164594	lung cancer
+rs7166081	breast cancer
+rs7168796	lung cancer
+rs7170924	lung cancer
+rs7172432	diabetes
+rs7172432	plasma glucose
+rs7173321	stroke
+rs7174119	Angelman syndrome
+rs7174839	stroke
+rs7177922	atherosclerosis
+rs7177922	HIV
+rs7178270	lung cancer
+rs7178572	diabetes
+rs71802646	asthma
+rs7181486	COPD
+rs718226	H. pylori infection
+rs7190053	obesity
+rs7192	interleukin
+rs7193144	body mass index
+rs7193144	obesity
+rs7193343	interleukin
+rs7194886	leprosy
+rs7194886	tuberculosis
+rs719725	Colon Cancer
+rs719725	colorectal cancer
+rs7201929	obesity
+rs7201	endometriosis
+rs7202877	diabetes
+rs7204609	diabetes
+rs7204609	obesity
+rs7205289	cleft palate
+rs7205423	H. pylori infection
+rs7206790	obesity
+rs7208422	squamous cell carcinoma
+rs7208693	lung cancer
+rs721048	prostate cancer
+rs7211818	diabetes
+rs7211818	nephropathy
+rs7212142	diabetes
+rs7212142	nephropathy
+rs7212938	asthma
+rs7214723	lung cancer
+rs7216389	asthma
+rs7216389	glioma
+rs7217186	body mass index
+rs7217270	migraine
+rs721917	COPD
+rs7224837	ovarian cancer
+rs72258881	hepatitis C virus
+rs7226991	breast cancer
+rs7227401	obesity
+rs723526	melanoma
+rs72393728	interleukin
+rs7248668	hepatitis C virus
+rs7248668	HIV
+rs7248668	interleukin
+rs7249617	schizophrenia
+rs72552266	nicotine dependence
+rs72552713	gout
+rs725613	diabetes
+rs7257330	bladder cancer
+rs72696119	H. pylori infection
+rs72700966	seizures
+rs7270101	anemia
+rs7270101	hemoglobin
+rs7270101	hepatitis C virus
+rs7270101	immunodeficiency
+rs727428	body mass index
+rs727428	diabetes
+rs727428	insulin resistance
+rs727428	obesity
+rs7281762	leprosy
+rs72975916	gene expression
+rs730012	stroke
+rs730154	breast cancer
+rs730357	schizophrenia
+rs730437	glioma
+rs7310409	diabetes
+rs7310409	hypertension
+rs7310409	Hypertriglyceridemia
+rs7310505	prostate cancer
+rs7312175	endometrial cancer
+rs731236	melanoma
+rs731236	multiple sclerosis
+rs731236	obesity
+rs731236	ovarian cancer
+rs731236	ovarian carcinoma
+rs7313833	breast cancer
+rs7324547	adenocarcinoma
+rs7325450	myopia
+rs732	schizophrenia
+rs7331047	myopia
+rs7333181	menopause
+rs7335046	melanoma
+rs7335046	squamous cell carcinoma
+rs733618	autoimmune disease
+rs733618	systemic lupus erythematosus
+rs7337610	colon cancer
+rs7337610	Sarcoidosis
+rs7341475	schizophrenia
+rs734312	diabetes
+rs734553	proteinuria
+rs7349332	hair
+rs7349683	neuropathy
+rs735482	lung cancer
+rs7356530	endometriosis
+rs735665	leukemia
+rs735665	lymphoma
+Rs7356	colorectal cancer
+rs7372209	cervical cancer
+rs737865	schizophrenia
+rs737865	Spina bifida
+rs738409	adiponectin
+rs738409	aspartate aminotransferase
+rs738409	body mass index
+rs738409	cirrhosis
+rs738409	C-reactive protein
+rs738409	diabetes
+rs738409	fatty liver
+rs738409	hepatitis C virus
+rs738409	hepatocellular carcinoma
+rs738409	HIV
+rs738409	insulin resistance
+rs738409	interleukin
+rs738409	metabolic syndrome
+rs738409	obesity
+rs7385804	anemia
+rs739837	hypertension
+rs7412	angiopathy
+rs7412	dementia
+rs7412	hemorrhage
+rs7412	metabolic syndrome
+rs7412	obesity
+rs74318745	sarcoidosis
+rs743506	hypertension
+rs743506	migraine
+rs743506	obesity
+rs743572	breast cancer
+rs743572	endometriosis
+rs743572	lung cancer
+rs743777	rheumatoid arthritis
+rs7439293	atherosclerosis
+rs7439293	coronary heart disease
+rs744166	autoimmune thyroid disease
+rs744166	colon cancer
+rs744166	gastric cancer
+rs744166	inflammatory bowel disease
+rs74421874	carpal tunnel syndrome
+rs74421874	diabetes
+rs74421874	hypercholesterolemia
+rs74421874	hypertension
+rs74421874	nephropathy
+rs74421874	neuropathy
+rs74421874	obesity
+rs744373	memory
+rs744751	leprosy
+rs744910	asthma
+rs7452939	schizophrenia
+rs7453920	hepatitis B virus
+rs7453920	interleukin
+rs746187	schizophrenia
+rs746429	breast cancer
+rs746432	prostate cancer
+rs747782	glaucoma
+rs7480010	body mass index
+rs748065	eosinophilia
+rs748120	diabetes
+rs749072	colorectal cancer
+rs749174	lung cancer
+rs749457	schizophrenia
+rs749759	interleukin
+rs7498665	diabetes
+rs7498665	obesity
+rs750338	alcohol dependence
+rs7504990	colorectal cancer
+rs751141	diabetes
+rs751141	hypertension
+rs751141	stroke
+rs7512462	lung disease
+rs7512462	meconium ileus
+rs7513662	schizophrenia
+rs751402	squamous cell carcinoma
+rs7517847	inflammatory bowel disease
+rs751837	lymphoma
+rs7520850	obesity
+rs7521023	hypertension
+rs7527939	schizophrenia
+rs7528484	gastric cancer
+rs752854	diabetes
+rs7528684	rheumatoid arthritis
+rs7528684	systemic lupus erythematosus
+rs7530511	Interleukin
+rs7530511	psoriasis
+rs753307	stroke
+rs753482	coronary artery disease
+rs7536540	cirrhosis
+rs7536540	hepatocellular carcinoma
+rs7538427	multiple sclerosis
+rs7539020	diabetes
+rs7539020	hypertension
+rs753955	lung cancer
+rs754203	glaucoma
+rs7542235	hypertension
+rs7542235	macular degeneration
+rs7548189	diarrhea
+rs7550380	breast cancer
+rs755203	nicotine dependence
+rs7555523	glaucoma
+rs7556088	schizophrenia
+rs7558615	breast cancer
+rs7558615	prostate cancer
+rs7561317	obesity
+rs7561460	endometriosis
+rs7564590	breast cancer
+rs7564590	prostate cancer
+rs756472	autism
+Rs7565981	memory
+Rs7565981	seasonal affective disorder
+rs7566605	body mass index
+rs7566605	obesity
+rs757343	diabetes
+rs757343	melanoma
+rs7574865	autoimmune disease
+rs7574865	diabetes
+rs7574865	hepatitis B virus
+rs7574865	hepatitis C virus
+rs7574865	hepatocellular carcinoma
+rs7574865	inflammatory bowel disease
+rs7574865	lung disease
+rs7574865	rheumatoid arthritis
+rs7574865	systemic lupus erythematosus
+rs7575840	Metabolic Syndrome
+rs7577262	migraine
+rs7577	nephropathy
+rs7578326	diabetes
+rs7578597	body mass index
+rs7578597	colorectal cancer
+rs7578597	diabetes
+rs7578597	hemoglobin
+rs7578597	obesity
+rs7578597	plasma glucose
+rs7579169	hypertension
+rs7579	aneurysm
+rs7579	prostate cancer
+rs758316	endometriosis
+rs7583877	diabetes
+rs7583877	end-stage renal disease
+rs7583877	nephropathy
+rs7583877	proteinuria
+rs758739	psoriasis
+rs7588550	diabetes
+rs7588550	end-stage renal disease
+rs7588550	nephropathy
+rs7588550	proteinuria
+rs75932628	Alzheimer disease
+rs75932628	amyotrophic lateral sclerosis
+rs7602358	diabetes
+rs7602358	prostate cancer
+rs7602	menarche
+rs760426	rheumatoid arthritis
+rs76043829	asthma
+rs7605378	osteoporosis
+rs760805	gastric cancer
+rs760805	H. pylori infection
+rs7612462	diabetes
+rs762551	H. pylori infection
+rs762551	lung cancer
+rs762623	cervical cancer
+rs7626962	atrial fibrillation
+rs762803	lung cancer
+rs7628626	colorectal cancer
+rs7629265	Atherosclerosis
+rs7629265	atrial fibrillation
+rs763110	lung cancer
+rs763110	rheumatoid arthritis
+rs763110	squamous cell carcinoma
+rs7631358	lung cancer
+rs763361	autoimmune disease
+rs763361	autoimmune polyendocrinopathy syndrome
+rs763361	celiac disease
+rs763361	diabetes
+rs763361	multiple sclerosis
+rs763361	psoriasis
+rs763361	rheumatoid arthritis
+rs763361	systemic lupus erythematosus
+rs763780	asthma
+rs763780	bladder cancer
+rs763780	colorectal cancer
+rs763780	gastric cancer
+rs763780	interleukin
+rs763780	periodontitis
+rs763780	tuberculosis
+rs7639752	endometriosis
+rs7640543	migraine
+rs7646409	osteosarcoma
+rs76481776	insomnia
+rs7650365	ovarian cancer
+rs7651090	diabetes
+rs7652589	nephrolithiasis
+rs7656411	asthma
+rs7656411	colon cancer
+rs7656416	diabetes
+rs7667298	sarcoidosis
+rs7668666	melanoma
+rs7671167	COPD
+rs767455	breast cancer
+rs7679673	endometrial cancer
+rs7679673	prostate cancer
+rs7691507	sarcoidosis
+rs769217	body mass index
+rs769412	breast cancer
+rs769416	breast cancer
+rs7696175	breast cancer
+rs7698623	stroke
+rs7700944	rheumatoid arthritis
+rs7705526	ovarian cancer
+rs7716600	breast cancer
+rs7719175	malaria
+rs7726159	breast cancer
+rs7726159	prostate cancer
+rs7726580	schizophrenia
+rs7727832	ovarian cancer
+rs7737031	asthma
+rs77381814	cervical cancer
+rs7738943	Angelman syndrome
+rs7739264	endometriosis
+rs7741021	longevity
+rs7741021	osteoporosis
+rs7744020	influenza
+rs7754561	obesity
+rs7754840	diabetes
+rs7755224	lymphoma
+rs7755	coronary heart disease
+rs7756992	diabetes
+rs7756992	hypertension
+rs7756992	nephropathy
+rs7756992	obesity
+rs7757956	HIV
+rs7757956	lipodystrophy
+rs7757956	metabolic syndrome
+rs7758229	colon cancer
+rs7758229	colorectal cancer
+rs7763881	squamous cell carcinoma
+rs7767084	coronary heart disease
+rs776746	hypertension
+rs776746	stroke
+rs7770370	memory
+rs7771466	interleukin
+rs7775356	diabetes
+rs7775	breast cancer
+rs7789699	breast cancer
+rs7794745	autism
+rs7797466	ovarian cancer
+rs779805	renal cell carcinoma
+rs7799039	body mass index
+rs7799039	colon cancer
+rs7799039	obesity
+rs780094	body mass index
+rs780094	coronary heart disease
+rs780094	C-reactive protein
+rs780094	diabetes
+rs780094	gout
+rs780094	insulin resistance
+rs780094	obesity
+rs780094	pancreatic cancer
+rs780094	plasma glucose
+rs780094	plasma triglyceride level
+rs780094	stroke
+rs7801086	nevus
+rs7804372	gastric cancer
+rs7805828	breast cancer
+rs7805828	prostate cancer
+rs7813	squamous cell carcinoma
+rs7830	hypertension
+rs7830	interleukin
+rs7830	obesity
+rs7832529	bladder cancer
+rs78378222	glioblastoma
+rs78378222	glioma
+rs78378222	lung cancer
+rs78378222	melanoma
+rs78380171	leukemia
+rs7853122	gastric cancer
+rs7861779	colorectal cancer
+rs78645479	candidiasis
+rs7872802	hemorrhage
+rs7872802	stroke
+rs7873784	colorectal cancer
+rs7900150	breast cancer
+rs7901695	diabetes
+rs7902091	schizophrenia
+rs7902708	longevity
+rs7902708	osteoporosis
+rs7903146	adiponectin
+rs7903146	Atherosclerosis
+rs7903146	birth weight
+rs7903146	body mass index
+rs7903146	breast cancer
+rs7903146	colon cancer
+rs7903146	colorectal cancer
+rs7903146	coronary artery disease
+rs7903146	diabetes
+rs7903146	end-stage renal disease
+rs7903146	hepatitis C virus
+rs7903146	HIV
+rs7903146	immunodeficiency
+rs7903146	insulin resistance
+rs7903146	lung cancer
+rs7903146	nephropathy
+rs7903146	obesity
+rs7903146	ovarian cancer
+rs7903146	pancreatic cancer
+rs7903146	plasma glucose
+rs7903146	polycystic ovary syndrome
+rs7903146	stroke
+rs7904463	prostate cancer
+rs7910977	diabetes
+rs7911500	C-reactive protein
+rs7911500	interleukin
+rs7913948	diabetes
+rs7913948	hypertension
+rs7914558	schizophrenia
+rs7914558	social cognition
+rs7918972	proteinuria
+rs7920934	schizophrenia
+rs7923837	diabetes
+rs7924176	gene expression
+rs7925879	autism
+rs7927894	asthma
+rs7927894	atopy
+rs7927894	dermatitis
+rs7927894	IgE
+rs7928739	endometriosis
+rs7935792	IgE
+rs7937	COPD
+rs7937	lung cancer
+rs7943320	diabetes
+rs7944584	diabetes
+rs7948797	hypertension
+rs7950226	prostate cancer
+rs7958822	phobia
+rs7961581	colorectal cancer
+rs7961581	diabetes
+rs7961581	obesity
+rs7968585	body mass index
+rs7968585	C-reactive protein
+rs7968585	diabetes
+rs7968585	obesity
+rs7969148	clubfoot
+rs7975232	asthma
+rs7975232	melanoma
+rs7975232	multiple sclerosis
+rs7975232	ovarian cancer
+rs7975232	ovarian carcinoma
+rs7975614	stroke
+rs7981733	nephrolithiasis
+rs7984952	breast cancer
+rs7986346	prostate cancer
+rs7987649	colon cancer
+rs798766	bladder cancer
+rs7993418	pancreatic cancer
+rs7997012	major depressive disorder
+rs799890	breast cancer
+rs799917	breast cancer
+rs799917	gastric cancer
+rs800292	body mass index
+rs800292	diabetes
+rs800292	macular degeneration
+rs800292	vasculopathy
+rs8007267	anemia
+rs801186	breast cancer
+rs8016947	psoriasis
+rs8018687	prostate cancer
+rs802568	schizophrenia
+rs802734	gene expression
+rs80309960	hepatocellular carcinoma
+rs8034191	asthma
+rs8034191	COPD
+rs8034191	lung cancer
+rs8034191	nicotine dependence
+rs8039880	colon cancer
+rs8040868	lung cancer
+rs8041357	bladder cancer
+rs8042374	lung cancer
+rs804270	gastric cancer
+rs8043757	obesity
+rs8044769	body mass index
+rs8050136	body mass index
+rs8050136	diabetes
+rs8050136	obesity
+rs8050136	pancreatic cancer
+rs8050136	plasma glucose
+rs8050136	tuberculosis
+rs805296	coronary artery disease
+rs805296	diabetes
+rs805297	C-reactive protein
+rs805297	rheumatoid arthritis
+rs805304	hypertension
+rs805304	obesity
+rs805305	hypertension
+rs8061518	insulin resistance
+rs8061518	obesity
+rs806365	Diabetes
+rs806368	schizophrenia
+rs8066560	insulin resistance
+rs8067378	cervical cancer
+rs8070488	atherosclerosis
+rs8070740	complement component
+rs8073069	asthma
+rs8073903	asthma
+rs8074995	memory
+rs8074995	schizophrenia
+rs8078340	malaria
+rs8079416	asthma
+rs8081059	renal cell carcinoma
+rs8084	interleukin
+rs8087522	obesity
+rs8089	coronary artery disease
+rs8089	myocardial infarction
+rs8090011	diabetes
+rs8099917	anemia
+rs8099917	aspartate aminotransferase
+rs8099917	cirrhosis
+rs8099917	hepatitis B virus
+rs8099917	hepatitis C virus
+rs8099917	hepatocellular carcinoma
+rs8099917	HIV
+rs8099917	infections
+rs8099917	insulin resistance
+rs8099917	interleukin
+rs8099917	neuropathy
+rs8100241	breast cancer
+rs8102137	bladder cancer
+rs8102476	prostate cancer
+rs8103142	hepatitis C virus
+rs8103142	HIV
+rs8103142	interleukin
+rs8108419	breast cancer
+rs8111699	birth weight
+rs8111699	diabetes
+rs8111699	hyperandrogenism
+rs8113232	asthma
+rs8124792	breast cancer
+rs8126	gastric cancer
+rs8135424	endometrial cancer
+rs8136867	Major Depressive Disorder
+rs8141691	breast cancer
+rs8150	breast cancer
+rs8170	breast cancer
+rs8175347	breast cancer
+rs8176318	breast cancer
+rs8176318	ovarian cancer
+rs8176693	glaucoma
+rs8177374	interleukin
+rs8177374	tuberculosis
+rs8177826	HIV
+rs8178097	breast cancer
+rs817826	prostate cancer
+rs8179096	cleft palate
+rs8187710	hypertension
+rs8192284	diabetes
+rs8192284	multiple myeloma
+rs8192284	neuroblastoma
+rs8192284	rheumatoid arthritis
+rs8192673	diabetes
+rs8192673	obesity
+rs8192678	diabetes
+rs8192678	nephropathy
+rs8192789	nicotine dependence
+rs8193036	interleukin
+rs820336	asthma
+rs821639	memory
+rs821722	opioid dependence
+rs822396	myocardial infarction
+rs822396	stroke
+rs8259	psoriasis
+rs828618	asthma
+rs828618	polyposis
+rs828704	glioma
+rs828907	breast cancer
+rs833058	asthma
+rs833061	colorectal cancer
+rs833061	diabetes
+rs833061	hypothyroidism
+rs833061	interleukin
+rs833061	lung cancer
+rs833061	nephropathy
+rs8330	liver failure
+rs834835	schizophrenia
+rs835784	schizophrenia
+rs838136	aspartate aminotransferase
+rs838136	body mass index
+rs841853	diabetes
+rs843748	diabetes
+rs844648	breast cancer
+rs848	psoriasis
+rs8506	gastric cancer
+rs851982	prostate cancer
+rs854560	leukemia
+rs854560	meningioma
+rs854560	retinoblastoma
+rs854566	obesity
+rs855791	anemia
+rs855791	hemoglobin
+rs856613	alcohol dependence
+rs861529	breast cancer
+rs861530	esophageal cancer
+rs861530	gastric cancer
+rs861539	bladder cancer
+rs861539	breast cancer
+rs861539	cervical cancer
+rs861539	coronary artery disease
+rs861539	esophageal cancer
+rs861539	gastric cancer
+rs861539	glioblastoma
+rs861539	glioma
+rs861539	hair
+rs861539	leukemia
+rs861539	lung cancer
+rs864745	colorectal cancer
+rs864745	diabetes
+rs865686	breast cancer
+rs8679	bladder cancer
+rs8679	breast cancer
+rs869833	glaucoma
+rs8702	Alzheimer disease
+rs8702	cataract
+rs872071	melanoma
+rs872129	stroke
+rs873079	diabetes
+rs8731	diabetes
+rs8731	plasma glucose
+rs873978	obesity
+rs8752	breast cancer
+rs8767412	lung cancer
+rs877087	atherosclerosis
+rs877087	stroke
+rs877776	dermatitis
+Rs878461	asthma
+rs880626	epilepsy
+rs881152	asthma
+rs882194	schizophrenia
+rs884115	diabetes
+rs884419	prostate cancer
+rs885747	prostate cancer
+rs886205	diabetes
+rs887205	breast cancer
+rs889312	asthma
+rs889312	breast cancer
+rs889312	gastric cancer
+rs889312	pancreatic cancer
+rs889895	Major Depressive Disorder
+rs891512	hypertension
+rs892119	endometrial cancer
+rs893051	dermatitis
+rs893363	endometriosis
+rs894160	diabetes
+rs894160	obesity
+rs895521	prostate cancer
+rs895819	body mass index
+rs895819	breast cancer
+rs895819	cervical cancer
+rs895819	gastric cancer
+rs895819	ovarian cancer
+rs895919	breast cancer
+rs897200	interleukin
+rs905883	breast cancer
+rs905883	prostate cancer
+rs906296	breast cancer
+rs907715	diabetes
+rs907715	IgE
+rs90792	asthma
+rs909253	gastric cancer
+rs909253	HIV
+rs909253	H. pylori infection
+rs909253	lymphoma
+rs909253	menopause
+rs909253	stroke
+rs909530	hemoglobin
+rs909530	neutropenia
+rs911887	COPD
+rs9138	rheumatoid arthritis
+rs917997	Celiac disease
+rs917997	gene expression
+rs925489	thyroid carcinoma
+rs925946	obesity
+rs9263871	lupus nephritis
+rs9264942	HIV
+rs9267502	Psoriasis
+rs926778	breast cancer
+rs9268516	asthma
+rs9268839	sarcoidosis
+rs9268853	lymphoma
+rs9271117	influenza
+rs9272143	cervical cancer
+rs9272219	rheumatoid arthritis
+rs9272346	asthma
+rs9273349	asthma
+rs9275319	hepatitis B virus
+rs9275319	hepatitis C virus
+rs9275319	hepatocellular carcinoma
+rs9275572	cirrhosis
+rs9275572	hepatitis B virus
+rs9275572	hepatitis C virus
+rs9275572	hepatocellular carcinoma
+rs927650	melanoma
+rs927650	thyroid carcinoma
+rs9277535	gene expression
+rs9277535	hepatitis B virus
+rs9277535	interleukin
+rs9282861	bladder cancer
+rs9282861	breast cancer
+rs928554	prostate cancer
+rs9288516	glioma
+rs928883	lymphoma
+rs9290927	dermatitis
+rs9291283	alcohol dependence
+rs929387	tooth agenesis
+rs9300039	diabetes
+rs9300039	obesity
+rs9302752	tuberculosis
+rs930395	breast cancer
+rs9308762	obesity
+rs9311171	breast cancer
+rs9311171	prostate cancer
+rs931127	breast cancer
+rs9315050	cerebral infarction
+rs9315050	hypertension
+rs9315050	stroke
+rs9318086	myopia
+rs9319428	body mass index
+rs9319428	diabetes
+rs9319428	hypertension
+rs932477	memory
+rs9325782	breast cancer
+rs9325782	prostate cancer
+rs933150	rheumatoid arthritis
+rs9332127	warfarin sensitivity
+rs9340799	breast cancer
+rs9340799	coronary heart disease
+rs9340799	dementia
+rs9340799	endometriosis
+rs9340799	major depressive disorder
+rs9340799	memory
+rs9340799	phobia
+rs9340799	prostate cancer
+rs9340799	scoliosis
+rs9341016	memory
+rs934167	diabetes
+rs9344	breast cancer
+rs9344	cervical cancer
+rs9344	colon cancer
+rs9344	lung cancer
+rs9351963	diarrhea
+rs9356058	leprosy
+rs9357271	obsessive-compulsive disorder
+rs9357271	restless legs syndrome
+rs936170	asthma
+rs9366357	diabetes
+rs936938	autism
+rs9370822	schizophrenia
+rs9375813	hypertension
+rs9378805	asthma
+rs9379084	nephropathy
+rs937	dementia
+rs9383935	breast cancer
+rs9383938	breast cancer
+rs9386126	obesity
+rs9388451	Brugada syndrome
+rs93886	breast cancer
+rs938886	telomere length
+rs9389370	schizophrenia
+rs939348	hypertension
+rs939583	obesity
+rs9397435	breast cancer
+rs9397456	dementia
+rs9397456	memory
+rs9399137	thalassemia
+rs9402349	insulin resistance
+rs9402349	metabolic syndrome
+rs9402349	obesity
+rs940494	coronary artery disease
+rs940494	diabetes
+rs940	body mass index
+rs940	hypertension
+rs940	menopause
+rs941576	birth weight
+rs941576	diabetes
+rs941764	breast cancer
+rs9434741	endometriosis
+rs944289	thyroid cancer
+rs944289	thyroid carcinoma
+rs9446777	periodontitis
+rs9457827	menopause
+rs9468925	psoriasis
+rs9468	supranuclear palsy
+rs9469031	lung cancer
+rs9469089	diabetes
+rs9471643	gastric cancer
+rs9472138	diabetes
+rs947894	diabetes
+rs947894	hypertension
+rs947895	asthma
+rs9485372	breast cancer
+rs9491896	gene expression
+rs9494145	eosinophilia
+rs951005	lung disease
+rs9510902	myopia
+rs9513008	colon cancer
+rs9514089	metabolic syndrome
+rs951436	memory
+rs9533156	periodontitis
+rs954326	myopia
+rs9548934	coronary artery disease
+rs9548937	diabetes
+rs9551963	cerebral infarction
+rs9551963	hypertension
+rs9551963	stroke
+rs9561778	breast cancer
+rs9561778	neutropenia
+rs956572	major depressive disorder
+rs9579646	cerebral infarction
+rs9579646	diabetes
+rs9579646	stroke
+rs9582036	pancreatic cancer
+rs9590614	pulmonary disease
+rs9594738	obesity
+Rs9600079	prostate cancer
+rs9605030	prostate cancer
+rs9605031	prostate cancer
+rs9605146	blood group
+rs9607267	hypertension
+rs9608491	schizophrenia
+rs9610	lymphoma
+rs961253	body mass index
+rs961253	Colon Cancer
+rs9619311	bladder cancer
+rs9621532	macular degeneration
+rs9624880	bladder cancer
+rs9635726	asthma
+rs9640699	Down syndrome
+rs9641319	otosclerosis
+rs964184	prostate cancer
+rs9642880	bladder cancer
+rs9648723	colon cancer
+rs9651118	lung cancer
+rs9652490	Parkinson disease
+rs9652490	tremor
+rs9653711	schizophrenia
+rs965513	thyroid cancer
+rs965513	thyroid carcinoma
+rs9657904	multiple sclerosis
+rs9658056	diabetes
+rs9658676	malaria
+rs9661837	memory
+rs966221	stroke
+rs966423	thyroid cancer
+rs966513	thyroid cancer
+rs9674559	diabetes
+rs9674559	nephropathy
+rs967591	lung cancer
+rs9679162	hepatocellular carcinoma
+rs9693444	breast cancer
+rs969485	breast cancer
+rs972283	diabetes
+rs9729	diabetes
+rs974334	breast cancer
+rs974819	atherosclerosis
+rs975739	hair
+rs9791170	hypertension
+rs9804190	schizophrenia
+rs9804190	unipolar depression
+rs9808753	leukemia
+rs9808753	lymphoma
+rs981778	cleft palate
+rs9834818	interleukin
+rs9838411	endometrial cancer
+rs9841504	gastric cancer
+rs9856661	complement component
+rs9866361	osteosarcoma
+rs9869263	colon cancer
+rs987237	obesity
+rs9874	breast cancer
+rs987525	tooth agenesis
+rs987870	asthma
+rs9880056	prostate cancer
+rs9882205	adiponectin
+rs988712	obesity
+rs989638	schizophrenia
+rs9897526	dementia
+rs989902	breast cancer
+rs9904341	prostate cancer
+rs9904779	breast cancer
+rs9906543	hyperlipidemia
+rs9906543	hypertriglyceridemia
+rs9912300	lung cancer
+rs9913017	bladder cancer
+rs9915302	diabetes
+rs9923231	warfarin sensitivity
+rs9925481	diabetes
+rs9925481	hypertension
+rs9928094	obesity
+rs9929218	body mass index
+rs9929218	Colon Cancer
+rs9929218	colorectal cancer
+rs9930333	obesity
+rs9930506	obesity
+rs9935401	obesity
+rs9937053	stroke
+rs9939609	alcohol dependence
+rs9939609	anorexia nervosa
+rs9939609	Atherosclerosis
+rs9939609	birth weight
+rs9939609	body mass index
+rs9939609	bulimia nervosa
+rs9939609	C-reactive protein
+rs9939609	dementia
+rs9939609	diabetes
+rs9939609	endometrial cancer
+rs9939609	endometrial carcinoma
+rs9939609	hepatitis C virus
+rs9939609	HIV
+rs9939609	hypertension
+rs9939609	immunodeficiency
+rs9939609	insulin resistance
+rs9939609	metabolic syndrome
+rs9939609	obesity
+rs9939609	pancreatic cancer
+rs9939609	plasma glucose
+rs9939609	polycystic ovary syndrome
+rs9939609	prostate cancer
+rs9939609	telomere length
+rs9939609	tuberculosis
+rs9943582	coronary artery disease
+rs9960767	schizophrenia
+rs997509	metabolic syndrome
+rs997509	obesity
+rs997669	breast cancer
+rs9989661	breast cancer
+rs9990999	neutropenia
+rs999737	breast cancer
+rs9997745	insulin resistance
+rs999788	stroke
