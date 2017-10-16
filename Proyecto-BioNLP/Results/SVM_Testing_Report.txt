@@ -1,0 +1,16 @@
+**********        TESTING REPORT     **********
+
+Precision: 0.7913976602389123
+Recall: 0.7528830313014827
+F-score: 0.7113245358198126
+Confusion matrix:
+[[ 66 143]
+ [  7 391]]
+Classification report:
+             precision    recall  f1-score   support
+
+    DISEASE       0.90      0.32      0.47       209
+      OTHER       0.73      0.98      0.84       398
+
+avg / total       0.79      0.75      0.71       607
+

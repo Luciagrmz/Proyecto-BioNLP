@@ -1,0 +1,6080 @@
+rs172378	Breast cancer
+rs165849	Schizophrenia
+rs165815	Schizophrenia
+rs165815	Schizophrenia
+rs5751876	Panic disorder
+rs1573496	Squamous cell carcinoma
+rs763361	Autoimmune disease
+rs1800587	Schizophrenia susceptibility
+rs1794068	Schizophrenia susceptibility
+rs1800587	Schizophrenia
+rs1794068	Schizophrenia
+rs33997857	Insulin resistance
+rs6744682	Insulin resistance
+rs6708316	Insulin resistance
+rs33997857	Body mass index
+rs6744682	Body mass index
+rs6708316	Body mass index
+rs33997857	Diabetes
+rs6744682	Diabetes
+rs6708316	Diabetes
+rs33997857	Obesity
+rs6744682	Obesity
+rs6708316	Obesity
+rs1800629	C reactive protein
+rs1800795	C reactive protein
+rs1800629	Interleukin 6
+rs1800795	Interleukin 6
+rs1344706	Schizophrenia
+rs7216389	Asthma
+rs7216389	Asthma
+rs738409	Fatty liver disease
+rs738409	Fatty liver
+rs7169289	Vitamin A Deficiency
+rs2056626	Systemic sclerosis
+rs10830963	Diabetes
+rs17782313	Obesity
+rs1800896	Glioma
+rs20417	Glioma
+rs20541	Glioma
+rs1340513	Autism
+rs11655505	Breast cancer
+rs2457576	Hypertension
+rs376563	Hypertension
+rs1567438	Hypertension
+rs596881	Hypertension
+rs2048327	Hypertension
+rs653753	Hypertension
+rs316019	Hypertension
+rs4073	Prostate cancer
+rs689466	Prostate cancer
+rs7341475	Schizophrenia
+rs560426	Cleft palate
+rs13041247	Cleft palate
+rs2275913	Asthma
+rs2275913	Asthma
+rs3794845	Leukemia
+rs17433222	Leukemia
+rs703817	Leukemia
+rs703817	Leukemia
+rs3794845	Acute lymphoblastic leukemia
+rs78380171	Acute lymphoblastic leukemia
+rs3794845	Leukemia
+rs78380171	Leukemia
+rs756472	Autism
+rs1881084	Autism
+rs1801275	Rheumatoid arthritis
+rs1805010	Rheumatoid arthritis
+rs721917	COPD
+rs2245121	COPD
+rs911887	COPD
+rs6413520	COPD
+rs7078012	COPD
+rs6152	PCOS
+rs6152	Polycystic ovary syndrome
+rs6152	Polycystic ovary syndrome
+rs9657904	Multiple sclerosis
+rs3093024	Rheumatoid arthritis
+rs1801320	Breast cancer
+rs6010620	Glioma
+rs2736100	Glioma
+rs4295627	Glioma
+rs4977756	Glioma
+rs498872	Glioma
+rs6010620	Asthma
+rs4977756	Asthma
+rs498872	Asthma
+rs12434716	Schizophrenia
+rs10141940	Schizophrenia
+rs10142034	Schizophrenia
+rs4804803	Dengue fever
+rs4804803	Tuberculosis
+rs2228570	Ovarian carcinoma
+rs10735810	Ovarian carcinoma
+rs2228570	Ovarian cancer
+rs10735810	Ovarian cancer
+rs4880	Prostate cancer
+rs4816407	Prostate cancer
+rs10432782	Prostate cancer
+rs17884057	Prostate cancer
+rs2842958	Prostate cancer
+rs2758330	Prostate cancer
+rs11249433	Breast cancer
+rs3761581	Body mass index
+rs10501367	Body mass index
+rs7119375	Body mass index
+rs3761581	Hypertension
+rs10501367	Hypertension
+rs7119375	Hypertension
+rs4663302	Obesity
+rs2304672	Obesity
+rs129882	Parkinson disease
+rs6234	Obesity
+rs4641	Body mass index
+rs4641	Diabetes
+rs4994	Glioma
+rs4994	Atopy
+rs7216389	Asthma
+rs7216389	Glioma
+rs5029939	Pulmonary arterial hypertension
+rs5029939	Hypertension
+rs5065	Hypertension
+rs5063	Hypertension
+rs5065	Stroke
+rs5063	Stroke
+rs3184504	Type 1 diabetes
+rs3184504	Diabetes
+rs12255372	Type 1 diabetes
+rs7903146	Type 1 diabetes
+rs12255372	Diabetes
+rs7903146	Diabetes
+rs8192284	Rheumatoid arthritis
+rs5470	Trachoma
+rs334	Trachoma
+rs5471	Trachoma
+rs9264942	HIV 1
+rs6822844	Rheumatoid arthritis
+rs6822844	Autoimmune disease
+rs1051730	Lung cancer
+rs2036527	Lung cancer
+rs10519203	Lung cancer
+rs13010343	COPD
+rs2241704	COPD
+rs495139	Ovarian carcinoma
+rs495139	Ovarian carcinoma
+rs11624283	Cleft palate
+rs780094	Diabetes mellitus
+rs780094	Diabetes
+rs6844176	Acute GVHD
+rs1805410	Chronic GVHD
+rs7903146	Obesity
+rs2291855	Asthma
+rs4794068	Asthma
+rs2817399	Patent ductus arteriosus
+rs4784227	Breast cancer
+rs4784227	Breast cancer
+rs10046	Endometriosis
+rs2234693	Endometriosis
+rs605059	Endometriosis
+rs10895068	Endometriosis
+rs17408276	Lung cancer
+rs16969968	Lung cancer
+rs11637635	Lung cancer
+rs578776	Lung cancer
+rs2276109	Pulmonary fibrosis
+rs2276109	DcSSc
+rs9939609	Body mass index
+rs9939609	Diabetes
+rs9939609	Obesity
+rs9939609	Obesity
+rs9939609	Obesity
+rs16949649	Endometrial cancer
+rs2302254	Endometrial cancer
+rs234709	Lung cancer
+rs4920037	Lung cancer
+rs10965235	Endometriosis
+rs16826658	Endometriosis
+rs3808348	Colorectal cancer
+rs3735684	Colorectal cancer
+rs12203592	Melanoma
+rs12203592	Melanoma
+rs872071	Melanoma
+rs2073440	Allergic rhinitis
+rs17740607	Allergic rhinitis
+rs2073440	Asthma
+rs17740607	Asthma
+rs2476601	Autoimmune disease
+rs3118470	Type 1 diabetes
+rs706778	Type 1 diabetes
+rs3118470	Diabetes
+rs706778	Diabetes
+rs1677693	Colorectal cancer
+rs1643659	Colorectal cancer
+rs4659744	Colorectal cancer
+rs6471	Hypertension
+rs2740574	Hypertension
+rs776746	Hypertension
+rs1057079	Colon cancer
+rs9648723	Colon cancer
+rs560887	Plasma glucose
+rs7025486	Myocardial infarction
+rs7025486	Ischemic stroke
+rs7025486	Aneurysm
+rs7025486	Stroke
+rs7025486	Hypertension
+rs7025486	Diabetes
+rs7025486	Obesity
+rs2038366	Asthma
+rs59317557	Asthma
+rs3753194	Asthma
+rs13063604	Ovarian cancer
+rs7650365	Ovarian cancer
+rs1127354	Anemia
+rs10484561	Follicular lymphoma
+rs7755224	Follicular lymphoma
+rs10484561	Lymphoma
+rs7755224	Lymphoma
+rs735665	Chronic lymphocytic leukemia
+rs735665	Leukemia
+rs735665	Lymphoma
+rs1982073	Breast cancer
+rs1219648	Breast cancer
+rs1982073	Breast cancer
+rs1219648	Breast cancer
+rs17810546	Enthesitis related arthritis
+rs738409	NASH
+rs738409	NASH
+rs3834129	Breast cancer
+rs3834129	Breast cancer
+rs1554483	Plasma triglyceride level
+rs4864548	Plasma triglyceride level
+rs1554483	Hypertension
+rs4864548	Hypertension
+rs76481776	Insomnia
+rs780094	Insulin resistance
+rs780094	Diabetes
+rs881152	Asthma
+rs2233407	Asthma
+rs2031920	Bladder cancer
+rs1046428	Bladder cancer
+rs61764370	Ovarian cancer
+rs61764370	Lung cancer
+rs1126497	Breast cancer
+rs1008949	Schizophrenia
+rs35201266	Schizophrenia
+rs7009708	Schizophrenia
+rs3750192	Schizophrenia
+rs6983267	Colorectal cancer
+rs1693482	Diabetes
+rs2237895	Diabetes mellitus
+rs2237897	Diabetes mellitus
+rs2283228	Diabetes mellitus
+rs2237892	Diabetes mellitus
+rs2237895	Diabetes
+rs2237897	Diabetes
+rs2283228	Diabetes
+rs2237892	Diabetes
+rs2522833	Major depressive disorder
+rs2645424	Body mass index
+rs2645424	Hemoglobin
+rs2645424	Diabetes
+rs419598	Myocardial infarction
+rs419598	Hypertension
+rs10883866	Schizophrenia
+rs10748842	Schizophrenia
+rs6584400	Schizophrenia
+rs324420	Obesity
+rs1512268	Prostate cancer
+rs6983561	Prostate cancer
+rs7000448	Prostate cancer
+rs7904463	Prostate cancer
+rs10740051	Prostate cancer
+rs16901979	Prostate cancer
+rs10993994	Prostate cancer
+rs7000448	Prostate cancer
+rs10761581	Prostate cancer
+rs2274223	Gastric cancer
+rs1800947	Stroke
+rs3093075	Stroke
+rs1130864	Stroke
+rs11136000	Schizophrenia
+rs3851179	Schizophrenia
+rs11136000	Schizophrenia
+rs2235371	Cleft palate
+rs642961	Cleft palate
+rs28493229	Kawasaki disease
+rs889312	Breast cancer
+rs889312	Breast cancer
+rs2104286	Giant cell arteritis
+rs20417	Esophagitis
+rs5275	Esophagitis
+rs689470	Esophagitis
+rs1546124	Cleft palate
+rs738409	Fatty liver
+rs738409	Obesity
+rs2276109	Aneurysm
+rs3025058	Aneurysm
+rs6742078	Bilirubin
+rs4149000	Bilirubin
+rs4149056	Bilirubin
+rs6742078	Gilbert syndrome
+rs6742078	Bilirubin
+rs16969968	Nicotine dependence
+rs16969968	Nicotine dependence
+rs62093482	Gene expression
+rs10938397	Obesity
+rs17782313	Obesity
+rs6265	Obesity
+rs4712652	Obesity
+rs9340799	Breast cancer
+rs2234693	Breast cancer
+rs498872	Glioma
+rs2736100	Glioma
+rs4295627	Glioma
+rs4977756	Glioma
+rs6010620	Glioma
+rs4977756	Glioma
+rs429358	Dementia
+rs7412	Dementia
+rs429358	Dementia
+rs11191548	Hypertension
+rs16998073	Hypertension
+rs1004467	Hypertension
+rs17367504	Hypertension
+rs8170	Breast cancer
+rs2363956	Breast cancer
+rs2363956	Breast cancer
+rs2363956	Ovarian cancer
+rs2363956	Breast cancer
+rs1529916	Prostate cancer
+rs1380576	Prostate cancer
+rs4766587	Body mass index
+rs4766587	Obesity
+rs2229238	Obesity
+rs9273349	Asthma
+rs1342326	Asthma
+rs3771166	Asthma
+rs2284033	Asthma
+rs744910	Asthma
+rs429608	Age related maculopathy
+rs2242578	Peripheral neuropathy
+rs2228224	Peripheral neuropathy
+rs2242578	Neuropathy
+rs2228224	Neuropathy
+rs1413239	Peripheral neuropathy
+rs3887412	Peripheral neuropathy
+rs1413239	Neuropathy
+rs3887412	Neuropathy
+rs3134613	Gastric cancer
+rs2131877	Lung cancer susceptibility
+rs2131877	Lung cancer
+rs1800440	Colorectal cancer
+rs2802292	Longevity
+rs3914132	Otosclerosis
+rs10520873	Obesity
+rs1801394	Obesity
+rs20455	Coronary heart disease
+rs11789399	Schizophrenia
+rs2844482	Rubella
+rs2857708	Rubella
+rs4787947	Rubella
+rs7801617	Rubella
+rs14647	Wolf Hirschhorn syndrome
+rs14647	Endometriosis
+rs4900318	Hypertension
+rs56225452	Insulin resistance
+rs1466113	Body mass index
+rs9939609	Obesity
+rs3093075	Colon cancer
+rs1205	Colon cancer
+rs1205	Colon cancer
+rs9808753	B cell lymphoma
+rs1494555	B cell lymphoma
+rs2069812	B cell lymphoma
+rs9808753	Lymphoma
+rs1494555	Lymphoma
+rs2069812	Lymphoma
+rs20541	Chronic lymphocytic leukemia
+rs568408	Chronic lymphocytic leukemia
+rs9808753	Chronic lymphocytic leukemia
+rs1494555	Chronic lymphocytic leukemia
+rs20541	Follicular lymphoma
+rs568408	Follicular lymphoma
+rs9808753	Follicular lymphoma
+rs1494555	Follicular lymphoma
+rs20541	B cell lymphoma
+rs568408	B cell lymphoma
+rs9808753	B cell lymphoma
+rs1494555	B cell lymphoma
+rs20541	Leukemia
+rs568408	Leukemia
+rs9808753	Leukemia
+rs1494555	Leukemia
+rs20541	Lymphoma
+rs568408	Lymphoma
+rs9808753	Lymphoma
+rs1494555	Lymphoma
+rs12586317	Psoriatic arthritis
+rs10782001	Psoriatic arthritis
+rs4795067	Psoriatic arthritis
+rs12586317	Psoriasis
+rs10782001	Psoriasis
+rs4795067	Psoriasis
+rs7903146	Diabetes
+rs1344706	Schizophrenia
+rs10830963	PCOS
+rs10830962	PCOS
+rs10830963	Insulin resistance
+rs10830963	Plasma glucose
+rs1800783	Type 1 diabetes
+rs1800783	Nephropathy
+rs1800783	Diabetes
+rs4880	Pancreatic cancer
+rs1799895	Pancreatic cancer
+rs1800566	Pancreatic cancer
+rs1143684	Pancreatic cancer
+rs344781	Pulmonary arterial hypertension
+rs344781	Hypertension
+rs8102137	Bladder cancer
+rs1014971	Bladder cancer
+rs11892031	Bladder cancer
+rs6855911	Hyperuricemia
+rs9939609	Prostate cancer
+rs7903146	Diabetes
+rs7903146	Diabetes
+rs7903146	Diabetes
+rs2020936	COPD
+rs4073	Vesicoureteral reflux
+rs7439293	Coronary heart disease
+rs7439293	Atherosclerosis
+rs16917302	Breast cancer
+rs311499	Breast cancer
+rs11887534	Gallbladder cancer
+rs11887534	Bile duct cancer
+rs11887534	Gallbladder cancer
+rs11887534	Gallbladder cancer
+rs4148217	Gallbladder cancer
+rs710521	Bladder cancer
+rs9264942	Childhood ALL
+rs2294008	Gastric cancer
+rs2294008	Gastric cancer
+rs2294008	Gastric cancer
+rs2872507	Asthma
+rs266729	Rheumatoid arthritis
+rs1501299	Rheumatoid arthritis
+rs1006737	Major depressive disorder
+rs1006737	Schizophrenia
+rs833061	Hypertensive nephropathy
+rs699947	Hypertensive nephropathy
+rs833061	Nephropathy
+rs699947	Nephropathy
+rs1570360	Hypertensive nephropathy
+rs1570360	End stage renal disease
+rs1570360	Nephropathy
+rs13333226	Hypertension
+rs4073	Periodontitis
+rs1617640	End stage renal disease
+rs7944584	Diabetes
+rs7944584	MADD
+rs340874	Diabetes
+rs340874	MADD
+rs2106261	Coronary artery disease
+rs2106261	Diabetes mellitus
+rs2106261	Hypertension
+rs2106261	Diabetes
+rs12979860	Hepatitis C virus
+rs8099917	Hepatitis C virus
+rs6046	Stroke
+rs3138055	Stroke
+rs3781387	Stroke
+rs3093261	Stroke
+rs4648004	Stroke
+rs4918851	Stroke
+rs1042522	Glioma
+rs1642785	Glioma
+rs401681	Squamous cell carcinoma
+rs401681	Basal cell carcinoma
+rs401681	Melanoma
+rs2242652	Melanoma
+rs2853676	Melanoma
+rs2981096	Melanoma
+rs401681	Melanoma
+rs69510130	Autism
+rs1820453	Lung cancer
+rs716274	Lung cancer
+rs512535	Obesity
+rs670	Obesity
+rs3756824	Breast cancer
+rs10941235	Breast cancer
+rs3817198	Breast cancer
+rs3817198	Breast cancer
+rs3817198	Breast cancer
+rs12979860	Cirrhosis
+rs1042522	Diabetes
+rs11243444	Diabetes
+rs1042522	Diabetes
+rs1882095	Diabetes
+rs11243444	Diabetes
+rs1042522	Diabetes
+rs10938397	Obesity
+rs8050136	Obesity
+rs3115667	Follicular lymphoma
+rs2857597	Follicular lymphoma
+rs2855429	Follicular lymphoma
+rs3115667	Lymphoma
+rs2857597	Lymphoma
+rs2855429	Lymphoma
+rs10197862	Asthma
+rs1656930	Hypertension
+rs12700667	Endometriosis
+rs5981008	Hypertension
+rs5049	Hypertension
+rs4291	Hypertension
+rs2968915	Hypertension
+rs72689236	Aneurysm
+rs4963128	Lupus nephritis
+rs2246614	Lupus nephritis
+rs2305795	Narcolepsy
+rs3746444	Rheumatoid arthritis
+rs2910164	Rheumatoid arthritis
+rs4988235	Obesity
+rs1800975	Squamous cell carcinoma
+rs1800975	Lung cancer
+rs1799793	Lung cancer
+rs324015	Glioma
+rs1059513	Glioma
+rs1044498	Nephropathy
+rs1044498	Diabetes
+rs1044498	Nephropathy
+rs1805134	Spina bifida
+rs737865	Spina bifida
+rs3127334	Spina bifida
+rs2014355	Acute insulin response
+rs1990622	Frontotemporal lobar degeneration
+rs12953717	Colorectal cancer
+rs4464148	Colorectal cancer
+rs4939827	Colorectal cancer
+rs12147254	Multiple myeloma
+rs2234922	Diffuse Large B Cell Lymphoma
+rs2234922	B cell lymphoma
+rs2234922	Lymphoma
+rs10811661	Diabetes
+rs11466782	Lymphoma
+rs708486	Lymphoma
+rs2304240	Lymphoma
+rs12722489	Multiple sclerosis
+rs2104286	Multiple sclerosis
+rs4149056	Myopathy
+rs11089788	IGAN
+rs10927887	Hypertension
+rs2043211	Inflammatory bowel disease
+rs266729	Atherosclerosis
+rs266729	Adiponectin
+rs727428	Insulin resistance
+rs1799941	Insulin resistance
+rs727428	Diabetes mellitus
+rs1799941	Diabetes mellitus
+rs727428	Diabetes
+rs1799941	Diabetes
+rs727428	Obesity
+rs1799941	Obesity
+rs727428	PCOS
+rs1799941	PCOS
+rs8099917	Aspartate aminotransferase
+rs10510102	Breast cancer
+rs17465637	Coronary artery disease
+rs17465637	Myocardial infarction
+rs17465637	Melanoma
+rs2294008	Gastric cancer
+rs12203592	Melanoma
+rs12203592	OCA2
+rs2046210	Breast cancer
+rs2046210	Endometrial cancer
+rs2046210	Breast cancer
+rs2005171	Diabetes
+rs2005172	Diabetes
+rs6171	Diabetes
+rs11568828	Diabetes
+rs5065	Hypertension
+rs198358	Hypertension
+rs5068	Hypertension
+rs11283943	Breast cancer
+rs11283943	Breast cancer
+rs33996649	Systemic lupus erythematosus
+rs33996649	Lupus erythematosus
+rs2189814	Schizophrenia
+rs220599	Schizophrenia
+rs8074995	Schizophrenia
+rs8074995	Schizophrenia
+rs12539530	Breast cancer
+rs700519	PCOS
+rs1042522	Diabetes
+rs4994	Hyperuricemia
+rs6265	Alzheimer disease
+rs10987883	Prostate cancer
+rs738409	Insulin resistance
+rs738409	Cirrhosis
+rs1695	Asthma
+rs947895	Asthma
+rs502581	Asthma
+rs1871042	Asthma
+rs1441586	Asthma
+rs556917	Asthma
+rs502419	Asthma
+rs17593068	Asthma
+rs574700	Asthma
+rs6591256	Asthma
+rs10509676	Hypertension
+rs738409	Cirrhosis
+rs2396753	Schizophrenia
+rs4880	Diabetes mellitus
+rs1001179	Diabetes mellitus
+rs1052133	Diabetes mellitus
+rs4880	Diabetes
+rs1001179	Diabetes
+rs1052133	Diabetes
+rs10519963	Hypertension
+rs11737660	Hypertension
+rs6810951	Hypertension
+rs9897526	Frontotemporal dementia
+rs9897526	Dementia
+rs1862513	Rheumatoid arthritis
+rs1862513	Atherosclerosis
+rs1862513	Atherosclerosis
+rs6929846	Hypertension
+rs2569512	Hypertension
+rs1801131	Gastric cancer
+rs861539	Gastric cancer
+rs1799794	Gastric cancer
+rs2736098	Glioblastoma
+rs2736100	Glioblastoma
+rs6010620	Glioblastoma
+rs498872	Glioblastoma
+rs2736098	Glioma
+rs2736100	Glioma
+rs6010620	Glioma
+rs498872	Glioma
+rs16906252	Adenocarcinoma
+rs4295627	Glioblastoma
+rs2297440	Glioblastoma
+rs4295627	19q deletion
+rs4963128	Systemic lupus erythematosus
+rs4963128	Lupus erythematosus
+rs10830963	Diabetes mellitus
+rs10830963	Diabetes
+rs17782313	Obesity
+rs12970134	Obesity
+rs12425791	Stroke
+rs11833579	Stroke
+rs2167270	Rheumatoid arthritis
+rs2167270	Atherosclerosis
+rs61764370	Ovarian cancer
+rs67164370	Epithelial ovarian cancer
+rs67164370	Ovarian cancer
+rs754203	Glaucoma
+rs2737	Colorectal cancer
+rs780094	Plasma glucose
+rs8731	Plasma glucose
+rs25489	HNSCC
+rs13181	HNSCC
+rs1799793	HNSCC
+rs25487	HNSCC
+rs861539	HNSCC
+rs1799782	HNSCC
+rs1800629	Rheumatoid arthritis
+rs1800629	Atherosclerosis
+rs25489	Breast cancer
+rs1760944	Lung cancer
+rs4821480	Diabetes
+rs7927894	Asthma
+rs4630	Peripheral neuropathy
+rs4630	Neuropathy
+rs1801253	Hypertension
+rs2004776	Hypertension
+rs4305	Hypertension
+rs11039149	Pancreatic cancer
+rs11039149	MADD
+rs2671222	Diabetes
+rs3759216	Endometrial cancer
+rs34330	Endometrial cancer
+rs11055027	Endometrial cancer
+rs3759216	Endometrial cancer
+rs6259	Breast cancer
+rs2066853	Breast cancer
+rs2234693	Breast cancer
+rs1003623	Breast cancer
+rs1695	Breast cancer
+rs6259	Body mass index
+rs6259	Breast cancer
+rs6259	Body mass index
+rs9939609	Obesity
+rs3781637	Diabetes
+rs751837	Lymphoma
+rs7097	Lymphoma
+rs1136201	Breast cancer
+rs2119882	PCOS
+rs2119882	Insulin resistance
+rs2119882	Plasma glucose
+rs2119882	PCOS
+rs2119882	PCOS
+rs10754833	Nevus
+rs3768080	Nevus
+rs738409	Fatty liver disease
+rs738409	Fatty liver
+rs6280	HIV infection
+rs3736001	Prostate cancer
+rs4430796	Endometrial cancer
+rs4430796	Prostate cancer
+rs4430796	Diabetes
+rs17503908	Ataxia telangiectasia
+rs17503908	Ataxia telangiectasia
+rs17503908	Telangiectasia
+rs17503908	Ataxia
+rs2165241	Glaucoma
+rs3825942	Glaucoma
+rs1048661	Glaucoma
+rs6007897	Stroke
+rs4044210	Stroke
+rs780094	Plasma glucose
+rs1260326	Plasma glucose
+rs780094	Diabetes
+rs1260326	Diabetes
+rs780094	Obesity
+rs1260326	Obesity
+rs3212227	Asthma
+rs568408	Asthma
+rs3212227	Asthma
+rs568408	Asthma
+rs3212227	Asthma
+rs6490121	Schizophrenia
+rs6490121	Intelligence
+rs6490121	Schizophrenia
+rs1256049	Rheumatoid arthritis
+rs2069861	Breast cancer
+rs2009658	Breast cancer
+rs767455	Breast cancer
+rs780094	C reactive protein
+rs1260326	C reactive protein
+rs780094	Insulin resistance
+rs1260326	Insulin resistance
+rs780094	Diabetes
+rs1260326	Diabetes
+rs324981	Panic disorder
+rs6929846	Myocardial infarction
+rs6929846	Hypertension
+rs6929846	Hypertension
+rs6499640	Niemann pick disease
+rs17782313	Niemann pick disease
+rs1805081	Niemann pick disease
+rs6265	Niemann pick disease
+rs7138803	Niemann pick disease
+rs6499640	Niemann Pick disease
+rs17782313	Niemann Pick disease
+rs1805081	Niemann Pick disease
+rs6265	Niemann Pick disease
+rs7138803	Niemann Pick disease
+rs6499640	Pick disease
+rs17782313	Pick disease
+rs1805081	Pick disease
+rs6265	Pick disease
+rs7138803	Pick disease
+rs6499640	Obesity
+rs17782313	Obesity
+rs1805081	Obesity
+rs6265	Obesity
+rs7138803	Obesity
+rs4950928	Asthma susceptibility
+rs4950928	Asthma
+rs10484561	Diffuse Large B Cell Lymphoma
+rs10484561	B cell lymphoma
+rs10484561	Lymphoma
+rs2294008	Gastric cancer
+rs7226991	Breast cancer
+rs7903146	Body mass index
+rs7903146	Obesity
+rs17782313	Obesity
+rs9939609	Obesity
+rs7566605	Obesity
+rs17700633	Obesity
+rs16965628	Gene expression
+rs10830963	Diabetes
+rs1387153	Diabetes
+rs1374645	Insulin resistance
+rs1049550	Sarcoidosis
+rs16970218	Schizophrenia
+rs2968804	Schizophrenia
+rs7249617	Schizophrenia
+rs11894868	Schizophrenia
+rs2072621	Seasonal affective disorder
+rs10814325	Oral cancer
+rs4444903	Colorectal cancer
+rs780094	Plasma triglyceride level
+rs3817588	Plasma triglyceride level
+rs3817588	Plasma triglyceride level
+rs3817588	Diabetes
+rs2346061	Nephropathy
+rs7577	Nephropathy
+rs6950765	Autism
+rs2896218	Autism
+rs1801157	Breast cancer
+rs12979860	Cirrhosis
+rs9397435	Breast cancer
+rs2046210	Breast cancer
+rs999737	Breast cancer susceptibility
+rs11249433	Breast cancer susceptibility
+rs999737	Breast cancer
+rs11249433	Breast cancer
+rs9397435	Breast cancer
+rs2046210	Breast cancer
+rs11249433	Breast cancer
+rs999737	Breast cancer
+rs5219	Colorectal cancer
+rs864745	Colorectal cancer
+rs7961581	Colorectal cancer
+rs7578597	Colorectal cancer
+rs5219	Diabetes
+rs864745	Diabetes
+rs7961581	Diabetes
+rs7578597	Diabetes
+rs7578597	Colorectal cancer
+rs7578597	Diabetes
+rs234715	Autism
+rs20541	Psoriasis
+rs848	Psoriasis
+rs10766197	Asthma
+rs2228570	Asthma
+rs1029273	Creutzfeldt Jakob disease
+rs3865188	Obesity
+rs3865188	Obesity
+rs2043211	Hypertension
+rs35829419	Hypertension
+rs2043211	Diabetes
+rs35829419	Diabetes
+rs9658676	Malaria
+rs806365	Diabetes
+rs806365	Diabetes
+rs1884614	Insulin resistance
+rs4810424	Insulin resistance
+rs1884613	Insulin resistance
+rs1884614	Body mass index
+rs4810424	Body mass index
+rs1884613	Body mass index
+rs2066702	Alcohol dependence
+rs3762894	Alcohol dependence
+rs2660	Prostate cancer
+rs2660	Prostate cancer
+rs9318086	Myopia
+rs628117	Schizophrenia
+rs2854344	Ovarian cancer
+rs143383	Osteoarthritis susceptibility
+rs143383	Hip dysplasia
+rs1038304	Osteoporosis
+rs4870044	Osteoporosis
+rs3130340	Osteoporosis
+rs2273061	Osteoporosis
+rs2306033	Osteoporosis
+rs6929137	Osteoporosis
+rs10462020	Diabetes
+rs12979860	Hepatitis C virus
+rs689466	H. pylori infection
+rs1801200	H. pylori infection
+rs1143623	H. pylori infection
+rs4141463	Autism
+rs16754	Acute myeloid leukemia
+rs16754	Myeloid leukemia
+rs16754	Leukemia
+rs1541160	Amyotrophic lateral sclerosis
+rs2854117	Non alcoholic fatty liver disease
+rs2854116	Non alcoholic fatty liver disease
+rs2854117	Fatty liver disease
+rs2854116	Fatty liver disease
+rs2854117	Insulin resistance
+rs2854116	Insulin resistance
+rs2854117	Fatty liver
+rs2854116	Fatty liver
+rs1054135	Obesity
+rs738409	Non alcoholic fatty liver disease
+rs738409	Fatty liver disease
+rs738409	Diabetes mellitus
+rs738409	Fatty liver
+rs738409	Diabetes
+rs738409	Obesity
+rs11172113	Migraine
+rs10166942	Migraine
+rs2651899	Migraine
+rs6929846	Diabetes
+rs6929846	Body mass index
+rs6929846	Diabetes
+rs6929846	Body mass index
+rs1271572	Ovarian carcinoma
+rs1271572	Ovarian cancer
+rs10146997	Obesity
+rs2605100	Obesity
+rs545854	Obesity
+rs987237	Obesity
+rs10146997	Obesity
+rs1006737	Schizophrenia
+rs10994336	Schizophrenia
+rs5534	Myocardial infarction
+rs2294008	Gastric cancer
+rs10951982	Inflammatory bowel disease
+rs12532	Cleft palate
+rs3821949	Cleft palate
+rs2274223	Esophageal squamous cell carcinoma
+rs2274223	Squamous cell carcinoma
+rs2274223	Adenocarcinoma
+rs1520220	Diabetes
+rs2195239	Diabetes
+rs16996148	Stroke
+rs12130333	Stroke
+rs17321515	Stroke
+rs660118	Breast cancer
+rs660118	Glioblastoma
+rs11554159	Plasma glucose
+rs10761482	Schizophrenia
+rs10761482	Bipolar affective disorder
+rs10994336	Bipolar affective disorder
+rs9804190	Bipolar affective disorder
+rs10761482	Unipolar depression
+rs10994336	Unipolar depression
+rs9804190	Unipolar depression
+rs10761482	Schizophrenia
+rs10994336	Schizophrenia
+rs9804190	Schizophrenia
+rs10761482	Unipolar depression
+rs10761482	Schizophrenia
+rs3775291	Age related macular degeneration
+rs3775291	Macular degeneration
+rs1883633	Prostate cancer
+rs17309872	Prostate cancer
+rs4485648	Prostate cancer
+rs11079344	Prostate cancer
+rs4340	Coronary heart disease
+rs5186	Coronary heart disease
+rs57137919	Myocardial infarction
+rs2234714	Gene expression
+rs2736100	Lung cancer
+rs4488809	Lung cancer
+rs753955	Lung cancer
+rs17728461	Lung cancer
+rs465498	Lung cancer
+rs36600	Lung cancer
+rs1052133	Squamous cell carcinoma
+rs10830196	Asthma
+rs2706347	Asthma
+rs2706347	Asthma
+rs12072037	Lung cancer
+rs11249433	Breast cancer susceptibility
+rs11249433	Breast cancer
+rs2580520	Breast cancer
+rs2580520	Breast cancer susceptibility
+rs2580520	Breast cancer
+rs1799793	Lung cancer
+rs25487	Lung cancer
+rs5742933	Lung cancer
+rs140693	Lung cancer
+rs189037	Lung cancer
+rs11020802	Lung cancer
+rs2228000	Lung cancer
+rs11615	Lung cancer
+rs1044397	Nicotine dependence
+rs1044396	Nicotine dependence
+rs7997012	Major depressive disorder
+rs6311	Major depressive disorder
+rs9939609	Metabolic syndrome
+rs9939609	Body mass index
+rs9939609	Diabetes
+rs9939609	Obesity
+rs7204609	Diabetes
+rs7204609	Obesity
+rs3865443	Prostate cancer
+rs1138272	Oral leukoplakia
+rs1695	Oral leukoplakia
+rs13181	Oral leukoplakia
+rs3813867	Oral leukoplakia
+rs1799793	Oral leukoplakia
+rs25487	Oral leukoplakia
+rs1052133	Oral leukoplakia
+rs2031920	Oral leukoplakia
+rs4646903	Oral leukoplakia
+rs1799782	Oral leukoplakia
+rs1799791	Oral leukoplakia
+rs1138272	Leukoplakia
+rs1695	Leukoplakia
+rs13181	Leukoplakia
+rs3813867	Leukoplakia
+rs1799793	Leukoplakia
+rs25487	Leukoplakia
+rs1052133	Leukoplakia
+rs2031920	Leukoplakia
+rs4646903	Leukoplakia
+rs1799782	Leukoplakia
+rs1799791	Leukoplakia
+rs1138272	Oral cancer
+rs1695	Oral cancer
+rs13181	Oral cancer
+rs3813867	Oral cancer
+rs1799793	Oral cancer
+rs25487	Oral cancer
+rs1052133	Oral cancer
+rs2031920	Oral cancer
+rs4646903	Oral cancer
+rs1799782	Oral cancer
+rs1799791	Oral cancer
+rs2031920	Oral leukoplakia
+rs3813867	Oral leukoplakia
+rs13181	Oral leukoplakia
+rs1695	Oral leukoplakia
+rs2031920	Leukoplakia
+rs3813867	Leukoplakia
+rs13181	Leukoplakia
+rs1695	Leukoplakia
+rs2292884	PRCA
+rs738409	Non alcoholic fatty liver disease
+rs738409	Fatty liver disease
+rs738409	Fatty liver
+rs738409	Hepatocellular carcinoma
+rs738409	Cirrhosis
+rs738409	Cirrhosis
+rs1051730	Nicotine dependence
+rs2943641	Insulin resistance
+rs11605924	Diabetes
+rs266729	Colon cancer
+rs3731127	Endometrial cancer
+rs3730865	Endometrial cancer
+rs4150386	Endometrial cancer
+rs2808667	Endometrial cancer
+rs6735330	Autism
+rs2018650	Autism
+rs13000344	Autism
+rs11941492	Adenocarcinoma
+rs17625898	Adenocarcinoma
+rs2296188	Adenocarcinoma
+rs2295778	Adenocarcinoma
+rs17708574	Adenocarcinoma
+rs17619601	Adenocarcinoma
+rs7324547	Adenocarcinoma
+rs2114039	Adenocarcinoma
+rs13337626	Adenocarcinoma
+rs1333040	Myocardial infarction
+rs1333040	Atherosclerosis
+rs6609533	COPD
+rs6609533	COPD
+rs16969968	Nicotine dependence
+rs16969968	Nicotine dependence
+rs763361	Systemic lupus erythematosus
+rs13277113	Systemic lupus erythematosus
+rs2736340	Systemic lupus erythematosus
+rs763361	Lupus erythematosus
+rs13277113	Lupus erythematosus
+rs2736340	Lupus erythematosus
+rs763361	Multiple sclerosis
+rs13277113	Multiple sclerosis
+rs2736340	Multiple sclerosis
+rs763361	Type 1 diabetes
+rs13277113	Type 1 diabetes
+rs2736340	Type 1 diabetes
+rs763361	Diabetes
+rs13277113	Diabetes
+rs2736340	Diabetes
+rs595055	Breast cancer
+rs3864659	Breast cancer
+rs1991401	Breast cancer
+rs1406961	Ischemic stroke
+rs2143678	Ischemic stroke
+rs4975709	Ischemic stroke
+rs7698623	Ischemic stroke
+rs1406961	Stroke
+rs2143678	Stroke
+rs4975709	Stroke
+rs7698623	Stroke
+rs1047964	Migraine
+rs6929846	Myocardial infarction
+rs8135424	Endometrial cancer
+rs1205	Asthma
+rs1941404	Schizophrenia
+rs694539	Schizophrenia
+rs3129882	Parkinson disease
+rs9399137	Beta thalassemia
+rs9399137	Thalassemia
+rs999737	Breast cancer
+rs2180341	Breast cancer
+rs4415084	Breast cancer
+rs2981582	Breast cancer
+rs3750817	Breast cancer
+rs13387042	Breast cancer
+rs13281615	Breast cancer
+rs6504950	Breast cancer
+rs3817198	Breast cancer
+rs11249433	Breast cancer
+rs2046210	Breast cancer
+rs889312	Breast cancer
+rs2075555	Breast cancer
+rs10941679	Breast cancer
+rs1045485	Breast cancer
+rs4973768	Breast cancer
+rs3803662	Breast cancer
+rs3817198	Breast cancer
+rs2075555	Breast cancer
+rs2180341	Breast cancer
+rs10941679	Breast cancer
+rs3775292	Colon cancer
+rs9939609	Obesity
+rs9939609	Obesity
+rs12807809	Schizophrenia
+rs2916733	Breast cancer
+rs11190140	Inflammatory bowel disease
+rs11012732	Meningioma
+rs2910164	Hepatocellular carcinoma
+rs763110	Lung cancer
+rs20455	Coronary artery disease
+rs12979860	Cirrhosis
+rs2069825	COPD
+rs620861	Breast cancer
+rs13281615	Breast cancer
+rs378854	Prostate cancer
+rs987870	Asthma
+rs9356058	Leprosy
+rs1040079	Leprosy
+rs9356058	PARK2
+rs1040079	PARK2
+rs3842788	Ischemic stroke
+rs434473	Ischemic stroke
+rs5275	Ischemic stroke
+rs5628	Ischemic stroke
+rs2228064	Ischemic stroke
+rs7872802	Ischemic stroke
+rs17222919	Ischemic stroke
+rs3842788	Hemorrhage
+rs434473	Hemorrhage
+rs5275	Hemorrhage
+rs5628	Hemorrhage
+rs2228064	Hemorrhage
+rs7872802	Hemorrhage
+rs17222919	Hemorrhage
+rs3842788	Stroke
+rs434473	Stroke
+rs5275	Stroke
+rs5628	Stroke
+rs2228064	Stroke
+rs7872802	Stroke
+rs17222919	Stroke
+rs2736100	Glioma
+rs4977756	Glioma
+rs11979158	Glioma
+rs498872	Glioma
+rs2252586	Glioma
+rs4295627	Glioma
+rs6010620	Glioma
+rs1799793	Osteosarcoma
+rs2780895	Asthma
+rs10789166	Asthma susceptibility
+rs3806277	Asthma susceptibility
+rs4916008	Asthma susceptibility
+rs2780885	Asthma susceptibility
+rs17127114	Asthma susceptibility
+rs10789166	Asthma
+rs3806277	Asthma
+rs4916008	Asthma
+rs2780885	Asthma
+rs17127114	Asthma
+rs2780885	Asthma susceptibility
+rs2780895	Asthma susceptibility
+rs10789166	Asthma susceptibility
+rs4916008	Asthma susceptibility
+rs3806277	Asthma susceptibility
+rs17127114	Asthma susceptibility
+rs2780885	Asthma
+rs2780895	Asthma
+rs10789166	Asthma
+rs4916008	Asthma
+rs3806277	Asthma
+rs17127114	Asthma
+rs2780895	Asthma
+rs10789166	Asthma
+rs3806277	Asthma
+rs4916008	Asthma
+rs2780885	Asthma
+rs17127114	Asthma
+rs6097809	Breast cancer
+rs8124792	Breast cancer
+rs12570116	Breast cancer
+rs4760658	Breast cancer
+rs10902845	Breast cancer
+rs6091822	Breast cancer
+rs1544410	Breast cancer
+rs2228570	Breast cancer
+rs10735810	Breast cancer
+rs2296241	Breast cancer
+rs4402960	Diabetes mellitus
+rs4402960	Diabetes
+rs17824933	Multiple sclerosis
+rs2304204	Colon cancer
+rs16969968	Lung cancer
+rs578776	Lung cancer
+rs4105144	Lung cancer
+rs7937	Lung cancer
+rs2596623	THRB
+rs2596622	THRB
+rs11554137	Acute myeloid leukemia
+rs11554137	Myeloid leukemia
+rs11554137	Leukemia
+rs6311	Obsessive compulsive disorder
+rs1042713	Hypertension
+rs1042714	Hypertension
+rs4646903	Cervical cancer
+rs800292	Age related macular degeneration
+rs800292	Macular degeneration
+rs4129267	Interleukin 6 receptor
+rs7130588	Interleukin 6 receptor
+rs4129267	Interleukin 6
+rs7130588	Interleukin 6
+rs4129267	Asthma
+rs7130588	Asthma
+rs4788102	Coronary artery disease
+rs4788102	Myocardial infarction
+rs4788102	Diabetes mellitus
+rs4788102	Diabetes
+rs10822013	Breast cancer
+rs1344706	Schizophrenia
+rs6885224	Myopia
+rs12716080	Myopia
+rs2104286	Intermediate uveitis
+rs2104286	Anterior uveitis
+rs7498665	Diabetes
+rs4923461	Diabetes
+rs4923461	Diabetes
+rs4923461	Obesity
+rs7498665	Diabetes
+rs9939609	Obesity
+rs1052133	Prostate cancer
+rs10932029	Breast cancer
+rs1800872	Leprosy
+rs2228048	Leprosy
+rs3171425	Leprosy
+rs1800797	Leprosy
+rs1800871	Leprosy
+rs7281762	Leprosy
+rs744751	Leprosy
+rs1554286	Leprosy
+rs6857600	B cell lymphoma
+rs6857600	Lymphoma
+rs17817449	Obesity
+rs17817449	Obesity
+rs17817449	Insulin resistance
+rs4295627	Glioma
+rs4977756	Glioma
+rs6010620	Glioma
+rs7903146	Obesity
+rs7903146	Stroke
+rs685428	Diabetes
+rs25487	Cervical cancer
+rs6964587	Breast cancer
+rs6964587	Breast cancer
+rs7924176	Gene expression
+rs189037	Ataxia telangiectasia
+rs189037	Ataxia telangiectasia
+rs189037	Telangiectasia
+rs189037	Ataxia
+rs189037	Coronary artery disease
+rs2229857	Measles
+rs3803662	Male breast cancer
+rs2981579	Male breast cancer
+rs10941679	Male breast cancer
+rs13387042	Male breast cancer
+rs9383938	Male breast cancer
+rs3803662	Breast cancer
+rs2981579	Breast cancer
+rs10941679	Breast cancer
+rs13387042	Breast cancer
+rs9383938	Breast cancer
+rs6504950	Male breast cancer
+rs13387042	Male breast cancer
+rs3803662	Male breast cancer
+rs6504950	Breast cancer
+rs13387042	Breast cancer
+rs3803662	Breast cancer
+rs7034200	Diabetes
+rs11708067	Diabetes
+rs2736109	Breast cancer
+rs2736108	Breast cancer
+rs11615	Adenocarcinoma
+rs1801133	High density lipoprotein cholesterol
+rs1801133	Plasma glucose
+rs1801133	Diabetes
+rs2476601	Rheumatoid arthritis
+rs2476601	Autoimmune disease
+rs9344	Lung cancer
+rs5029410	HIV 1
+rs34171309	HIV 1
+rs4730751	End stage renal disease
+rs4954218	Keratoconus
+rs1801133	Schizophrenia
+rs4880	PRCA
+rs125701	PRCA
+rs3130297	Schizophrenia
+rs9939609	Obesity
+rs4646994	Hypertension
+rs1635529	COL2A1
+rs1635529	Myopia
+rs5744174	H. pylori infection
+rs4680	Schizophrenia
+rs1044396	Dementia
+rs12885713	Scoliosis
+rs5871	Scoliosis
+rs1478604	Gastric cancer
+rs7205289	Cleft palate
+rs780094	Pancreatic cancer
+rs780094	Diabetes
+rs780094	Pancreatic cancer
+rs780094	Diabetes
+rs8034191	Asthma
+rs4795405	Asthma
+rs324011	Asthma susceptibility
+rs8113232	Asthma susceptibility
+rs3786989	Asthma susceptibility
+rs324011	Asthma
+rs8113232	Asthma
+rs3786989	Asthma
+rs324011	Asthma
+rs8113232	Asthma
+rs3746444	Rheumatoid arthritis
+rs2910164	Rheumatoid arthritis
+rs13376333	Atrial fibrillation
+rs2542151	Rheumatoid arthritis
+rs2542151	Diabetes
+rs20541	Allergic rhinitis
+rs1800925	Allergic rhinitis
+rs9468	Progressive supranuclear palsy
+rs9468	Corticobasal degeneration
+rs9468	Supranuclear palsy
+rs2275913	Acute graft versus host disease
+rs2275913	Graft versus host disease
+rs1136287	Age related macular degeneration
+rs1136287	Macular degeneration
+rs1136287	Vasculopathy
+rs2155219	Dermatitis
+rs13361707	Gastric cancer
+rs9841504	Gastric cancer
+rs2294008	Gastric cancer
+rs2976392	Gastric cancer
+rs13042395	Gastric cancer
+rs4072037	Gastric cancer
+rs835784	Schizophrenia
+rs11038167	Schizophrenia
+rs2142731	Schizophrenia
+rs1635	Schizophrenia
+rs11038172	Schizophrenia
+rs1233710	Schizophrenia
+rs10069690	Breast cancer
+rs16887244	Schizophrenia
+rs10489202	Schizophrenia
+rs1501299	Diabetes
+rs4771122	Obesity
+rs2867125	Obesity
+rs7138803	Obesity
+rs987237	Obesity
+rs3817334	Obesity
+rs1514175	Obesity
+rs206936	Obesity
+rs10968576	Obesity
+rs1558902	Obesity
+rs571312	Obesity
+rs543874	Obesity
+rs2241423	Obesity
+rs1344706	Schizophrenia
+rs231362	Diabetes
+rs2943641	Diabetes
+rs972283	Diabetes
+rs10930963	Diabetes
+rs11191548	Hypertension
+rs7578597	Diabetes
+rs11801299	Oral cancer
+rs10900598	Oral cancer
+rs1380576	Oral cancer
+rs2046210	Breast cancer
+rs1801968	Dystonia
+rs1801968	DYT1
+rs1466535	Coronary artery disease
+rs1466535	Diabetes
+rs553668	Diabetes
+rs4804803	Dengue fever
+rs2670660	Prostate cancer
+rs3758539	Diabetes
+rs3758539	Obesity
+rs61816761	Dermatitis
+rs360717	Dermatitis
+rs574456	Dermatitis
+rs28665122	Dermatitis
+rs5744292	Dermatitis
+rs61816761	Asthma
+rs360717	Asthma
+rs574456	Asthma
+rs28665122	Asthma
+rs5744292	Asthma
+rs2476601	Autoimmune thyroid disease
+rs2476601	Autoimmune disease
+rs2476601	Type 1 diabetes
+rs2476601	Diabetes
+rs1800896	Diabetes mellitus
+rs2241766	Diabetes mellitus
+rs266729	Diabetes mellitus
+rs1800795	Diabetes mellitus
+rs1800629	Diabetes mellitus
+rs1800896	Adiponectin
+rs2241766	Adiponectin
+rs266729	Adiponectin
+rs1800795	Adiponectin
+rs1800629	Adiponectin
+rs1800896	Diabetes
+rs2241766	Diabetes
+rs266729	Diabetes
+rs1800795	Diabetes
+rs1800629	Diabetes
+rs11614913	Breast cancer
+rs1800795	Diabetes mellitus
+rs1800795	Body mass index
+rs1800795	Interleukin 6
+rs1800795	Diabetes
+rs324981	Panic disorder
+rs2604894	COPD
+rs7937	COPD
+rs13429458	PCOS
+rs11066001	Atherosclerosis
+rs11066001	Diabetes
+rs1219648	Breast cancer
+rs7313833	Breast cancer
+rs11235127	Breast cancer
+rs13387042	Breast cancer
+rs13281615	Breast cancer
+rs738409	Fatty liver
+rs10521253	Diabetes
+rs2228561	Diabetes
+rs8099917	Hepatitis C virus
+rs2298881	Prostate cancer
+rs7453920	Hepatitis B virus
+rs3077	Hepatitis B virus
+rs2856718	Hepatitis B virus
+rs9277535	Hepatitis B virus
+rs1260326	Hypertriglyceridemia
+rs1260326	Fatty liver
+rs2854116	Fatty liver
+rs12608932	Amyotrophic lateral sclerosis
+rs4487645	Multiple myeloma
+rs1052501	Multiple myeloma
+rs4444903	Cirrhosis
+rs5882	Dementia
+rs2858881	Psoriasis
+rs9468925	Psoriasis
+rs9468925	Psoriasis
+rs12785878	Type 1 diabetes
+rs12785878	Diabetes
+rs2659056	Prostate cancer aggressiveness
+rs2659056	Prostate cancer
+rs12255372	Insulin resistance
+rs12255372	Plasma glucose
+rs12255372	Obesity
+rs7565981	Seasonal affective disorder
+rs10765576	Breast cancer
+rs3730859	Lung cancer
+rs1542725	COPD
+rs6537296	COPD
+rs4880	Lung cancer
+rs1801131	Lung cancer
+rs1801133	Lung cancer
+rs6983561	Prostate cancer
+rs2171492	Prostate cancer
+rs10993994	Prostate cancer
+rs1799950	Prostate cancer
+rs266849	Prostate cancer
+rs4430796	Prostate cancer
+rs6983561	Prostate cancer
+rs6983561	Prostate cancer
+rs6983561	Prostate cancer
+rs11171739	Type 1 diabetes
+rs11171739	Diabetes
+rs653178	Type 1 diabetes
+rs653178	Celiac disease
+rs653178	Hypertension
+rs653178	Diabetes
+rs2699887	Endometrial cancer
+rs1862162	Endometrial cancer
+rs892119	Endometrial cancer
+rs7312175	Endometrial cancer
+rs6443624	Endometrial cancer
+rs2294008	Gastric cancer
+rs2976392	Gastric cancer
+rs8099917	Hepatitis C virus
+rs4444235	Colorectal cancer
+rs8679	Bladder cancer
+rs8679	Breast cancer
+rs1042636	Parathyroid carcinoma
+rs1042636	Hyperparathyroidism
+rs1042636	Hypercalcemia
+rs3813729	DLBCL
+rs344550	Marginal zone lymphoma
+rs497309	Marginal zone lymphoma
+rs344550	Lymphoma
+rs497309	Lymphoma
+rs6445834	Metabolic syndrome
+rs10850335	Metabolic syndrome
+rs180349	Metabolic syndrome
+rs6445834	Metabolic syndrome
+rs10850335	Metabolic syndrome
+rs180349	Metabolic syndrome
+rs13017599	Rheumatoid arthritis
+rs702873	Rheumatoid arthritis
+rs9621532	Age related macular degeneration
+rs9621532	Macular degeneration
+rs5820604	Dementia
+rs10675722	Dementia
+rs2305795	Narcolepsy
+rs1154155	Narcolepsy
+rs5770917	Narcolepsy
+rs5770917	Narcolepsy
+rs11554159	Obesity
+rs10509373	Breast cancer
+rs10509373	CYP2D6
+rs1056836	Colorectal cancer
+rs1376251	Coronary heart disease
+rs1010	Coronary heart disease
+rs3798220	Coronary heart disease
+rs20455	Coronary heart disease
+rs1132200	Autoimmune disease
+rs17758761	Autoimmune disease
+rs7538427	Autoimmune disease
+rs12115114	Autoimmune disease
+rs1049353	Autoimmune disease
+rs305217	Autoimmune disease
+rs1517440	Autoimmune disease
+rs10045431	Autoimmune disease
+rs9657904	Autoimmune disease
+rs4798571	Autoimmune disease
+rs6887695	Autoimmune disease
+rs1132200	Multiple sclerosis
+rs17758761	Multiple sclerosis
+rs7538427	Multiple sclerosis
+rs12115114	Multiple sclerosis
+rs1049353	Multiple sclerosis
+rs305217	Multiple sclerosis
+rs1517440	Multiple sclerosis
+rs10045431	Multiple sclerosis
+rs9657904	Multiple sclerosis
+rs4798571	Multiple sclerosis
+rs6887695	Multiple sclerosis
+rs3794624	Coronary artery disease
+rs1122608	Coronary artery disease
+rs13290547	Coronary artery disease
+rs664143	Lung cancer
+rs664677	Breast cancer
+rs664677	Lung cancer
+rs1039002	Alcohol dependence
+rs2727943	Alcohol dependence
+rs165774	Alcohol dependence
+rs4680	Alcohol dependence
+rs165774	Alcohol dependence
+rs4680	Alcohol dependence
+rs165774	Schizophrenia
+rs4680	Schizophrenia
+rs7194886	Tuberculosis
+rs9302752	Tuberculosis
+rs7194886	Tuberculosis
+rs7194886	Leprosy
+rs1800566	Colorectal cancer
+rs6700896	Diabetes mellitus
+rs6700896	Diabetes
+rs2431697	Systemic lupus erythematosus
+rs2431697	Lupus erythematosus
+rs4444903	Cirrhosis
+rs2352028	Lung cancer
+rs11636753	Nicotine dependence
+rs2036527	Nicotine dependence
+rs11634351	Nicotine dependence
+rs578776	Nicotine dependence
+rs1948	Nicotine dependence
+rs1033772	Schizophrenia
+rs12573128	Schizophrenia
+rs7498665	Obesity
+rs7201929	Obesity
+rs973742	X ALD
+rs12979860	Hepatitis C virus
+rs8099917	Hepatitis C virus
+rs828618	Polyposis
+rs828618	Asthma
+rs6656401	Alzheimer disease
+rs966423	Thyroid cancer
+rs2439302	Thyroid cancer
+rs116909374	Thyroid cancer
+rs20541	Psoriasis
+rs20541	Asthma
+rs3809021	Hemorrhage
+rs3809021	Thrombosis
+rs3809021	Stroke
+rs6275	Migraine
+rs1801133	Migraine
+rs3812718	Epilepsy
+rs1265564	Type 1 diabetes
+rs1265564	Diabetes
+rs290487	PCOS
+rs11196218	PCOS
+rs6330	Dementia
+rs11196236	PCOS
+rs12255372	Diabetes mellitus
+rs12255372	Diabetes
+rs12255372	PCOS
+rs11196236	Insulin resistance
+rs11196236	PCOS
+rs1058046	Obesity
+rs2289277	Hypertension
+rs2289277	Gene expression
+rs2289277	Obesity
+rs11984041	Stroke
+rs3753519	Obesity
+rs12979860	Hepatocellular carcinoma
+rs8099917	Hepatocellular carcinoma
+rs12980275	Hepatocellular carcinoma
+rs12979860	Hepatitis B virus
+rs8099917	Hepatitis B virus
+rs12980275	Hepatitis B virus
+rs9939609	Body mass index
+rs9939609	Diabetes
+rs9939609	Obesity
+rs7504990	Colorectal cancer
+rs855791	Anemia
+rs3811647	Anemia
+rs7385804	Anemia
+rs235756	Anemia
+rs4820268	Anemia
+rs1209523	Plasma glucose
+rs1205923	Plasma glucose
+rs1209523	Diabetes
+rs1205923	Diabetes
+rs1209523	Plasma glucose
+rs1056836	Prostate cancer
+rs4986938	Lung cancer
+rs4680	Lung cancer
+rs10046	Lung cancer
+rs743572	Lung cancer
+rs1256049	Lung cancer
+rs1970764	Lung cancer
+rs967591	Lung cancer
+rs8073903	Asthma
+rs8073069	Asthma
+rs1508147	Asthma
+rs13130123	Insomnia
+rs644926	Insomnia
+rs619002	Insomnia
+rs928883	Marginal zone lymphoma
+rs928883	Lymphoma
+rs865686	Breast cancer susceptibility
+rs10771399	Breast cancer susceptibility
+rs704010	Breast cancer susceptibility
+rs10995190	Breast cancer susceptibility
+rs1011970	Breast cancer susceptibility
+rs2380205	Breast cancer susceptibility
+rs614367	Breast cancer susceptibility
+rs1292011	Breast cancer susceptibility
+rs865686	Breast cancer
+rs10771399	Breast cancer
+rs704010	Breast cancer
+rs10995190	Breast cancer
+rs1011970	Breast cancer
+rs2380205	Breast cancer
+rs614367	Breast cancer
+rs1292011	Breast cancer
+rs10771399	Breast cancer
+rs1011970	Breast cancer
+rs865686	Breast cancer
+rs1292011	Breast cancer
+rs10995190	Breast cancer
+rs2071504	Gastric cancer
+rs895819	Gastric cancer
+rs2853668	Colon cancer
+rs2736118	Colon cancer
+rs6479891	Gene expression
+rs4688011	Gene expression
+rs12411988	Gene expression
+rs4986790	Atherosclerosis
+rs9929218	Colorectal cancer
+rs6672836	Hypertension
+rs12402521	Hypertension
+rs12402521	Obesity
+rs10795668	Body mass index
+rs4939827	Body mass index
+rs9929218	Body mass index
+rs10411210	Body mass index
+rs4779584	Body mass index
+rs4444235	Body mass index
+rs16892766	Body mass index
+rs961253	Body mass index
+rs3802842	Body mass index
+rs6983267	Body mass index
+rs20541	Asthma
+rs1805010	Asthma
+rs2243250	Asthma
+rs1800629	Asthma
+rs2569190	Asthma
+rs231775	Asthma
+rs1441585	Asthma
+rs2495636	Asthma
+rs564398	Diabetes
+rs5219	Diabetes
+rs9939609	Diabetes
+rs7901695	Diabetes
+rs2237892	Diabetes
+rs1111875	Diabetes
+rs11037909	Diabetes
+rs864745	Diabetes
+rs1113132	Diabetes
+rs8050136	Diabetes
+rs1801282	Diabetes
+rs10811661	Diabetes
+rs4607103	Diabetes
+rs10923931	Diabetes
+rs7578597	Diabetes
+rs3740878	Diabetes
+rs10830963	Diabetes
+rs7961581	Diabetes
+rs9472138	Diabetes
+rs1470579	Diabetes
+rs5215	Diabetes
+rs1153188	Diabetes
+rs5015480	Diabetes
+rs2395185	Body mass index
+rs10282458	Body mass index
+rs9485372	Breast cancer
+rs6596140	Hypertension
+rs1344706	Schizophrenia
+rs5275	Gastric cancer
+rs501120	Coronary artery disease
+rs6010620	Glioma
+rs1058319	Glioma
+rs3761121	Glioma
+rs5019252	Glioma
+rs2294008	Gastric cancer
+rs1044498	Diabetes
+rs4994	Diabetes
+rs8192678	Diabetes
+rs9939609	Body mass index
+rs9939609	Obesity
+rs9939609	Pancreatic cancer
+rs5065	Stroke
+rs20576	Hepatitis C virus
+rs20575	Hepatitis C virus
+rs5174	Myocardial infarction
+rs2237895	Plasma glucose
+rs1799983	Coronary heart disease
+rs1800440	Breast cancer
+rs743572	Breast cancer
+rs891512	Hypertension
+rs1344706	Schizophrenia
+rs11856808	Essential tremor
+rs9652490	Essential tremor
+rs11856808	Tremor
+rs9652490	Tremor
+rs1202524	Endometrial cancer
+rs2253388	Insulin resistance
+rs1805081	Obesity
+rs1805081	NPC1
+rs12917	Diffuse Large B Cell Lymphoma
+rs12917	Follicular lymphoma
+rs12917	B cell lymphoma
+rs12917	Lymphoma
+rs1127354	Hemoglobin
+rs12979860	Hepatitis C virus
+rs1333049	Coronary heart disease
+rs833061	Hypothyroidism
+rs3025039	Hypothyroidism
+rs1051730	COPD
+rs28451617	Glucocorticoid resistance
+rs662702	Myopia
+rs4784227	Breast cancer
+rs16886165	Breast cancer
+rs10736303	Breast cancer
+rs3734802	Breast cancer
+rs1092913	Breast cancer
+rs7716600	Breast cancer
+rs2046210	Breast cancer
+rs1562430	Breast cancer
+rs889312	Breast cancer
+rs3803662	Breast cancer
+rs13393577	Breast cancer
+rs699	Hypertension
+rs1799998	Hypertension
+rs4340	Hypertension
+rs7656416	Diabetes
+rs515071	Diabetes
+rs1800796	Tuberculosis
+rs1800796	Tuberculosis
+rs9939609	Obesity
+rs1800440	Colorectal cancer
+rs2073658	Combined hyperlipidemia
+rs2073658	Hyperlipidemia
+rs614367	Breast cancer
+rs1800888	Diabetes
+rs1800888	Obesity
+rs1800888	Obesity
+rs9939609	Obesity
+rs17782313	Obesity
+rs6548238	Obesity
+rs6548238	Diabetes
+rs6548238	Diabetes
+rs4986790	Gastric cancer
+rs4986791	Gastric cancer
+rs1212171	Asthma
+rs7124442	Asthma
+rs2072446	Asthma
+rs3785931	Asthma
+rs3730353	Asthma
+rs1212171	Atopy
+rs7124442	Atopy
+rs2072446	Atopy
+rs3785931	Atopy
+rs3730353	Atopy
+rs889312	Asthma susceptibility
+rs11102930	Asthma susceptibility
+rs889312	Asthma
+rs11102930	Asthma
+rs17296479	Glioblastoma
+rs23051560	Breast cancer
+rs184003	Diabetes mellitus
+rs2070600	Diabetes mellitus
+rs1800625	Diabetes mellitus
+rs184003	Nephropathy
+rs2070600	Nephropathy
+rs1800625	Nephropathy
+rs184003	Diabetes
+rs2070600	Diabetes
+rs1800625	Diabetes
+rs7602358	Diabetes
+rs11022775	Diabetes
+rs3749034	Schizophrenia
+rs2796749	Obesity
+rs12212740	Asthma
+rs1799998	Coronary heart disease
+rs1799998	Atherosclerosis
+rs5742629	Myopia
+rs12423791	Myopia
+rs10490924	Hemorrhage
+rs6902123	Diabetes
+rs2254298	Autism
+rs17782313	Colorectal cancer
+rs29941	Colorectal cancer
+rs17782313	Obesity
+rs29941	Obesity
+rs4942440	Breast cancer
+rs1421085	Obesity
+rs3087456	Rheumatoid arthritis
+rs3087456	Autoimmune disease
+rs2146323	Asthma
+rs1451240	Nicotine dependence
+rs1048943	Lung cancer
+rs1695	Lung cancer
+rs13181	Lung cancer
+rs25487	Lung cancer
+rs861539	Lung cancer
+rs4646903	Lung cancer
+rs12133337	Body mass index
+rs1801282	Menopause
+rs3856806	Menopause
+rs2120825	Menopause
+rs2167270	Menopause
+rs7602	Menarche
+rs11541353	Seasonal affective disorder
+rs10838524	Seasonal affective disorder
+rs7022435	Seasonal affective disorder
+rs3750420	Seasonal affective disorder
+rs1157358	Seasonal affective disorder
+rs3903529	Seasonal affective disorder
+rs2028122	Seasonal affective disorder
+rs2287161	Seasonal affective disorder
+rs2314339	Seasonal affective disorder
+rs1800497	Obesity
+rs2476601	Psoriasis
+rs10818854	PCOS
+rs10986105	PCOS
+rs10986105	Hyperandrogenism
+rs10986105	PCOS
+rs4129267	Asthma susceptibility
+rs4129267	Asthma
+rs2228145	Asthma
+rs2251219	Bipolar affective disorder
+rs284489	Exfoliation syndrome
+rs2157719	Exfoliation syndrome
+rs284489	Glaucoma
+rs2157719	Glaucoma
+rs653765	Neuroblastoma
+rs514049	Neuroblastoma
+rs17465637	Coronary artery disease
+rs17465637	Myocardial infarction
+rs17465637	Atherosclerosis
+rs16944	Epilepsy
+rs1800629	Epilepsy
+rs1800795	Epilepsy
+rs7356	Colorectal cancer
+rs4596	Colorectal cancer
+rs965513	Papillary thyroid carcinoma
+rs944289	Papillary thyroid carcinoma
+rs965513	Thyroid carcinoma
+rs944289	Thyroid carcinoma
+rs1143679	Systemic lupus erythematosus
+rs1143679	Lupus erythematosus
+rs4919510	Breast cancer
+rs4919510	Breast cancer
+rs7903146	Diabetes
+rs8050136	Diabetes
+rs6235	Hypertension
+rs6235	Obesity
+rs4647269	SPERM
+rs1059060	SPERM
+rs2241423	Obesity
+rs480902	Hemoglobin
+rs178	Obesity
+rs1800890	Diffuse Large B Cell Lymphoma
+rs1800890	B cell lymphoma
+rs1800890	Lymphoma
+rs1800890	Diffuse Large B Cell Lymphoma
+rs1800890	B cell lymphoma
+rs1800890	Lymphoma
+rs12628	Melanoma
+rs112587690	Melanoma
+rs688	Ischemic stroke
+rs5925	Ischemic stroke
+rs688	Stroke
+rs5925	Stroke
+rs2811712	Hyperlipidemia
+rs2383206	Coronary artery disease
+rs2383206	Diabetes mellitus
+rs2383206	Diabetes
+rs10811661	Diabetes
+rs10811661	Diabetes
+rs1042714	Bacterial meningitis
+rs3859192	Asthma
+rs2290400	Asthma
+rs1453559	Asthma
+rs3894194	Asthma
+rs7212938	Asthma
+rs8079416	Asthma
+rs10846744	Atherosclerosis
+rs10846744	Atherosclerosis
+rs139887	Schizophrenia
+rs139887	Schizophrenia
+rs505922	Pancreatic cancer
+rs505922	Adenocarcinoma
+rs505922	Breast cancer
+rs505922	Blood group
+rs10811661	Nephropathy
+rs10811661	Diabetes mellitus
+rs10811661	Type 1 diabetes
+rs10811661	Nephropathy
+rs10811661	Diabetes
+rs5186	Coronary heart disease
+rs9610	B cell lymphoma
+rs1800629	B cell lymphoma
+rs9610	Lymphoma
+rs1800629	Lymphoma
+rs6013897	Breast cancer
+rs991316	Oral cancer
+rs9600079	Prostate cancer
+rs102834	Migraine
+rs12979860	Coronary heart disease
+rs8192678	Diabetes mellitus
+rs8192678	Nephropathy
+rs8192678	Diabetes
+rs4373767	Myopia
+rs4646536	Follicular thyroid carcinoma
+rs10877012	Follicular thyroid carcinoma
+rs927650	Follicular thyroid carcinoma
+rs2248137	Follicular thyroid carcinoma
+rs2296241	Follicular thyroid carcinoma
+rs12794714	Follicular thyroid carcinoma
+rs10741657	Follicular thyroid carcinoma
+rs4646536	Papillary thyroid carcinoma
+rs10877012	Papillary thyroid carcinoma
+rs927650	Papillary thyroid carcinoma
+rs2248137	Papillary thyroid carcinoma
+rs2296241	Papillary thyroid carcinoma
+rs12794714	Papillary thyroid carcinoma
+rs10741657	Papillary thyroid carcinoma
+rs4646536	Thyroid carcinoma
+rs10877012	Thyroid carcinoma
+rs927650	Thyroid carcinoma
+rs2248137	Thyroid carcinoma
+rs2296241	Thyroid carcinoma
+rs12794714	Thyroid carcinoma
+rs10741657	Thyroid carcinoma
+rs763780	Bladder cancer
+rs2275913	Bladder cancer
+rs8090011	Diabetes
+rs10036748	Asthma
+rs1422673	Asthma
+rs1422673	Asthma
+rs20541	Psoriasis
+rs20541	Asthma
+rs2395185	Asthma
+rs2872507	Rheumatoid arthritis
+rs2872507	Asthma
+rs10036748	Systemic lupus erythematosus
+rs10036748	Lupus erythematosus
+rs10036748	Systemic sclerosis
+rs10036748	Asthma
+rs1051730	Lung cancer
+rs8034191	Lung cancer
+rs738409	Hepatocellular carcinoma
+rs1801133	Thrombosis
+rs6025	Thrombosis
+rs2066865	Thrombosis
+rs2066865	Thrombosis
+rs640198	Coronary artery disease
+rs798766	Bladder cancer
+rs9624880	Bladder cancer
+rs798766	Bladder cancer
+rs2736100	Bladder cancer
+rs2294008	Bladder cancer
+rs9624880	Bladder cancer
+rs17401966	Hepatocellular carcinoma
+rs17401966	Hepatitis B virus
+rs7574865	Autoimmune disease
+rs161740	End stage renal disease
+rs5569	Major depressive disorder
+rs6295	Major depressive disorder
+rs174697	Major depressive disorder
+rs1801278	Ovarian cancer
+rs13306465	Ovarian cancer
+rs4590656	Hemoglobin
+rs1570360	Hemoglobin
+rs1007311	Hemoglobin
+rs1570360	Hemoglobin
+rs13207351	Hemoglobin
+rs1799983	Hemoglobin
+rs8179096	Cleft palate
+rs522616	Cleft palate
+rs6232	Obesity
+rs6235	Obesity
+rs6232	Obesity
+rs6232	Obesity
+rs11122576	Body mass index
+rs1926723	Body mass index
+rs11122576	Diabetes
+rs1926723	Diabetes
+rs4267385	Hypertension
+rs12685977	Hypertension
+rs568408	Esophageal cancer
+rs3212227	Esophageal cancer
+rs3212227	Esophageal cancer
+rs11191439	Bladder cancer
+rs1501299	Coronary artery disease
+rs1501299	Adiponectin
+rs909253	Gastric cancer
+rs1800925	Allergic rhinitis
+rs1800925	Allergic rhinitis
+rs11212617	Ataxia telangiectasia
+rs11212617	Ataxia telangiectasia
+rs11212617	Telangiectasia
+rs11212617	Diabetes
+rs11212617	Ataxia
+rs12218	Obesity
+rs12218	Hyperuricemia
+rs4795895	Stroke
+rs1799987	Stroke
+rs1799864	Stroke
+rs909253	Ischemic stroke
+rs730012	Ischemic stroke
+rs3744508	Ischemic stroke
+rs4795895	Ischemic stroke
+rs569108	Ischemic stroke
+rs1800469	Ischemic stroke
+rs909253	Stroke
+rs730012	Stroke
+rs3744508	Stroke
+rs4795895	Stroke
+rs569108	Stroke
+rs1800469	Stroke
+rs1344706	Schizophrenia
+rs4648068	Gastric cancer
+rs1344706	Schizophrenia
+rs7903146	Diabetes
+rs7903146	Diabetes
+rs7903146	Diabetes
+rs7903146	Diabetes
+rs523096	Glaucoma
+rs12425791	Ischemic stroke
+rs11833579	Ischemic stroke
+rs12425791	Diabetes
+rs11833579	Diabetes
+rs12425791	Stroke
+rs11833579	Stroke
+rs2306677	Amyotrophic lateral sclerosis
+rs1541160	Amyotrophic lateral sclerosis
+rs10260404	Amyotrophic lateral sclerosis
+rs6690993	Amyotrophic lateral sclerosis
+rs6700125	Amyotrophic lateral sclerosis
+rs9939609	Obesity
+rs4809957	Lung cancer susceptibility
+rs1663689	Lung cancer susceptibility
+rs2895680	Lung cancer susceptibility
+rs4809957	Lung cancer
+rs1663689	Lung cancer
+rs2895680	Lung cancer
+rs4072037	Adenocarcinoma
+rs2274223	Adenocarcinoma
+rs1142636	Schizophrenia
+rs2230500	Ischemic stroke
+rs2230500	Hemorrhage
+rs2230500	Stroke
+rs2230500	Hypertension
+rs3213445	Fatty liver
+rs2576178	Hypertension
+rs2296545	Hypertension
+rs1800896	Coronary artery disease
+rs6300	Obesity
+rs3931020	Gene expression
+rs10771973	Peripheral neuropathy
+rs10771973	Neuropathy
+rs1617640	Breast cancer susceptibility
+rs1617640	Breast cancer
+rs2910164	Bladder cancer
+rs2274700	Age related macular degeneration
+rs1061170	Age related macular degeneration
+rs7542235	Age related macular degeneration
+rs2274700	Macular degeneration
+rs1061170	Macular degeneration
+rs7542235	Macular degeneration
+rs2274700	Hypertension
+rs1061170	Hypertension
+rs7542235	Hypertension
+rs2274700	Hypertension
+rs7542235	Hypertension
+rs2274700	Hypertension
+rs1061170	Hypertension
+rs4073259	Cerebral infarction
+rs9551963	Cerebral infarction
+rs9315050	Cerebral infarction
+rs4147064	Cerebral infarction
+rs9551963	Hypertension
+rs9315050	Hypertension
+rs4147064	Hypertension
+rs4073259	Ischemic stroke
+rs9579646	Ischemic stroke
+rs9551963	Ischemic stroke
+rs9315050	Ischemic stroke
+rs4073259	Stroke
+rs9579646	Stroke
+rs9551963	Stroke
+rs9315050	Stroke
+rs12807809	Schizophrenia
+rs865686	Breast cancer
+rs738409	Cirrhosis
+rs6504950	Breast cancer susceptibility
+rs6504950	Breast cancer
+rs6504950	Breast cancer
+rs2070744	Migraine
+rs2779249	Migraine
+rs2010963	Migraine
+rs3918226	Migraine
+rs743506	Migraine
+rs2297518	Migraine
+rs1799983	Migraine
+rs699947	Migraine
+rs743506	Migraine
+rs2107425	Breast cancer
+rs2981582	Breast cancer
+rs12443621	Breast cancer
+rs3817198	Breast cancer
+rs889312	Breast cancer
+rs3803662	Breast cancer
+rs3136228	Neutropenia
+rs738409	Non alcoholic fatty liver disease
+rs738409	Fatty liver disease
+rs738409	Fatty liver
+rs738409	Aspartate aminotransferase
+rs738409	Body mass index
+rs844648	Breast cancer
+rs10912580	Breast cancer
+rs1366842	Schizophrenia
+rs61739290	Schizophrenia
+rs1366842	Schizophrenia
+rs3731834	Schizophrenia
+rs2986017	Alzheimer disease
+rs4880	Hearing loss
+rs220721	Obesity
+rs1799722	Obesity
+rs1611115	Epilepsy
+rs1800497	Epilepsy
+rs4680	Epilepsy
+rs1625579	Schizophrenia
+rs1800896	Adenocarcinoma
+rs2057768	Adenocarcinoma
+rs16944	Adenocarcinoma
+rs4073	Adenocarcinoma
+rs1800629	Adenocarcinoma
+rs2069763	Type 1 diabetes
+rs10509540	Type 1 diabetes
+rs2069763	Diabetes
+rs10509540	Diabetes
+rs2910164	Hepatocellular carcinoma
+rs1333040	Squamous cell carcinoma
+rs1061170	Age related macular degeneration
+rs1061170	Macular degeneration
+rs623011	Thyrotoxic periodic paralysis
+rs9434741	Endometriosis
+rs10484561	Follicular lymphoma
+rs2647012	Follicular lymphoma
+rs10484561	Lymphoma
+rs2647012	Lymphoma
+rs17868320	Diarrhea
+rs12608932	Amyotrophic lateral sclerosis
+rs25531	Diabetes
+rs55705857	Glioma
+rs13266634	Diabetes
+rs7923837	Diabetes
+rs10811661	Diabetes
+rs2237892	Diabetes
+rs4402960	Diabetes
+rs12779790	Diabetes
+rs1050045	Sarcoidosis
+rs872129	Ischemic stroke
+rs872129	Stroke
+rs872129	Ischemic stroke
+rs872129	Stroke
+rs5751876	Panic disorder
+rs6280	Schizophrenia
+rs1800544	Schizophrenia
+rs3746544	Schizophrenia
+rs2519152	Schizophrenia
+rs763361	Autoimmune disease
+rs763361	Systemic sclerosis
+rs763361	Type 1 diabetes
+rs763361	Diabetes
+rs763361	Autoimmune disease
+rs8040868	Nicotine addiction
+rs421629	Nicotine addiction
+rs660652	Nicotine addiction
+rs2036527	Nicotine addiction
+rs1948	Nicotine addiction
+rs8040868	Lung cancer
+rs421629	Lung cancer
+rs660652	Lung cancer
+rs2036527	Lung cancer
+rs1948	Lung cancer
+rs533116	Asthma
+rs12917707	End stage renal disease
+rs2075786	Colorectal cancer
+rs3750817	Breast cancer susceptibility
+rs3750817	Breast cancer
+rs11191548	Hypertension
+rs16998073	Hypertension
+rs1378942	Hypertension
+rs17367504	Hypertension
+rs11191548	Hypertension
+rs16998073	Hypertension
+rs2046210	Breast cancer
+rs16886165	Breast cancer
+rs7696175	Breast cancer
+rs13281615	Breast cancer
+rs2981582	Breast cancer
+rs2981579	Breast cancer
+rs1219648	Breast cancer
+rs4415084	Breast cancer
+rs11200014	Breast cancer
+rs7574865	Autoimmune disease
+rs11013452	Sarcoidosis
+rs1398024	Sarcoidosis
+rs16906252	Glioblastoma
+rs6983267	Colorectal cancer
+rs2284378	Breast cancer
+rs17530068	Breast cancer
+rs854560	Leukemia
+rs662	Leukemia
+rs1800566	Leukemia
+rs854560	Leukemia
+rs10865035	Rheumatoid arthritis
+rs130067	Psoriasis
+rs1801282	Coronary heart disease
+rs3856806	Coronary heart disease
+rs7903146	Obesity
+rs206530	Sarcoidosis
+rs817826	Prostate cancer
+rs103294	Prostate cancer
+rs2596542	Hepatocellular carcinoma
+rs2596542	Hepatitis C virus
+rs11625206	Colon cancer
+rs8039880	Colon cancer
+rs1724120	Colon cancer
+rs112956	Colon cancer
+rs8039880	Colon cancer
+rs11923427	Colon cancer
+rs7588550	Diabetes
+rs2233434	Rheumatoid arthritis
+rs3125734	Rheumatoid arthritis
+rs3771180	Asthma
+rs13408661	Asthma
+rs9268516	Asthma
+rs1800629	Cervical cancer
+rs4402960	Diabetes
+rs1470579	Diabetes
+rs5945326	Diabetes
+rs4726050	Breast cancer
+rs2227721	Deep venous thrombosis
+rs2227721	Venous thrombosis
+rs2227721	Thrombosis
+rs2241766	Insulin resistance
+rs1501299	Insulin resistance
+rs2241766	Diabetes mellitus
+rs1501299	Diabetes mellitus
+rs2241766	Adiponectin
+rs1501299	Adiponectin
+rs2241766	Diabetes
+rs1501299	Diabetes
+rs1501299	Adiponectin
+rs1501299	Adiponectin
+rs1501299	Myocardial infarction
+rs1501299	Adiponectin
+rs10889677	Nasopharyngeal carcinoma
+rs10889677	Breast cancer
+rs10889677	Lung cancer
+rs1468063	Gastric cancer
+rs6586161	Gastric cancer
+rs4145643	Gastric cancer
+rs314277	Colorectal cancer
+rs424232	Schizophrenia susceptibility
+rs424232	Schizophrenia
+rs28366003	Breast cancer
+rs28366003	Menarche
+rs1001179	Breast cancer
+rs3746444	Breast cancer susceptibility
+rs3746444	Breast cancer
+rs8094402	DLBCL
+rs12711521	DLBCL
+rs1182	Dystonia
+rs1182	Dystonia
+rs11902171	Prostate cancer
+rs2736100	Childhood ALL
+rs2735940	Childhood ALL
+rs10069690	Childhood ALL
+rs1047286	Bacterial meningitis
+rs738409	Cirrhosis
+rs16754	Acute myeloid leukemia
+rs16754	Myeloid leukemia
+rs16754	Leukemia
+rs1057035	Oral cancer
+rs1057035	Oral cancer
+rs763361	Rheumatoid arthritis
+rs763361	Autoimmune disease
+rs763361	Multiple sclerosis
+rs763361	Type 1 diabetes
+rs763361	Celiac disease
+rs763361	Sicca syndrome
+rs763361	Psoriasis
+rs763361	Diabetes
+rs601338	Blood group
+rs6332	Dementia
+rs6489630	Dementia
+rs1052133	Bladder cancer
+rs12255372	Diabetes
+rs7903146	Diabetes
+rs3750805	Breast cancer
+rs1225404	Breast cancer
+rs7903146	Breast cancer
+rs7900150	Breast cancer
+rs2043211	Atherosclerosis
+rs4986790	Hepatitis B virus
+rs7216389	Asthma
+rs6002421	Breast cancer
+rs132793	Breast cancer
+rs3835	Breast cancer
+rs828907	Breast cancer
+rs132788	Breast cancer
+rs2943634	Insulin resistance
+rs17782312	Insulin resistance
+rs16998073	Hypertension
+rs1004467	Hypertension
+rs1378942	Hypertension
+rs17249754	Hypertension
+rs9939609	Obesity
+rs731236	Obesity
+rs6677604	Age related maculopathy
+rs1061170	Age related maculopathy
+rs800292	Age related maculopathy
+rs10490924	Age related maculopathy
+rs188140481	Prostate cancer
+rs1044498	Myocardial infarction
+rs1801278	Myocardial infarction
+rs2295490	Myocardial infarction
+rs2981745	Breast cancer
+rs10761482	Schizophrenia
+rs10761482	Schizophrenia
+rs3808942	Schizophrenia
+rs3808943	Schizophrenia
+rs1800566	Lung cancer
+rs9939609	Obesity
+rs2736100	Glioma
+rs4977756	Glioma
+rs6010620	Glioma
+rs6010620	Glioma
+rs6010620	Glioma
+rs4973768	Breast cancer
+rs6235	Obesity
+rs29941	Obesity
+rs10913469	Obesity
+rs2844479	Obesity
+rs4788102	Obesity
+rs2960306	Hypertension
+rs11191548	Hypertension
+rs1004467	Hypertension
+rs5326	Hypertension
+rs1530440	Hypertension
+rs4969170	Thrombocytopenia
+rs4969170	Neutropenia
+rs8170	Breast cancer
+rs704010	Breast cancer
+rs10069690	Breast cancer
+rs9290927	Dermatitis
+rs17501010	Dermatitis
+rs893051	Dermatitis
+rs9939609	Obesity
+rs7527939	Schizophrenia
+rs2051579	Breast cancer
+rs1344706	Schizophrenia
+rs1344706	Schizophrenia
+rs1801282	Diabetes
+rs17584499	Diabetes
+rs5743313	Influenza
+rs5743313	Influenza
+rs1049550	Sarcoidosis
+rs1049550	Sarcoidosis
+rs61860052	Sarcoidosis
+rs4377299	Sarcoidosis
+rs1049550	Sarcoidosis
+rs9268839	Sarcoidosis
+rs1805081	NPC1
+rs1788799	NPC1
+rs9939609	Body mass index
+rs9939609	Obesity
+rs1360780	Major depressive disorder
+rs242941	Major depressive disorder
+rs579459	Blood group
+rs9939609	Body mass index
+rs9939609	Obesity
+rs1535045	Atherosclerosis
+rs11212617	Insulin resistance
+rs1934951	Multiple myeloma
+rs4712523	Diabetes
+rs1159327	Endometriosis
+rs17179740	Endometriosis
+rs3020348	Endometriosis
+rs3798573	Endometriosis
+rs3798573	Endometriosis
+rs9272346	Asthma
+rs3850641	Myocardial infarction
+rs3850641	Cerebral infarction
+rs3861950	Ischemic stroke
+rs3861950	Hypertension
+rs3861950	Diabetes
+rs3861950	Stroke
+rs3861950	Atherosclerosis
+rs3850641	Atherosclerosis
+rs17849071	Thyroid cancer
+rs780094	Diabetes
+rs11920090	Diabetes
+rs11071657	Diabetes
+rs7172432	Diabetes
+rs2287497	Ovarian cancer
+rs2287498	Ovarian cancer
+rs1042522	Ovarian cancer
+rs378299	Gene expression
+rs2294020	Gene expression
+rs378299	Alopecia
+rs2294020	Alopecia
+rs3117604	Ischemic stroke
+rs2107538	Ischemic stroke
+rs2857656	Ischemic stroke
+rs3760396	Ischemic stroke
+rs3806792	Ischemic stroke
+rs3117604	Stroke
+rs2107538	Stroke
+rs2857656	Stroke
+rs3760396	Stroke
+rs3806792	Stroke
+rs12910984	COPD
+rs2479106	PCOS
+rs13405728	PCOS
+rs12478601	PCOS
+rs10818854	PCOS
+rs13429458	PCOS
+rs13429458	PCOS
+rs751402	Squamous cell carcinoma
+rs2736158	Squamous cell carcinoma
+rs10941679	Breast cancer
+rs2071676	Oral cancer
+rs1048638	Oral cancer
+rs3829078	Oral cancer
+rs2071676	Oral cancer
+rs11614913	Breast cancer
+rs1801270	Cervical cancer
+rs1801270	Cervical cancer
+rs1059234	Cervical cancer
+rs1801270	Cervical cancer
+rs3176352	Cervical cancer
+rs3755486	Lung cancer
+rs16969968	Lung cancer
+rs6749447	Hypertension
+rs505802	Hyperuricemia
+rs2231142	Hyperuricemia
+rs1473473	Anorexia nervosa
+rs1468727	Glioma
+rs1799782	Glioma
+rs861539	Glioma
+rs730437	Glioma
+rs10903323	C reactive protein
+rs20541	Glioma
+rs1800925	Glioma
+rs1984112	Hypercholesterolemia
+rs693	Hypercholesterolemia
+rs6495309	COPD
+rs6495309	COPD
+rs6495309	COPD
+rs12979860	Human T cell leukemia virus type 1
+rs12979860	Spastic paraparesis
+rs12979860	T cell leukemia
+rs12979860	Leukemia
+rs12979860	HAM/TSP
+rs12979860	HTLV 1
+rs2294008	Bladder cancer
+rs3803662	Breast cancer
+rs10551063	Schizophrenia
+rs5573	Schizophrenia
+rs16475	Schizophrenia
+rs16147	Schizophrenia
+rs5574	Schizophrenia
+rs10551063	Obesity
+rs5573	Obesity
+rs16475	Obesity
+rs16147	Obesity
+rs5574	Obesity
+rs1137101	Non alcoholic steatohepatitis
+rs1137100	Non alcoholic steatohepatitis
+rs4252314	Adenocarcinoma
+rs11575934	Adenocarcinoma
+rs4608623	Melanoma
+rs1051849	Melanoma
+rs1051849	Melanoma
+rs13281615	Breast cancer
+rs13281615	Breast cancer
+rs10166942	Migraine
+rs11172113	Migraine
+rs11172113	Migraine
+rs10166942	Migraine
+rs2651899	Migraine
+rs3024944	Malaria
+rs11091253	Malaria
+rs11064	Cervical cancer
+rs11064	Cervical cancer
+rs17095830	Inflammatory bowel disease
+rs4552569	Inflammatory bowel disease
+rs3811047	Rheumatoid arthritis
+rs10503253	Schizophrenia
+rs2308765	Hypertension
+rs10818488	Systemic lupus erythematous
+rs10818488	Rheumatoid arthritis
+rs4733220	Cataract
+rs2725338	Cataract
+rs1063147	Cataract
+rs11574311	Cataract
+rs2725383	Cataract
+rs2725338	Cataract
+rs11574311	Cataract
+rs2075650	Age related maculopathy
+rs6265	Obesity
+rs1650232	Tuberculosis
+rs41534847	Asthma
+rs738409	Cirrhosis
+rs324420	Obesity
+rs6295	Migraine
+rs2391191	Schizophrenia
+rs6903956	Coronary artery disease
+rs4606	Hypertension
+rs5443	Hypertension
+rs5186	Hypertension
+rs4606	Preeclampsia
+rs5443	Preeclampsia
+rs5186	Preeclampsia
+rs4606	Preeclampsia
+rs4606	Atherosclerosis
+rs4606	Preeclampsia
+rs12604675	Nephropathy
+rs12604675	Proteinuria
+rs12604675	Diabetes
+rs4233508	Gastric cancer
+rs707824	Lymphoma
+rs4530903	Follicular lymphoma
+rs4530903	Lymphoma
+rs869833	Glaucoma
+rs1344706	Schizophrenia
+rs3112612	Breast cancer
+rs13387042	Breast cancer
+rs2046210	Breast cancer
+rs566164	Breast cancer
+rs11075884	Breast cancer
+rs17663555	Breast cancer
+rs7902091	Schizophrenia
+rs7023329	Melanoma
+rs1800896	Creatinine clearance
+rs1800629	Creatinine clearance
+rs7201	Endometriosis
+rs2736100	Lung cancer
+rs6893114	Lung cancer
+rs13170530	Lung cancer
+rs16948305	Lung cancer
+rs2658161	Lung cancer
+rs11134290	Lung cancer
+rs2924471	Lung cancer
+rs13162612	Lung cancer
+rs10475407	Lung cancer
+rs8767412	Lung cancer
+rs10512948	Lung cancer
+rs9651118	Lung cancer
+rs10938397	Obesity
+rs12473543	PCOS
+rs3797179	PCOS
+rs1501299	PCOS
+rs6013897	Prostate cancer
+rs2296239	Obesity
+rs1805794	Breast cancer
+rs2274223	Esophageal cancer
+rs909253	DLBCL
+rs1800629	DLBCL
+rs10947803	Ischemic stroke
+rs10947803	Stroke
+rs10947803	Ischemic stroke
+rs10947803	Stroke
+rs12155400	Hypertension
+rs2234671	Cirrhosis
+rs4402960	Diabetes
+rs1006737	Schizophrenia
+rs16430	Cleft palate
+rs1801968	Dystonia
+rs1411478	Progressive supranuclear palsy
+rs1411478	Supranuclear palsy
+rs3825807	Atherosclerosis
+rs738409	Insulin resistance
+rs738409	Obesity
+rs738409	NASH
+rs6812193	Parkinson disease
+rs6825004	Parkinson disease
+rs4986790	Rheumatoid arthritis
+rs187084	Rheumatoid arthritis
+rs5741883	Rheumatoid arthritis
+rs3197999	Primary sclerosing cholangitis
+rs3197999	Sclerosing cholangitis
+rs3197999	Biliary tract cancer
+rs3197999	Cholangitis
+rs3197999	Primary sclerosing cholangitis
+rs3197999	Sclerosing cholangitis
+rs3197999	Cholangitis
+rs4764971	Myopia
+rs3803036	Myopia
+rs4764971	Myopia
+rs10938397	Obesity
+rs17782313	Obesity
+rs9939609	Obesity
+rs6265	Obesity
+rs10795668	Colon cancer
+rs4939827	Colon cancer
+rs9929218	Colon cancer
+rs10411210	Colon cancer
+rs4779584	Colon cancer
+rs4444235	Colon cancer
+rs16892766	Colon cancer
+rs961253	Colon cancer
+rs3802842	Colon cancer
+rs719725	Colon cancer
+rs6983267	Colon cancer
+rs7903146	Diabetes mellitus
+rs7903146	Diabetes
+rs7003908	Leukoplakia
+rs12360870	Leukoplakia
+rs1042031	Body mass index
+rs693	Body mass index
+rs1042031	Breast cancer
+rs693	Breast cancer
+rs1059702	Systemic sclerosis
+rs9939609	Obesity
+rs2910164	Thyroid cancer
+rs3809865	Asthma
+rs997509	Obesity
+rs671	Stomach cancer
+rs5744168	Obesity
+rs139887	Schizophrenia
+rs139883	Schizophrenia
+rs138213197	Prostate cancer
+rs2016347	Breast cancer
+rs1801968	Dystonia
+rs1801968	Dystonia
+rs762551	Lung cancer
+rs3569413	Lung cancer
+rs20541	Hepatitis B virus
+rs1805015	Hepatitis B virus
+rs1800566	Bladder cancer
+rs1800566	Bladder cancer
+rs11191548	Hypertension
+rs11191548	Hypertension
+rs2282679	Hemochromatosis
+rs492602	Hemochromatosis
+rs6564851	Hemochromatosis
+rs4820268	Hemochromatosis
+rs1800562	Hemochromatosis
+rs662799	Metabolic syndrome
+rs9340799	Coronary heart disease
+rs2234693	Coronary heart disease
+rs653178	Coronary artery disease
+rs11662595	Breast cancer
+rs1421125	Breast cancer
+rs623590	Breast cancer
+rs9272143	Cervical cancer
+rs2516448	Cervical cancer
+rs3117027	Cervical cancer
+rs3757318	Breast cancer
+rs9939609	Insulin resistance
+rs9939609	Metabolic syndrome
+rs2234693	Dementia
+rs11711441	Parkinson disease
+rs1061170	Sarcoidosis
+rs1015213	Glaucoma
+rs7100623	Diabetes
+rs3923086	Breast cancer
+rs3763511	Breast cancer
+rs2238631	Asthma
+rs2238634	Asthma
+rs2238632	Asthma
+rs2238633	Asthma
+rs1131882	Asthma
+rs1052700	Diabetes
+rs2304796	Diabetes
+rs894160	Diabetes
+rs1052700	Obesity
+rs2304796	Obesity
+rs894160	Obesity
+rs894160	Obesity
+rs1052700	Diabetes
+rs894160	Diabetes
+rs7498665	Body mass index
+rs180743	Body mass index
+rs7498665	Obesity
+rs180743	Obesity
+rs12218	Osteoporosis
+rs887205	Breast cancer
+rs2008591	Breast cancer
+rs861539	Lung cancer
+rs10759	Bladder cancer
+rs1042522	Cervical cancer
+rs2910164	Hepatocellular cancer
+rs2910164	Gastric cancer
+rs2736108	Breast cancer
+rs7705526	Ovarian cancer
+rs3132468	Dengue shock syndrome
+rs3740360	Dengue shock syndrome
+rs6928	Major depressive disorder
+rs6740584	Major depressive disorder
+rs2254137	Major depressive disorder
+rs889895	Major depressive disorder
+rs13515	Major depressive disorder
+rs2551922	Major depressive disorder
+rs3810608	Major depressive disorder
+rs8136867	Major depressive disorder
+rs7588550	Nephropathy
+rs7588550	Diabetes
+rs6314	Obesity
+rs2910164	Autoimmune disease
+rs20541	Allergic rhinitis
+rs1800925	Idiopathic pulmonary fibrosis
+rs1800925	Pulmonary fibrosis
+rs1800925	Pulmonary function
+rs16754	Acute myeloid leukemia
+rs16754	Myeloid leukemia
+rs16754	Leukemia
+rs1386491	Pleomorphic xanthoastrocytoma
+rs2129575	Pleomorphic xanthoastrocytoma
+rs4570625	Pleomorphic xanthoastrocytoma
+rs1386491	Glioblastoma multiforme
+rs2129575	Glioblastoma multiforme
+rs4570625	Glioblastoma multiforme
+rs1386491	Pilocytic astrocytoma
+rs2129575	Pilocytic astrocytoma
+rs4570625	Pilocytic astrocytoma
+rs1386491	Ganglioglioma
+rs2129575	Ganglioglioma
+rs4570625	Ganglioglioma
+rs1386491	Glioblastoma
+rs2129575	Glioblastoma
+rs4570625	Glioblastoma
+rs7758229	Colorectal cancer
+rs174556	Hypertension
+rs2274911	Prostate cancer
+rs145889899	Prostate cancer
+rs2736100	Adenocarcinoma
+rs2736100	Lung cancer
+rs7927894	Dermatitis
+rs877776	Dermatitis
+rs7927894	Dermatitis
+rs9608491	Schizophrenia
+rs1801132	Dementia
+rs9340799	Dementia
+rs6557171	Dementia
+rs9397456	Dementia
+rs1884049	Dementia
+rs10757274	Coronary artery disease
+rs10757278	Coronary artery disease
+rs115550680	Alzheimer disease
+rs78378222	Glioma
+rs2243250	Oral cancer
+rs2243250	Oral cancer
+rs6721961	Gene expression
+rs6721961	Lung cancer
+rs10938397	Hypertension
+rs9939609	Hypertension
+rs1805081	Hypertension
+rs7138803	Hypertension
+rs10938397	NPC1
+rs9939609	NPC1
+rs1805081	NPC1
+rs7138803	NPC1
+rs10938397	Hypertension
+rs17782313	Hypertension
+rs9939609	Hypertension
+rs9939609	Hypertension
+rs1344706	Schizophrenia
+rs11200638	Age related macular degeneration
+rs10490924	Age related macular degeneration
+rs11200638	Macular degeneration
+rs10490924	Macular degeneration
+rs2228145	Abdominal aortic aneurysm
+rs2228145	Coronary heart disease
+rs2228145	Rheumatoid arthritis
+rs2228145	Atrial fibrillation
+rs2228145	Aortic aneurysm
+rs2228145	Aneurysm
+rs2228145	Asthma
+rs13329835	Breast cancer
+rs999737	Breast cancer
+rs10069690	Breast cancer
+rs17817449	Breast cancer
+rs13387042	Breast cancer
+rs1219648	Breast cancer
+rs8170	Breast cancer
+rs941764	Breast cancer
+rs17529111	Breast cancer
+rs1011970	Breast cancer
+rs12037879	Colorectal cancer
+rs6690625	Colorectal cancer
+rs12037879	Colorectal cancer
+rs11614913	Lung cancer
+rs3746876	Diabetes
+rs3746876	Diabetes
+rs3746876	Diabetes
+rs535860	Diabetes
+rs1061170	Age related macular degeneration
+rs1061170	Macular degeneration
+rs3077	Hepatitis B virus
+rs9277535	Hepatitis B virus
+rs11614913	Lung cancer
+rs13181	Diffuse Large B Cell Lymphoma
+rs1801195	Diffuse Large B Cell Lymphoma
+rs13181	B cell lymphoma
+rs1801195	B cell lymphoma
+rs13181	Lymphoma
+rs1801195	Lymphoma
+rs4271002	Asthma
+rs16131	Insulin resistance
+rs16147	Insulin resistance
+rs16131	Obesity
+rs16147	Obesity
+rs1800693	Multiple sclerosis
+rs4149584	Multiple sclerosis
+rs1501299	Breast cancer
+rs1501299	Breast cancer
+rs662	Atherosclerosis
+rs7574865	Systemic lupus erythematosus
+rs7574865	Rheumatoid arthritis
+rs7574865	Lupus erythematosus
+rs7574865	Autoimmune disease
+rs7574865	Systemic sclerosis
+rs7574865	Diabetes
+rs417309	Breast cancer
+rs93886	Breast cancer
+rs10069690	Breast cancer
+rs6990300	Breast cancer
+rs2242652	Breast cancer
+rs3785074	Breast cancer
+rs4246742	Breast cancer
+rs1801282	Rheumatoid arthritis
+rs889312	Breast cancer
+rs2476601	Rheumatoid arthritis
+rs10860812	Hypertension
+rs1927911	Allergic rhinitis
+rs1800629	Allergic rhinitis
+rs1800896	Diffuse Large B Cell Lymphoma
+rs1800896	B cell lymphoma
+rs1800896	Lymphoma
+rs1800896	DLBCL
+rs7498665	Obesity
+rs925946	Obesity
+rs7498665	Obesity
+rs925946	Obesity
+rs7498665	Obesity
+rs925946	Obesity
+rs4444903	Glioma
+rs4444903	Glioma
+rs4444903	Glioma
+rs662	B cell lymphoma
+rs662	Lymphoma
+rs1801157	Childhood ALL
+rs1042522	Childhood ALL
+rs2246942	Coronary heart disease
+rs7767084	Coronary heart disease
+rs562338	Coronary heart disease
+rs503662	Coronary heart disease
+rs401681	Lung cancer
+rs2243250	Allergic rhinitis
+rs2243250	Asthma
+rs4402960	Diabetes mellitus
+rs4402960	Schizophrenia
+rs4402960	Diabetes
+rs805297	C reactive protein
+rs1805388	Glioma
+rs1805377	Glioma
+rs1805388	Glioma
+rs1805377	Glioma
+rs2596542	Hepatocellular carcinoma
+rs2596542	Hepatitis C virus
+rs35859249	Obesity
+rs7202877	Diabetes
+rs17136627	Aneurysm
+rs4320932	Ovarian cancer
+rs4320932	Ovarian cancer
+rs1919314	Colorectal cancer
+rs10505477	Colorectal cancer
+rs53576	Autism
+rs9939609	Diabetes
+rs9939609	Obesity
+rs35705950	Pulmonary fibrosis
+rs1001179	Hypertension
+rs4673	Hypertension
+rs1050450	Hypertension
+rs1001179	Diabetes
+rs4673	Diabetes
+rs1050450	Diabetes
+rs4673	C reactive protein
+rs1001179	C reactive protein
+rs1050450	C reactive protein
+rs4673	Body mass index
+rs1001179	Body mass index
+rs1050450	Body mass index
+rs4673	Diabetes
+rs1001179	Diabetes
+rs1050450	Diabetes
+rs4673	Diabetes
+rs1799998	Stroke
+rs1127354	Anemia
+rs12979860	Hepatitis C virus
+rs14158	Hepatitis C virus
+rs12979860	Immunodeficiency
+rs14158	Immunodeficiency
+rs1365611	Colon cancer
+rs2332897	Colon cancer
+rs6844282	Colon cancer
+rs3825214	Atrial fibrillation
+rs3825214	QT interval
+rs12654812	Nephrolithiasis
+rs7981733	Nephrolithiasis
+rs12669187	Nephrolithiasis
+rs11113179	Breast cancer
+rs3027188	Breast cancer
+rs3816360	Breast cancer
+rs1051730	Obesity
+rs7214723	Lung cancer
+rs2267437	Breast cancer susceptibility
+rs2267437	Breast cancer
+rs6773854	Diffuse Large B Cell Lymphoma
+rs6773854	B cell lymphoma
+rs6773854	Lymphoma
+rs6773854	DLBCL
+rs769412	Breast cancer
+rs2297381	Breast cancer
+rs1130409	Breast cancer
+rs1799977	Breast cancer
+rs909530	Neutropenia
+rs909530	Hemoglobin
+rs17249754	Hypertension
+rs3754777	Hypertension
+rs16998073	Hypertension
+rs1378942	Hypertension
+rs17249754	Hypertension
+rs1801133	Hypertension
+rs1004467	Hypertension
+rs1052133	Esophageal squamous cell carcinoma
+rs1052133	Squamous cell carcinoma
+rs9939609	Diabetes
+rs9939609	Obesity
+rs17471	Diabetes
+rs334543	Diabetes
+rs1252906	Diabetes
+rs17297207	Diabetes
+rs17810235	Diabetes
+rs1253192	Diabetes
+rs8099917	Neuropathy
+rs702553	Atherosclerosis
+rs702553	Stroke
+rs702553	Hypertension
+rs12979860	Hepatitis C virus
+rs12979860	Bilirubin
+rs12979860	Hepatitis C virus
+rs854566	Obesity
+rs854566	Obesity
+rs4771249	Colon cancer
+rs11941492	Colon cancer
+rs2010963	Colon cancer
+rs12498529	Colon cancer
+rs3751397	Colon cancer
+rs7337610	Colon cancer
+rs10020464	Colon cancer
+rs7987649	Colon cancer
+rs9513008	Colon cancer
+rs3775291	Oral cancer
+rs4919510	Nasopharyngeal carcinoma
+rs2274223	Gastric cancer
+rs2004640	Rheumatoid arthritis
+rs2004640	Rheumatoid arthritis
+rs1805414	Breast cancer
+rs339331	Prostate cancer
+rs339331	Prostate cancer
+rs2430561	Hepatocellular carcinoma
+rs25487	Pancreatic cancer
+rs3088440	Melanoma
+rs4282438	Cervical cancer
+rs2070584	Bladder cancer
+rs1799750	Bladder cancer
+rs3918242	Bladder cancer
+rs9619311	Bladder cancer
+rs2276109	Bladder cancer
+rs243865	Bladder cancer
+rs3760138	Breast cancer
+rs3749474	Breast cancer
+rs4238989	Breast cancer
+rs2278749	Breast cancer
+rs4238989	Breast cancer
+rs969485	Breast cancer
+rs3750420	Breast cancer
+rs3760138	Breast cancer
+rs2290035	Breast cancer
+rs2278749	Breast cancer
+rs2306074	Breast cancer
+rs3750420	Breast cancer
+rs3903529	Breast cancer
+rs131113549	Breast cancer
+rs17024926	Breast cancer
+rs1012477	Breast cancer
+rs3749474	Breast cancer
+rs2278749	Breast cancer
+rs5757037	Breast cancer
+rs670	Breast cancer
+rs670	Breast cancer
+rs2032582	Diffuse Large B Cell Lymphoma
+rs1801131	Diffuse Large B Cell Lymphoma
+rs4149056	Diffuse Large B Cell Lymphoma
+rs1045642	Diffuse Large B Cell Lymphoma
+rs1801133	Diffuse Large B Cell Lymphoma
+rs11045879	Diffuse Large B Cell Lymphoma
+rs2032582	B cell lymphoma
+rs1801131	B cell lymphoma
+rs4149056	B cell lymphoma
+rs1045642	B cell lymphoma
+rs1801133	B cell lymphoma
+rs11045879	B cell lymphoma
+rs2032582	Lymphoma
+rs1801131	Lymphoma
+rs4149056	Lymphoma
+rs1045642	Lymphoma
+rs1801133	Lymphoma
+rs11045879	Lymphoma
+rs2032582	DLBCL
+rs1801131	DLBCL
+rs4149056	DLBCL
+rs1045642	DLBCL
+rs1801133	DLBCL
+rs11045879	DLBCL
+rs72944758	PRCA
+rs10899221	PRCA
+rs3135388	Psoriasis
+rs9939609	Pancreatic cancer
+rs9939609	Obesity
+rs10503253	Schizophrenia
+rs10830963	Diabetes mellitus
+rs780094	Diabetes mellitus
+rs1799884	Diabetes mellitus
+rs560887	Diabetes mellitus
+rs10830963	Plasma glucose
+rs780094	Plasma glucose
+rs1799884	Plasma glucose
+rs560887	Plasma glucose
+rs10830963	Diabetes
+rs780094	Diabetes
+rs1799884	Diabetes
+rs560887	Diabetes
+rs9939609	Obesity
+rs9939609	PCOS
+rs653178	Antiphospholipid syndrome
+rs3184504	Antiphospholipid syndrome
+rs10774625	Antiphospholipid syndrome
+rs3753841	Glaucoma
+rs11024102	Glaucoma
+rs1015213	Glaucoma
+rs1048943	PCOS
+rs4646903	PCOS
+rs7903146	Diabetes mellitus
+rs7903146	Diabetes
+rs7903146	Diabetes mellitus
+rs7903146	Diabetes
+rs7903146	Diabetes mellitus
+rs7903146	Diabetes
+rs1800896	Dermatitis
+rs2272522	Schizophrenia
+rs2272522	Schizophrenia
+rs17251221	Myocardial infarction
+rs17251221	Diabetes
+rs833061	Colorectal cancer
+rs966221	Ischemic stroke
+rs966221	Stroke
+rs1048709	Age related macular degeneration
+rs800292	Age related macular degeneration
+rs1048709	Macular degeneration
+rs800292	Macular degeneration
+rs12086634	Metabolic syndrome
+rs1206634	Cholesterol level
+rs1206634	Diabetes
+rs1800566	Bladder cancer
+rs2274223	Esophageal squamous cell carcinoma
+rs2274223	Squamous cell carcinoma
+rs2274223	Adenocarcinoma
+rs1800896	Hepatitis C virus
+rs3021097	Hepatitis C virus
+rs1800872	Hepatitis C virus
+rs12979860	Hepatitis C virus
+rs9904341	Prostate cancer
+rs708272	High density lipoprotein cholesterol
+rs12149545	High density lipoprotein cholesterol
+rs708272	Myocardial infarction
+rs12149545	Myocardial infarction
+rs1800795	Gastric cancer
+rs1800795	Interleukin 6
+rs35929607	Hypertension
+rs2303138	Psoriasis
+rs10052016	Gastric cancer
+rs10052016	Gastric cancer
+rs10455872	Coronary artery disease
+rs11652075	Psoriasis
+rs4918	Ischemic stroke
+rs4918	Stroke
+rs11724758	High density lipoprotein cholesterol
+rs11724758	Plasma glucose
+rs1049380	Renal cell carcinoma
+rs7105934	Renal cell carcinoma
+rs1049380	Body mass index
+rs7105934	Body mass index
+rs1052553	Systemic lupus erythematosus
+rs1052553	Lupus erythematosus
+rs1052553	Autoimmune disease
+rs738409	Fatty liver disease
+rs738409	Fatty liver
+rs738409	Obesity
+rs2032582	Ovarian cancer
+rs1128503	Ovarian cancer
+rs1045642	Ovarian cancer
+rs3753841	Glaucoma
+rs11024102	Glaucoma
+rs1015213	Glaucoma
+rs5498	Nephropathy
+rs1799983	Thrombosis
+rs11594656	Type 1 diabetes
+rs725613	Type 1 diabetes
+rs12150220	Type 1 diabetes
+rs11594656	Diabetes
+rs725613	Diabetes
+rs12150220	Diabetes
+rs6265	Schizophrenia
+rs7138803	Obesity
+rs7138803	Obesity
+rs7138803	Obesity
+rs7138803	Ischemic stroke
+rs7138803	Hypertension
+rs7138803	Obesity
+rs7138803	Stroke
+rs8187710	Hypertension
+rs1799945	Hypertension
+rs13058338	Hypertension
+rs16967637	Enteritis
+rs16967637	Enteritis
+rs13382811	Myopia
+rs6469937	Myopia
+rs12979860	Hepatitis C virus
+rs1205	C reactive protein
+rs3789679	Hepatitis C virus infection
+rs17886084	Hepatitis C virus infection
+rs35068180	Hepatitis C virus infection
+rs1799889	Hepatitis C virus infection
+rs1800471	Hepatitis C virus infection
+rs3789679	Hepatitis C virus
+rs17886084	Hepatitis C virus
+rs35068180	Hepatitis C virus
+rs1799889	Hepatitis C virus
+rs1800471	Hepatitis C virus
+rs3794087	Essential tremor
+rs3794087	Tremor
+rs9939609	Obesity
+rs2815752	Obesity
+rs7903146	Colorectal cancer
+rs7903146	Ovarian cancer
+rs7903146	Colon cancer
+rs7903146	Lung cancer
+rs1800972	Tuberculosis
+rs3775291	Tick borne encephalitis
+rs3775291	Myocarditis
+rs3775291	HIV 1
+rs16953	Esophageal cancer
+rs11615	Esophageal cancer
+rs3212986	Esophageal cancer
+rs1799793	Esophageal cancer
+rs13181	Esophageal cancer
+rs2241766	Adiponectin
+rs2241766	Adiponectin
+rs1050450	Prostate cancer
+rs1050450	Bladder cancer
+rs1050450	Prostate cancer
+rs1050450	Bladder cancer
+rs1052133	Colorectal cancer
+rs1052133	Colorectal cancer
+rs3754334	Cataract
+rs9939609	Body mass index
+rs1564483	Lung cancer
+rs1564483	Lung cancer
+rs11249433	Breast cancer susceptibility
+rs11249433	Breast cancer
+rs1801275	Glioma
+rs1801275	Glioma
+rs11614913	Breast cancer
+rs3746444	Breast cancer
+rs2043556	Breast cancer
+rs425535	Breast cancer
+rs1799724	Breast cancer
+rs1205	Breast cancer
+rs568408	Osteosarcoma
+rs3212227	Osteosarcoma
+rs2596542	Hepatocellular carcinoma
+rs1801275	Breast cancer
+rs1059293	Breast cancer
+rs2296135	Breast cancer
+rs1800469	Breast cancer
+rs1041981	Breast cancer
+rs1041981	Breast cancer
+rs7754840	Diabetes
+rs10811661	Diabetes
+rs4917014	Systemic lupus erythematosus
+rs4917014	Lupus erythematosus
+rs4917014	Gene expression
+rs1800629	Cervical cancer
+rs4305	Hypertension
+rs10086846	Hypertension
+rs3789678	Hypertension
+rs2493132	Hypertension
+rs275645	Hypertension
+rs3802230	Hypertension
+rs4305	Hypertension
+rs25487	Cirrhosis
+rs8099917	Hepatocellular carcinoma
+rs12979860	Cirrhosis
+rs1049550	Sarcoidosis
+rs4236601	Glaucoma
+rs12212067	Rheumatoid arthritis
+rs12212067	Malaria
+rs906296	Breast cancer
+rs4803455	Breast cancer
+rs352140	HIV 1
+rs3810651	Migraine
+rs3902802	Migraine
+rs2131190	Migraine
+rs11078928	Autoimmune disease
+rs2014886	Autoimmune disease
+rs11078928	Multiple sclerosis
+rs2014886	Multiple sclerosis
+rs11078928	Asthma
+rs2014886	Asthma
+rs2981582	Breast cancer
+rs2981582	Breast cancer
+rs2981582	Breast cancer
+rs5522	Hypertension
+rs7903146	Diabetes
+rs8192284	Multiple myeloma
+rs1800797	Lymphoma
+rs1800795	Lymphoma
+rs2279744	Hepatocellular carcinoma
+rs2279744	Hepatocellular carcinoma
+rs2230061	Lean body mass
+rs939583	Obesity
+rs6567160	Obesity
+rs62033400	Obesity
+rs1131580	Fatty liver disease
+rs1131580	Fatty liver
+rs1344706	Schizophrenia
+rs2305480	Asthma
+rs11078927	Asthma
+rs671	Coronary artery disease
+rs266729	Adiponectin
+rs266729	Diabetes
+rs3803662	Gastric cancer
+rs3803662	Gastric cancer
+rs5491	Oral cancer
+rs281432	Oral cancer
+rs604714	Mantle cell lymphoma
+rs2509049	Mantle cell lymphoma
+rs604714	B cell lymphoma
+rs2509049	B cell lymphoma
+rs604714	Lymphoma
+rs2509049	Lymphoma
+rs2509049	B cell lymphoma
+rs2509049	Lymphoma
+rs361525	Osteolysis
+rs8016947	Psoriasis
+rs4649203	Psoriasis
+rs4072037	Gastric cancer
+rs9378805	Asthma
+rs11954856	Ovarian cancer
+rs987237	Obesity
+rs189947178	PCOS
+rs140121121	Osteogenesis imperfecta type I
+rs140121121	Osteogenesis imperfecta type
+rs140121121	Osteogenesis imperfecta
+rs17782313	Obesity
+rs9939609	Obesity
+rs1121980	Obesity
+rs651007	Obesity
+rs9939609	Obesity
+rs9939609	Obesity
+rs12611091	Premature ovarian failure
+rs3847153	Premature ovarian failure
+rs3108910	Premature ovarian failure
+rs2278493	Premature ovarian failure
+rs2234693	Premature ovarian failure
+rs1800682	Cervical cancer
+rs12050217	Coronary artery disease
+rs8099917	Cirrhosis
+rs5742909	Cervical cancer
+rs10489177	Hypertension
+rs10489177	Diabetes
+rs17118	Hypertension
+rs17118	Diabetes
+rs17465637	Coronary artery disease
+rs2606345	Acute respiratory distress syndrome
+rs2066853	Acute respiratory distress syndrome
+rs2606345	ARDS
+rs2066853	ARDS
+rs2274223	Esophageal cancer
+rs2274223	Esophageal carcinoma
+rs7578326	Diabetes
+rs12779790	Diabetes
+rs864745	Diabetes
+rs2289591	Glioma
+rs8007267	Sickle cell anemia
+rs8007267	Anemia
+rs17782313	Obesity
+rs3794087	Essential tremor
+rs3794087	Tremor
+rs735482	Lung cancer
+rs3212964	Lung cancer
+rs4803817	Lung cancer
+rs238415	Lung cancer
+rs3916874	Lung cancer
+rs3212980	Lung cancer
+rs1046282	Lung cancer
+rs2298881	Lung cancer
+rs6887695	Psoriasis
+rs7530511	Psoriasis
+rs1800795	Psoriasis
+rs11209026	Psoriasis
+rs3212227	Psoriasis
+rs1800795	Psoriasis
+rs6887695	Psoriasis
+rs1800795	Psoriasis
+rs6887695	Psoriasis
+rs6235	Obesity
+rs2093395	Hypertension
+rs11066280	Hypertension
+rs12229654	Hypertension
+rs17249754	Hypertension
+rs3782889	Hypertension
+rs2072134	Hypertension
+rs11066280	Hyperlipidemia
+rs12229654	Hyperlipidemia
+rs17249754	Hyperlipidemia
+rs11066280	Diabetes
+rs12229654	Diabetes
+rs17249754	Diabetes
+rs1800629	Gastric cancer
+rs1800629	Gastric cancer
+rs1800629	Gastric cancer
+rs1800629	Gastric cancer
+rs2241718	Lung disease
+rs35829419	Lung disease
+rs7727832	Ovarian cancer
+rs7948797	Hypertension
+rs4444073	Hypertension
+rs5888	Coronary artery disease
+rs5888	Ischemic stroke
+rs5888	Stroke
+rs17782313	Obesity
+rs2844573	Hypersensitivity syndrome
+rs2844573	Leprosy
+rs4988453	Colorectal cancer
+rs798766	Bladder cancer
+rs9642880	Bladder cancer
+rs2294008	Bladder cancer
+rs12255372	PCOS
+rs4506565	PCOS
+rs7903146	PCOS
+rs12243326	PCOS
+rs2430561	Breast cancer
+rs2243250	Breast cancer
+rs1024611	Breast cancer
+rs16430	Breast cancer
+rs16430	Breast cancer
+rs1800896	Asthma
+rs1800896	Asthma
+rs1800896	Asthma
+rs1800896	Atopy
+rs2430561	Asthma
+rs1872387	Asthma
+rs1800896	Asthma
+rs7646409	Osteosarcoma
+rs3104746	Breast cancer
+rs3746444	Ischemic stroke
+rs3746444	Stroke
+rs3746444	Ischemic stroke
+rs3746444	Stroke
+rs936938	Autism
+rs6537835	Autism
+rs1877455	Autism
+rs1122608	Coronary artery disease
+rs1122608	Ischemic stroke
+rs1122608	Stroke
+rs1800872	Colorectal cancer
+rs20417	Colorectal cancer
+rs5275	Colorectal cancer
+rs4848306	Colorectal cancer
+rs3024505	Colorectal cancer
+rs689466	Colorectal cancer
+rs1143627	Colorectal cancer
+rs1143623	Colorectal cancer
+rs743777	Rheumatoid arthritis
+rs2104286	Rheumatoid arthritis
+rs3218253	Rheumatoid arthritis
+rs7744020	Influenza
+rs9271117	Influenza
+rs17228212	Atherosclerosis
+rs7700944	Rheumatoid arthritis
+rs7105934	Clear cell RCC
+rs4828696	Epilepsy
+rs511310	Epilepsy
+rs6883877	Epilepsy
+rs6897932	Autoimmune disease
+rs6897932	Multiple sclerosis
+rs6897932	Diabetes
+rs10759931	Asthma
+rs1927911	Asthma
+rs6478317	Asthma
+rs1799889	Cerebral infarction
+rs12304647	Cirrhosis
+rs12304647	Cirrhosis
+rs4253238	Kallikrein
+rs4253238	Asthma
+rs4253238	COPD
+rs3212986	Glioma
+rs2236225	Cleft palate
+rs2274976	Cleft palate
+rs2943641	Insulin resistance
+rs3802842	Colorectal cancer
+rs3746444	Lung cancer
+rs2736098	Lung cancer
+rs4074	Cirrhosis
+rs1801394	Leukemia
+rs7640543	Migraine
+rs10166942	Migraine
+rs12255372	Breast cancer
+rs1006737	Schizophrenia
+rs4765905	Schizophrenia
+rs882194	Schizophrenia
+rs9960767	Schizophrenia
+rs9874	Breast cancer
+rs2070593	Breast cancer
+rs2074451	Breast cancer
+rs17202060	Breast cancer
+rs1801282	Diabetes
+rs7943320	Diabetes
+rs4430796	Diabetes
+rs61764370	Sarcoma
+rs2736100	Lung cancer
+rs25531	SIDS
+rs11556924	Coronary artery disease
+rs2669845	Obesity
+rs2853707	Obesity
+rs3757318	Breast cancer
+rs2046210	Breast cancer
+rs3803662	Breast cancer
+rs2046210	Breast cancer
+rs1550117	H. pylori infection
+rs13420827	H. pylori infection
+rs1550117	Gastric cancer
+rs13420827	Gastric cancer
+rs13181	Prostate cancer
+rs9928094	Obesity
+rs9939609	Obesity
+rs9930333	Obesity
+rs9935401	Obesity
+rs7190053	Obesity
+rs8061518	Obesity
+rs17818902	Obesity
+rs3826169	Obesity
+rs8061518	Insulin resistance
+rs1800780	Hypertension
+rs762551	Lung cancer
+rs762551	Lung cancer
+rs753482	Coronary artery disease
+rs861539	Leukemia
+rs861539	Leukemia
+rs10484561	Follicular lymphoma
+rs2647012	Follicular lymphoma
+rs3117222	Follicular lymphoma
+rs9268853	Follicular lymphoma
+rs2621416	Follicular lymphoma
+rs6457327	Follicular lymphoma
+rs10484561	Lymphoma
+rs2647012	Lymphoma
+rs3117222	Lymphoma
+rs9268853	Lymphoma
+rs2621416	Lymphoma
+rs6457327	Lymphoma
+rs7914558	Schizophrenia
+rs7914558	Social cognition
+rs7914558	Schizophrenia
+rs1800566	Coronary artery disease
+rs25487	Coronary artery disease
+rs861539	Coronary artery disease
+rs1801133	Coronary artery disease
+rs4846049	Coronary artery disease
+rs1799782	Coronary artery disease
+rs1344706	Schizophrenia
+rs4693608	Gene expression
+rs1042714	Obesity
+rs1042714	Body mass index
+rs1042714	Obesity
+rs1042714	Obesity
+rs1042714	Obesity
+rs4149018	Cardiomyopathy
+rs12582717	Cardiomyopathy
+rs965513	Thyroid cancer
+rs944289	Thyroid cancer
+rs13181	Glioblastoma
+rs11615	Glioblastoma
+rs13181	Glioblastoma
+rs1800734	Glioblastoma
+rs2588809	Breast cancer
+rs10069690	Breast cancer
+rs324981	Panic disorder
+rs1421085	Obesity
+rs17817449	Obesity
+rs1421085	Obesity
+rs17817449	Obesity
+rs1421085	Obesity
+rs1539355	Insulin resistance
+rs1539355	PCOS
+rs4938723	Diabetes mellitus
+rs4938723	Diabetes
+rs2298771	Epilepsy
+rs602594	Epilepsy
+rs1051730	Lung cancer
+rs10818488	Rheumatoid arthritis
+rs989902	Breast cancer
+rs7003146	Breast cancer
+rs940494	Coronary artery disease
+rs805296	Coronary artery disease
+rs940494	Diabetes
+rs805296	Diabetes
+rs805297	Rheumatoid arthritis
+rs738409	Cirrhosis
+rs2396753	Schizophrenia
+rs1456031	Schizophrenia
+rs2253478	Schizophrenia
+rs9551963	Stroke
+rs4769060	Stroke
+rs10507391	Stroke
+rs1057910	Stroke
+rs1799853	Stroke
+rs776746	Stroke
+rs751141	Stroke
+rs4769874	Stroke
+rs11655081	Dystonia
+rs895819	Cervical cancer
+rs895819	Cervical cancer
+rs737865	Anencephaly
+rs4680	Spina bifida
+rs4986790	Interleukin 6
+rs2232618	Interleukin 6
+rs2227956	Interleukin 6
+rs5743507	Interleukin 6
+rs1800795	Interleukin 6
+rs2043211	Ischemic stroke
+rs2043211	Stroke
+rs2043211	Ischemic stroke
+rs2043211	Stroke
+rs17782313	Obesity
+rs62048402	Obesity
+rs11642015	Obesity
+rs1990760	Diabetes mellitus
+rs1990760	Type 1 diabetes
+rs1990760	Diabetes
+rs401681	Lung cancer
+rs401681	Squamous cell carcinoma
+rs401681	Adenocarcinoma
+rs62026376	Asthma
+rs7009110	Asthma
+rs62026376	Asthma
+rs6982502	Non alcoholic fatty liver disease
+rs6982502	Fatty liver disease
+rs6982502	Fatty liver
+rs2736100	Lung cancer susceptibility
+rs2736100	Lung adenocarcinoma
+rs2736100	Adenocarcinoma
+rs2736100	Lung cancer
+rs13273442	Nicotine dependence
+rs4952	Nicotine dependence
+rs13273442	Nicotine dependence
+rs13273442	Nicotine dependence
+rs10046	Breast cancer
+rs662799	Hypertension
+rs3135506	Hypertension
+rs662799	Diabetes
+rs3135506	Diabetes
+rs662799	Obesity
+rs3135506	Obesity
+rs9272143	Cervical cancer
+rs2516448	Cervical cancer
+rs3117027	Cervical cancer
+rs9272143	Cervical cancer
+rs2516448	Cervical cancer
+rs738409	Non alcoholic fatty liver disease
+rs738409	Fatty liver disease
+rs738409	Fatty liver
+rs738409	Metabolic syndrome
+rs10770141	Schizophrenia
+rs2736100	Lung cancer
+rs877087	Stroke
+rs2229116	Stroke
+rs2229116	Atherosclerosis
+rs877087	Atherosclerosis
+rs2229116	Atherosclerosis
+rs2908007	Osteoporosis
+rs7741021	Osteoporosis
+rs7902708	Osteoporosis
+rs11898505	Osteoporosis
+rs597319	Osteoporosis
+rs10416265	Osteoporosis
+rs4869739	Osteoporosis
+rs2982552	Osteoporosis
+rs3020331	Osteoporosis
+rs2908007	Longevity
+rs7741021	Longevity
+rs7902708	Longevity
+rs11898505	Longevity
+rs597319	Longevity
+rs10416265	Longevity
+rs4869739	Longevity
+rs2982552	Longevity
+rs3020331	Longevity
+rs35705950	Pulmonary function
+rs1799782	Pancreatic cancer
+rs41305272	Major depressive disorder
+rs2071590	Atherosclerosis
+rs8070488	Atherosclerosis
+rs6690993	Amyotrophic lateral sclerosis
+rs6700125	Amyotrophic lateral sclerosis
+rs1183910	Alkaline phosphatase
+rs1183910	Plasma glucose
+rs1183910	Bilirubin
+rs1800469	Tetralogy of Fallot
+rs7521023	Hypertension
+rs6684209	Hypertension
+rs324420	Obesity
+rs3775296	Anemia
+rs4986791	Colorectal cancer
+rs1800896	Colorectal cancer
+rs2275913	Colorectal cancer
+rs4998557	Colorectal cancer
+rs4986790	Colorectal cancer
+rs1143623	Colorectal cancer
+rs4986791	Ovarian cancer
+rs1800896	Ovarian cancer
+rs2275913	Ovarian cancer
+rs4998557	Ovarian cancer
+rs4986790	Ovarian cancer
+rs1143623	Ovarian cancer
+rs429358	Cerebral amyloid angiopathy
+rs7412	Cerebral amyloid angiopathy
+rs429358	Angiopathy
+rs7412	Angiopathy
+rs429358	Hemorrhage
+rs7412	Hemorrhage
+rs6929846	Coronary heart disease
+rs6929846	Myocardial infarction
+rs6929846	Diabetes mellitus
+rs6929846	Body mass index
+rs6929846	Diabetes
+rs3783553	Papillary thyroid carcinoma
+rs3783553	Thyroid carcinoma
+rs1695	Gastric cancer
+rs9939609	Body mass index
+rs8177826	HIV 1
+rs6003904	HIV 1
+rs1138272	Asthma
+rs1800629	Asthma
+rs1138272	Asthma
+rs1138272	Asthma
+rs1695	Asthma
+rs1800067	Breast cancer susceptibility
+rs1800067	Breast cancer
+rs12979860	Hepatitis C virus
+rs1131445	Cervical cancer
+rs1131445	Cervical cancer
+rs7923837	Diabetes
+rs7756992	Diabetes
+rs290481	Diabetes
+rs3213245	Lung cancer
+rs13266634	Diabetes
+rs3753841	Glaucoma
+rs11024102	Glaucoma
+rs1015213	Glaucoma
+rs734312	Diabetes
+rs1800587	Diabetes
+rs1143634	Diabetes
+rs2146727	Diabetes
+rs3767434	Diabetes
+rs4562	Colon cancer
+rs9869263	Colon cancer
+rs2228576	Amyotrophic lateral sclerosis
+rs12608932	Amyotrophic lateral sclerosis
+rs13048019	Amyotrophic lateral sclerosis
+rs2814707	Amyotrophic lateral sclerosis
+rs569108	Asthma
+rs1441586	Asthma
+rs1805097	Breast cancer
+rs13266634	Insulin resistance
+rs13266634	Hepatitis C virus
+rs12917	Glioma
+rs3212986	Glioma
+rs13181	Glioma
+rs25487	Glioma
+rs1136410	Glioma
+rs1799793	Glioma
+rs25489	Glioma
+rs1799782	Glioma
+rs1052133	Glioma
+rs861539	Glioma
+rs16969968	Oral cancer
+rs578776	Oral cancer
+rs2273802	Breast cancer
+rs193466	Breast cancer
+rs34087264	Breast cancer
+rs801186	Breast cancer
+rs2273802	RARS
+rs193466	RARS
+rs34087264	RARS
+rs801186	RARS
+rs20417	Coronary artery disease
+rs2942168	Parkinson disease
+rs12817488	Parkinson disease
+rs1564282	Tremor
+rs356220	Tremor
+rs11868035	Tremor
+rs10276036	Efavirenz
+rs2243268	Tuberculosis
+rs2243274	Tuberculosis
+rs2229616	Body mass index
+rs7566605	Body mass index
+rs2229616	Obesity
+rs7566605	Obesity
+rs9272143	Cervical cancer
+rs9272143	Cervical cancer
+rs67841474	Cervical cancer
+rs9272143	Cervical cancer
+rs3746444	Breast cancer
+rs2227667	Multiple myeloma
+rs6010620	Glioma
+rs2066827	Breast cancer
+rs10941679	Breast cancer
+rs10941679	Breast cancer
+rs1074145	CYP2D6
+rs1065852	CYP2D6
+rs7903146	Stroke
+rs10970985	Colorectal cancer
+rs7097397	C reactive protein
+rs138213197	PRCA
+rs236918	Cirrhosis
+rs236918	Cirrhosis
+rs4986790	Candidiasis
+rs1800972	Candidiasis
+rs1800629	Candidiasis
+rs1800629	Candidiasis
+rs2305949	Hypertension
+rs4444903	Hypertension
+rs11064560	Hypertension
+rs10994982	Leukemia
+rs10821936	Leukemia
+rs7903146	Nephropathy
+rs7903146	End stage renal disease
+rs401681	Pancreatic cancer
+rs2297339	Alpha thalassemia
+rs2838513	Alpha thalassemia
+rs11886868	Alpha thalassemia
+rs4895441	Alpha thalassemia
+rs4671393	Alpha thalassemia
+rs9399137	Alpha thalassemia
+rs2297339	Thalassemia
+rs2838513	Thalassemia
+rs11886868	Thalassemia
+rs4895441	Thalassemia
+rs4671393	Thalassemia
+rs9399137	Thalassemia
+rs7968585	C reactive protein
+rs2239179	C reactive protein
+rs7968585	Body mass index
+rs2239179	Body mass index
+rs7968585	Diabetes
+rs2239179	Diabetes
+rs7968585	Obesity
+rs2239179	Obesity
+rs11615	Laryngeal cancer
+rs17655	Laryngeal cancer
+rs396991	Asthma
+rs10917661	Asthma
+rs396991	Atopy
+rs10917661	Atopy
+rs9471643	Gastric cancer
+rs6458238	Gastric cancer
+rs1917799	Gastric cancer
+rs10739971	Gastric cancer
+rs2736100	Lung cancer
+rs2736100	Lung adenocarcinoma
+rs2736100	Adenocarcinoma
+rs2736100	Lung cancer
+rs4606	Hypertension
+rs4606	Hypertension
+rs889312	Breast cancer
+rs16886165	Breast cancer
+rs889312	Breast cancer
+rs16886165	Breast cancer
+rs212528	Atherosclerosis
+rs213045	Atherosclerosis
+rs212528	Hypertension
+rs213045	Hypertension
+rs17655	Lung cancer
+rs6457327	DLBCL
+rs8099917	Hepatitis C virus
+rs3218536	Ovarian cancer
+rs505151	Coronary artery disease
+rs505151	Ischemic stroke
+rs505151	Stroke
+rs10893506	Cervical cancer
+rs1883025	Diabetes
+rs12678919	Diabetes
+rs3764261	Diabetes
+rs10468017	Diabetes
+rs493258	Diabetes
+rs7903146	PCOS
+rs601338	Primary sclerosing cholangitis
+rs601338	Sclerosing cholangitis
+rs601338	Cholangitis
+rs601338	Cholangitis
+rs2228526	Prostate cancer
+rs2296147	Prostate cancer
+rs2228526	Prostate cancer
+rs2296147	Prostate cancer
+rs6922269	Coronary artery disease
+rs4362	Hypertension
+rs699	Hypertension
+rs699	Hypertension
+rs5182	Hypertension
+rs964184	Prostate cancer
+rs964184	Prostate cancer
+rs11040	Tuberculosis
+rs28357094	Duchenne muscular dystrophy
+rs28357094	Muscular dystrophy
+rs1048943	Cervical cancer
+rs2243250	Autoimmune disease
+rs2243250	Rheumatoid arthritis
+rs2243250	Autoimmune disease
+rs10503253	Autoimmune disease
+rs2243250	Schizophrenia
+rs10503253	Schizophrenia
+rs13277113	Dermatomyositis
+rs13277113	Polymyositis
+rs401681	Squamous cell carcinoma
+rs401681	Adenocarcinoma
+rs401681	Lung cancer
+rs4402960	Diabetes
+rs4402960	Diabetes
+rs4402960	Obesity
+rs1344706	Schizophrenia
+rs738409	Insulin resistance
+rs738409	HIV infection
+rs738409	Fatty liver
+rs738409	Fatty liver
+rs738409	HIV infection
+rs738409	Fatty liver
+rs1800975	Breast cancer
+rs25487	Breast cancer
+rs2514259	Maturity onset diabetes of the young
+rs74421874	Maturity onset diabetes of the young
+rs1043307	Maturity onset diabetes of the young
+rs3825172	Maturity onset diabetes of the young
+rs2514259	Carpal tunnel syndrome
+rs74421874	Carpal tunnel syndrome
+rs1043307	Carpal tunnel syndrome
+rs3825172	Carpal tunnel syndrome
+rs2514259	Hypercholesterolemia
+rs74421874	Hypercholesterolemia
+rs1043307	Hypercholesterolemia
+rs3825172	Hypercholesterolemia
+rs2514259	Hypertension
+rs74421874	Hypertension
+rs1043307	Hypertension
+rs3825172	Hypertension
+rs2514259	Nephropathy
+rs74421874	Nephropathy
+rs1043307	Nephropathy
+rs3825172	Nephropathy
+rs2514259	Neuropathy
+rs74421874	Neuropathy
+rs1043307	Neuropathy
+rs3825172	Neuropathy
+rs2514259	Diabetes
+rs74421874	Diabetes
+rs1043307	Diabetes
+rs3825172	Diabetes
+rs2514259	Obesity
+rs74421874	Obesity
+rs1043307	Obesity
+rs3825172	Obesity
+rs2514259	MODY3
+rs74421874	MODY3
+rs1043307	MODY3
+rs3825172	MODY3
+rs2294008	Gastric cancer
+rs1534891	Esophagus cancer
+rs13054361	Esophagus cancer
+rs7289981	Esophagus cancer
+rs74318745	Sarcoidosis
+rs6502976	Sarcoidosis
+rs1800255	Stroke
+rs11887092	Stroke
+rs13290387	Myocardial infarction
+rs12375498	Myocardial infarction
+rs13290387	Preeclampsia
+rs12375498	Preeclampsia
+rs7969148	Clubfoot
+rs7903146	Diabetes
+rs2139733	Ischemic stroke
+rs2293050	Ischemic stroke
+rs2139733	Stroke
+rs2293050	Stroke
+rs577948	Myopia
+rs11218544	Myopia
+rs12144939	Body mass index
+rs1410996	Body mass index
+rs800292	Body mass index
+rs4151667	Body mass index
+rs12144939	Diabetes
+rs1410996	Diabetes
+rs800292	Diabetes
+rs4151667	Diabetes
+rs11077	Hepatocellular carcinoma
+rs12979860	Hepatitis C virus
+rs8099917	Hepatitis C virus
+rs3817198	Breast cancer
+rs3817198	Lung cancer
+rs2853676	Squamous cell carcinoma
+rs4977756	Squamous cell carcinoma
+rs2853676	Adenocarcinoma
+rs4977756	Adenocarcinoma
+rs2853676	Lung cancer
+rs4977756	Lung cancer
+rs2853676	Glioma
+rs4977756	Glioma
+rs1800440	Prostate cancer
+rs16982844	Prostate cancer
+rs2665582	Prostate cancer
+rs12460535	Prostate cancer
+rs10426628	Prostate cancer
+rs40401	Asthma
+rs4880	Hypertension
+rs947894	Hypertension
+rs4880	Diabetes
+rs947894	Diabetes
+rs1800975	Lung cancer
+rs2304277	Ovarian cancer
+rs1466785	Ovarian cancer
+rs2304277	Breast cancer
+rs1466785	Breast cancer
+rs187115	Oral cancer
+rs6265	Obesity
+rs6265	Migraine
+rs3918226	Hypertension
+rs1800566	Gastric cancer
+rs2228145	Coronary artery disease
+rs2228145	Interleukin 6 receptor
+rs2228145	Aortic valve stenosis
+rs2228145	C reactive protein
+rs2228145	Interleukin 6
+rs9960767	Schizophrenia
+rs17512836	Schizophrenia
+rs2430561	Hepatocellular carcinoma
+rs2228480	Pelvic organ prolapse
+rs368234815	Hepatitis C virus
+rs12979860	Hepatitis C virus
+rs2075575	SIDS
+rs3906956	SIDS
+rs9951307	SIDS
+rs999737	Breast cancer
+rs344781	Migraine without aura
+rs344781	Migraine
+rs1990622	Frontotemporal lobar degeneration
+rs2279744	Neutropenia
+rs1042522	Neutropenia
+rs2279744	Neutropenia
+rs1042522	Neutropenia
+rs2279744	Neutropenia
+rs1042522	Neutropenia
+rs2279744	Neutropenia
+rs1042522	Neutropenia
+rs1805017	Coronary artery disease
+rs2241766	Adiponectin
+rs2241766	Obesity
+rs2241766	Obesity
+rs798766	Bladder cancer
+rs17674580	Bladder cancer
+rs2294008	Bladder cancer
+rs10936599	Bladder cancer
+rs1495741	Bladder cancer
+rs9642880	Bladder cancer
+rs17493811	Diabetes
+rs9469089	Diabetes
+rs2070600	Diabetes
+rs3217927	Childhood ALL
+rs2118181	Aortic aneurysm
+rs10519177	Aortic aneurysm
+rs2118181	Aneurysm
+rs10519177	Aneurysm
+rs2118181	Hypertension
+rs4143094	Colorectal cancer
+rs12979860	Hepatitis C virus
+rs2856718	Hepatitis B virus infection
+rs9275572	Hepatitis B virus infection
+rs2856718	Hepatocellular carcinoma
+rs9275572	Hepatocellular carcinoma
+rs2856718	Hepatitis B virus
+rs9275572	Hepatitis B virus
+rs2856718	Hepatitis C virus
+rs9275572	Hepatitis C virus
+rs9275572	Hepatocellular carcinoma
+rs9275572	Cirrhosis
+rs10788160	Prostate cancer
+rs11199874	Prostate cancer
+rs445114	Prostate cancer
+rs1512268	Prostate cancer
+rs2735839	Prostate cancer
+rs17632542	Prostate cancer
+rs266849	Prostate cancer
+rs4072037	Gastric cancer
+rs12770228	Ovarian cancer
+rs1243180	Ovarian cancer
+rs12770228	Meningioma
+rs1243180	Meningioma
+rs12770228	Glioma
+rs1243180	Glioma
+rs12770228	Meningioma
+rs1799983	Prostate cancer
+rs1799983	Prostate cancer
+rs3743251	Thrombosis
+rs9264942	HIV 1
+rs889312	Gastric cancer
+rs629367	Gastric cancer
+rs629367	Gastric cancer
+rs2736098	Lung adenocarcinoma
+rs2736098	Adenocarcinoma
+rs2736098	Lung cancer
+rs2736098	Lung cancer
+rs1800872	Colorectal cancer
+rs2057482	Hypercholesterolemia
+rs2057482	Hypertriglyceridemia
+rs2057482	Diabetes mellitus
+rs2057482	Hypertension
+rs2057482	Diabetes
+rs2057482	Hypercholesterolemia
+rs2057482	Hypertriglyceridemia
+rs2057482	Hypertension
+rs2057482	Obesity
+rs12979860	Hepatitis C virus
+rs6280	Alcohol dependence
+rs2910164	IGAN
+rs2910164	IGAN
+rs1805010	Rheumatoid arthritis
+rs1800796	Ischemic stroke
+rs1800796	Stroke
+rs762803	Lung cancer
+rs4891	Lung cancer
+rs1695	Lung cancer
+rs749174	Lung cancer
+rs59007384	Epilepsy
+rs28358887	Obesity
+rs2075650	Obesity
+rs17125944	Obesity
+rs3865444	Obesity
+rs3851179	Obesity
+rs713586	Obesity
+rs4836133	Obesity
+rs1858973	Obesity
+rs12979860	Hepatitis C virus
+rs8099917	Hepatitis C virus
+rs579459	Coronary artery disease
+rs17114036	Coronary artery disease
+rs17398575	Coronary artery disease
+rs1878406	Coronary artery disease
+rs3825807	Coronary artery disease
+rs1800629	Acute lymphoblastic leukemia
+rs1800629	Leukemia
+rs9267502	Psoriasis
+rs7903146	Polycystic ovary syndrome
+rs7903146	PCOS
+rs7903146	PCOS
+rs7903146	PCOS
+rs174576	Velocardiofacial syndrome
+rs2518824	Velocardiofacial syndrome
+rs174576	Schizophrenia
+rs2518824	Schizophrenia
+rs174576	Intelligence
+rs2518824	Intelligence
+rs8066560	Insulin resistance
+rs1467465	Ovarian cancer
+rs1883832	Atherosclerosis
+rs7679673	Endometrial cancer
+rs7679673	Prostate cancer
+rs37369	Diabetes mellitus
+rs37369	Diabetes
+rs248793	Alcohol dependence
+rs13181	Xeroderma pigmentosum
+rs2167270	Colorectal cancer
+rs2167270	Lymphoma
+rs2167270	Lymphoma
+rs2167270	Colorectal cancer
+rs2167270	Lymphoma
+rs1799983	Hypertension
+rs11172113	Migraine
+rs6790925	Migraine
+rs2274316	Migraine
+rs2622590	Papillary thyroid carcinoma
+rs925489	Papillary thyroid carcinoma
+rs2622590	Thyroid carcinoma
+rs925489	Thyroid carcinoma
+rs1002630	Diabetes
+rs11024102	Glaucoma
+rs216489	Glaucoma
+rs1676486	Glaucoma
+rs12138977	Glaucoma
+rs1569686	Schizophrenia
+rs2070565	Schizophrenia
+rs9340799	Prostate cancer
+rs1256049	Prostate cancer
+rs9340799	Prostate cancer
+rs1256049	Prostate cancer
+rs144383	Lumbar disc degeneration
+rs144383	Hip dysplasia
+rs3212986	Colorectal cancer
+rs2736098	Squamous cell carcinoma
+rs2736098	Adenocarcinoma
+rs2736098	Lung cancer
+rs401681	Lung cancer
+rs1061170	Age related macular degeneration
+rs1061170	Macular degeneration
+rs744166	Gastric cancer
+rs744166	Gastric cancer
+rs12979860	Hepatitis B virus
+rs12979860	Hepatitis C virus
+rs2274223	Esophageal squamous cell carcinoma
+rs2274223	Squamous cell carcinoma
+rs2274223	Adenocarcinoma
+rs11779254	Asthma
+rs6574978	Asthma
+rs59569785	Asthma
+rs11779254	COPD
+rs6574978	COPD
+rs59569785	COPD
+rs11190870	Scoliosis
+rs17879961	Lung cancer
+rs11571833	Lung cancer
+rs2736100	Glioma
+rs2736100	Glioma susceptibility
+rs2736100	Glioma
+rs2165241	Glaucoma
+rs3838646	Breast cancer
+rs4402960	Diabetes
+rs7756992	Diabetes
+rs4402960	Diabetes
+rs5744455	Asthma
+rs17226566	Asthma
+rs2915863	Asthma
+rs17226566	Asthma
+rs6254	Aortic stenosis
+rs1544410	Aortic stenosis
+rs1800871	Aortic stenosis
+rs10830963	Diabetes
+rs1111875	Diabetes
+rs2237895	Diabetes
+rs402710	Lung cancer
+rs401681	Lung cancer
+rs17849071	Thyroid cancer
+rs3848403	Diabetes
+rs1056534	Diabetes
+rs72258881	Hepatitis C virus
+rs8099917	Hepatitis C virus
+rs324015	Asthma
+rs324011	Asthma
+rs324015	Asthma
+rs2476601	Autoimmune disease
+rs2476601	Type 1 diabetes
+rs2476601	Diabetes
+rs8176318	Ovarian cancer
+rs8176318	Breast cancer
+rs11614913	Esophageal squamous cell carcinoma
+rs7813	Esophageal squamous cell carcinoma
+rs2910164	Esophageal squamous cell carcinoma
+rs1595066	Esophageal squamous cell carcinoma
+rs16845990	Esophageal squamous cell carcinoma
+rs11614913	Squamous cell carcinoma
+rs7813	Squamous cell carcinoma
+rs2910164	Squamous cell carcinoma
+rs1595066	Squamous cell carcinoma
+rs16845990	Squamous cell carcinoma
+rs12914272	Breast cancer
+rs1482057	Breast cancer
+rs861539	Oral cancer
+rs7903146	Diabetes
+rs9263871	Lupus nephritis
+rs10118570	Squamous cell carcinoma
+rs17550038	Breast cancer
+rs3765524	Esophageal cancer
+rs2274223	Esophageal cancer
+rs9138	Rheumatoid arthritis
+rs11439060	Rheumatoid arthritis
+rs1800629	Asthma
+rs1800629	Asthma
+rs2293855	Metabolic syndrome
+rs2293855	Obesity
+rs2228603	Cirrhosis
+rs34329	Oral cancer
+rs647451	Oral cancer
+rs3217901	Oral cancer
+rs1406	Oral cancer
+rs3093816	Oral cancer
+rs3092904	Oral cancer
+rs738409	Non alcoholic fatty liver disease
+rs738409	Fatty liver disease
+rs738409	Fatty liver
+rs324011	Asthma
+rs324015	Asthma
+rs71802646	Asthma
+rs71802646	Asthma
+rs324015	Asthma
+rs2910164	Stroke
+rs2910164	Ischemic stroke
+rs2910164	Stroke
+rs9939609	Body mass index
+rs62048402	Body mass index
+rs9939609	Obesity
+rs62048402	Obesity
+rs3087403	Neutropenia
+rs4402960	Hypertension
+rs1801131	Hypertension
+rs4402960	Hypertension
+rs1801131	Hypertension
+rs1042713	Obesity
+rs1042714	Obesity
+rs6234	Diabetes
+rs271939	Diabetes
+rs3811951	Diabetes
+rs6235	Diabetes
+rs6234	Obesity
+rs271939	Obesity
+rs3811951	Obesity
+rs6235	Obesity
+rs6234	Obesity
+rs271939	Obesity
+rs3811951	Obesity
+rs57137919	Coronary artery disease
+rs57137919	Atherosclerosis
+rs662	Wilms tumor
+rs4844880	Adenocarcinoma
+rs4698934	Melanoma
+rs5186	Ischemic stroke
+rs5186	Hypertension
+rs5186	Stroke
+rs2228314	Fatty liver disease
+rs2228314	Fatty liver
+rs4647693	Gastric cancer
+rs4647610	Gastric cancer
+rs12108497	Gastric cancer
+rs8141691	Breast cancer
+rs9383938	Breast cancer
+rs10741657	Coronary artery disease
+rs12794714	Coronary artery disease
+rs2476601	Rheumatoid arthritis
+rs9590614	Pulmonary disease
+rs379123	Pulmonary disease
+rs1801133	Hemoglobin
+rs1128503	Neutropenia
+rs1045642	Neutropenia
+rs12493607	Breast cancer
+rs11075995	Breast cancer
+rs174546	Ischemic stroke
+rs174546	Stroke
+rs174546	FADS
+rs1061622	Breast cancer
+rs1229984	Stroke
+rs10995190	Breast cancer
+rs33980500	Psoriasis susceptibility
+rs33980500	Psoriasis
+rs41302867	Hypertension
+rs3814903	Breast cancer
+rs1844925	Breast cancer
+rs5745752	Breast cancer
+rs11203200	Breast cancer
+rs4680	Coronary artery disease
+rs2736100	Lung cancer
+rs4951011	Breast cancer
+rs10474352	Breast cancer
+rs2290203	Breast cancer
+rs1572931	Amyotrophic lateral sclerosis
+rs1572931	Multiple system atrophy
+rs1625579	Schizophrenia
+rs5030655	CYP2D6
+rs35742686	CYP2D6
+rs3892097	CYP2D6
+rs5029924	Pancreatitis
+rs5029924	Pancreatitis
+rs4794067	Asthma
+rs16947078	Asthma
+rs4794067	Asthma
+rs2259820	Diabetes mellitus
+rs2393791	Diabetes mellitus
+rs2464196	Diabetes mellitus
+rs7310409	Diabetes mellitus
+rs2259820	Hypertension
+rs2393791	Hypertension
+rs2464196	Hypertension
+rs7310409	Hypertension
+rs2259820	Diabetes
+rs2393791	Diabetes
+rs2464196	Diabetes
+rs7310409	Diabetes
+rs1169310	Hypertriglyceridemia
+rs2464196	Hypertriglyceridemia
+rs1169313	Hypertriglyceridemia
+rs2259820	Hypertriglyceridemia
+rs2259816	Hypertriglyceridemia
+rs7310409	Hypertriglyceridemia
+rs2393791	Hypertriglyceridemia
+rs1169310	Cholesterol level
+rs2464196	Cholesterol level
+rs1169313	Cholesterol level
+rs2259820	Cholesterol level
+rs2259816	Cholesterol level
+rs7310409	Cholesterol level
+rs2393791	Cholesterol level
+rs7903146	Diabetes
+rs738409	Cirrhosis
+rs7578597	Body mass index
+rs10830963	Body mass index
+rs3751812	Body mass index
+rs4607517	Body mass index
+rs13266634	Body mass index
+rs7578597	Plasma glucose
+rs10830963	Plasma glucose
+rs3751812	Plasma glucose
+rs4607517	Plasma glucose
+rs13266634	Plasma glucose
+rs7578597	Hemoglobin
+rs10830963	Hemoglobin
+rs3751812	Hemoglobin
+rs4607517	Hemoglobin
+rs13266634	Hemoglobin
+rs7578597	Obesity
+rs10830963	Obesity
+rs3751812	Obesity
+rs4607517	Obesity
+rs13266634	Obesity
+rs4946936	Childhood ALL
+rs7566605	Obesity
+rs7566605	Obesity
+rs1126742	Hypertension
+rs3890011	Hypertension
+rs1893352	Tuberculosis
+rs8177374	Tuberculosis
+rs738409	Fatty liver disease
+rs738409	Fatty liver
+rs1805794	Prostate cancer
+rs1805794	Bladder cancer
+rs5905512	Schizophrenia
+rs1800497	Schizophrenia
+rs1800497	Schizophrenia
+rs2736911	Age related macular degeneration
+rs2736911	Macular degeneration
+rs11614913	Lung cancer
+rs2292832	Lung cancer
+rs2910164	Lung cancer
+rs3746444	Lung cancer
+rs11614913	Lung cancer
+rs2910164	Lung cancer
+rs9340799	Scoliosis
+rs758316	Endometriosis
+rs4837864	Endometriosis
+rs3817672	Childhood ALL
+rs2961024	QT interval
+rs315952	Acute respiratory distress syndrome
+rs10938397	Body mass index
+rs12970134	Body mass index
+rs10938397	Diabetes
+rs12970134	Diabetes
+rs2260000	Body mass index
+rs2260000	Diabetes
+rs1801274	Kawasaki disease
+rs11833579	Ischemic stroke
+rs11833579	Stroke
+rs1990622	Frontotemporal lobar degeneration
+rs2009746	COPD
+rs7181486	COPD
+rs2915863	Atopy
+rs4807000	Atopy
+rs2230804	Atopy
+rs2569192	Atopy
+rs5030411	Atopy
+rs17639215	Atopy
+rs2569191	Atopy
+rs117633859	VKH syndrome
+rs442309	VKH syndrome
+rs3021304	VKH syndrome
+rs1801275	High density lipoprotein cholesterol
+rs1801275	Hypertension
+rs9939609	Obesity
+rs2228480	Breast cancer
+rs3798758	Breast cancer
+rs9383935	Breast cancer
+rs9383935	Breast cancer
+rs2294008	Bladder cancer
+rs2294008	Bladder cancer
+rs6007897	Atherosclerosis
+rs4044210	Atherosclerosis
+rs11720822	Glaucoma
+rs2754511	Glaucoma
+rs2071559	Coronary artery disease
+rs2305948	Coronary artery disease
+rs2305948	Diabetes
+rs37972	Asthma
+rs37973	Asthma
+rs37972	Asthma
+rs2287499	Breast cancer
+rs2241766	Diabetes
+rs1501299	Diabetes
+rs1052667	Osteosarcoma
+rs669260	Measles
+rs669260	Rubella
+rs2284552	Measles
+rs2546893	Measles
+rs2284552	Rubella
+rs2546893	Rubella
+rs11098403	Schizophrenia
+rs2070744	Encephalopathy
+rs1800779	Encephalopathy
+rs1800783	Encephalopathy
+rs10079250	Lung cancer
+rs13009079	Lung cancer
+rs7631358	Lung cancer
+rs5063	Ischemic stroke
+rs5063	Hypertension
+rs5063	Hemorrhage
+rs5063	Stroke
+rs5063	Hemorrhage
+rs1801133	Hemorrhage
+rs5063	Hemorrhage
+rs1801133	Hemorrhage
+rs763780	Gastric cancer
+rs5361	Gene expression
+rs17401966	Hepatocellular carcinoma
+rs17401966	Hepatitis B virus
+rs1801282	Atherosclerosis
+rs1344706	Schizophrenia
+rs7216389	Asthma susceptibility
+rs7216389	Asthma
+rs2273535	Breast cancer
+rs4646903	Esophageal cancer
+rs747782	Glaucoma
+rs6445055	Glaucoma
+rs2472493	Glaucoma
+rs8176693	Glaucoma
+rs3812316	Hypertriglyceridemia
+rs17145738	Hypertriglyceridemia
+rs2808607	Hypertriglyceridemia
+rs1800795	Hypertriglyceridemia
+rs7412	Hypertriglyceridemia
+rs4430796	Diabetes mellitus
+rs4430796	Prostate cancer
+rs4430796	Diabetes
+rs4430796	Prostate cancer
+rs4430796	Prostate cancer
+rs1801282	Obesity
+rs1801282	Obesity
+rs9939609	Obesity
+rs75932628	Alzheimer disease
+rs4938723	Gastric cancer
+rs4938723	Gastric cancer
+rs799917	Breast cancer
+rs799917	Breast cancer
+rs9282861	Bladder cancer
+rs2239633	Acute lymphoblastic leukemia
+rs2239633	Leukemia
+rs2239633	Childhood ALL
+rs2239633	Childhood ALL
+rs9548934	Coronary artery disease
+rs9548937	Diabetes mellitus
+rs9548937	Diabetes
+rs4746	Autism
+rs12979860	Type 1 diabetes
+rs12979860	Diabetes
+rs2910164	Acute GVHD
+rs6677604	IGAN
+rs2802292	Longevity
+rs2910164	Psoriasis
+rs20417	Breast cancer
+rs689466	Breast cancer
+rs4590952	Testicular cancer
+rs1064395	Schizophrenia
+rs3732378	Atherosclerosis
+rs3732379	Atherosclerosis
+rs17300539	Obesity
+rs1501299	Obesity
+rs266729	Obesity
+rs17300539	Obesity
+rs266729	Obesity
+rs1501299	Obesity
+rs11055786	Breast cancer
+rs11915160	Breast cancer
+rs3130932	Breast cancer
+rs12979860	Hepatitis C virus
+rs8099917	Hepatitis C virus
+rs3219073	Lung cancer
+rs3219073	Lung cancer susceptibility
+rs3219073	Lung cancer
+rs4246444	Lung cancer
+rs9912300	Lung cancer
+rs6010620	Glioma
+rs6010620	Glioma
+rs2470893	Breast cancer
+rs3816358	Breast cancer
+rs8150	Breast cancer
+rs12979860	HAM/TSP
+rs8099917	HAM/TSP
+rs12979860	HTLV 1
+rs8099917	HTLV 1
+rs805304	Obesity
+rs805304	Obesity
+rs1466535	Abdominal aortic aneurysm
+rs1466535	Aortic aneurysm
+rs1466535	Aneurysm
+rs267734	Diabetes
+rs448012	Gene expression
+rs2010963	Gene expression
+rs34391416	COPD
+rs114931935	COPD
+rs1544410	Glomerulonephritis
+rs1625579	Schizophrenia
+rs11644943	Obesity
+rs7206790	Obesity
+rs7206790	Obesity
+rs11644943	Obesity
+rs11644943	Obesity
+rs7206790	Obesity
+rs9939609	Obesity
+rs1800734	Dermatitis
+rs7057398	Pancreatitis
+rs12688220	Pancreatitis
+rs10273639	Pancreatitis
+rs30461	Periodontitis
+rs2476601	Type 1 diabetes
+rs689	Type 1 diabetes
+rs2476601	Diabetes
+rs689	Diabetes
+rs1137100	Breast cancer
+rs1137100	Lung cancer
+rs1801282	Nephropathy
+rs2268388	Nephropathy
+rs1801282	Diabetes
+rs2268388	Diabetes
+rs4977574	Coronary heart disease
+rs2735839	Prostate cancer
+rs103294	Prostate cancer
+rs10486567	Prostate cancer
+rs1801282	Diabetes
+rs3856806	Diabetes
+rs11196205	Diabetes
+rs1249719	Diabetes
+rs1800592	Diabetes
+rs2034650	Pulmonary fibrosis
+rs833061	Nephropathy
+rs3917887	Nephropathy
+rs11543198	Bladder cancer
+rs2910164	Colorectal cancer
+rs1127354	Anemia
+rs1127354	Anemia
+rs6495309	Lung cancer
+rs1006737	Schizophrenia
+rs1342387	Adiponectin
+rs1342387	Colorectal cancer
+rs1342387	Colorectal cancer
+rs1800067	Lung cancer
+rs2466571	Lymphoma
+rs4073	Lymphoma
+rs2227307	Lymphoma
+rs12342	Cerebral infarction
+rs12342	Atherosclerosis
+rs12342	Ischemic stroke
+rs12342	Adiponectin
+rs12342	Stroke
+rs1130866	COPD
+rs10505477	Gastric cancer
+rs58542926	Fatty liver
+rs738409	Fatty liver
+rs5498	Atherosclerosis
+rs12252	Influenza
+rs2736100	Glioma
+rs1456315	Colorectal cancer
+rs16902094	Colorectal cancer
+rs6983267	Colorectal cancer
+rs1456315	Prostate cancer
+rs16902094	Prostate cancer
+rs6983267	Prostate cancer
+rs1001179	Prostate cancer
+rs3448	Prostate cancer
+rs1800668	Prostate cancer
+rs10432782	Prostate cancer
+rs1052133	Prostate cancer
+rs4880	Prostate cancer
+rs17650792	Prostate cancer
+rs8102137	Bladder cancer
+rs2077647	Breast cancer
+rs926778	Breast cancer
+rs3798377	Breast cancer
+rs2273206	Breast cancer
+rs2881766	Breast cancer
+rs926778	Breast cancer
+rs2881766	Breast cancer
+rs3798377	Breast cancer
+rs2881766	Breast cancer
+rs2910164	Gastric cancer
+rs10995190	Breast cancer
+rs7696175	Breast cancer
+rs5030728	Breast cancer
+rs7696175	Breast cancer
+rs4149578	Breast cancer
+rs79670217	PRCA
+rs116890317	PRCA
+rs1801133	Stomach cancer
+rs3757318	Breast cancer
+rs12516	Breast cancer
+rs9904779	Breast cancer
+rs17089887	FECD
+rs17089887	FECD
+rs273259	Measles
+rs1318653	Measles
+rs13266634	Diabetes
+rs10916832	Schizophrenia
+rs6234	Obesity
+rs6232	Obesity
+rs6235	Obesity
+rs6234	Obesity
+rs6232	Obesity
+rs6235	Obesity
+rs3734091	Breast cancer
+rs3734091	Breast cancer
+rs9939609	Insulin resistance
+rs9939609	Metabolic syndrome
+rs9939609	Diabetes mellitus
+rs9939609	Diabetes
+rs9939609	Obesity
+rs2910164	DLBCL
+rs9605146	Blood group
+rs78142040	ARDS
+rs2294008	Bladder cancer
+rs6923761	Body mass index
+rs4684677	Breast cancer
+rs572169	Breast cancer
+rs4684677	Breast cancer
+rs2075356	Breast cancer
+rs572169	Breast cancer
+rs696217	Breast cancer
+rs9939609	Tuberculosis
+rs8050136	Tuberculosis
+rs9939609	Tuberculosis
+rs7765379	Enteric fever
+rs2910164	Gastric cancer
+rs2910164	Gastric cancer
+rs1045494	Breast cancer
+rs1052532	Breast cancer
+rs10719	Breast cancer
+rs4687554	Breast cancer
+rs3134615	Breast cancer
+rs1625579	Schizophrenia
+rs1884613	Diabetes
+rs1884613	Body mass index
+rs198389	Hyperlipidemia
+rs198388	Hyperlipidemia
+rs632793	Hyperlipidemia
+rs671	Hypertension
+rs1800470	Lung cancer susceptibility
+rs1800470	Lung cancer
+rs10754558	HTLV 1
+rs105213	Breast cancer
+rs2284659	Breast cancer
+rs974334	Breast cancer
+rs406113	Breast cancer
+rs12979860	Cirrhosis
+rs12212067	Malaria
+rs6897932	Autoimmune disease
+rs6897932	Multiple sclerosis
+rs6897932	HIV infection
+rs6897932	Autoimmune disease
+rs2274223	Esophageal cancer
+rs3775291	Pancreatitis
+rs707265	HSCR
+rs738409	Metabolic syndrome
+rs1625895	Diffuse Large B Cell Lymphoma
+rs1625895	B cell lymphoma
+rs1625895	Lymphoma
+rs1625895	DLBCL
+rs1625895	DLBCL
+rs2301228	Schizophrenia
+rs2430561	Malaria
+rs2069718	Malaria
+rs2069728	Malaria
+rs2069727	Malaria
+rs2069705	Malaria
+rs3138557	Malaria
+rs3212227	Psoriasis
+rs1800470	Hypertension
+rs2910164	Gastric cancer
+rs6934903	Fetal hemoglobin
+rs1427407	Fetal hemoglobin
+rs6934903	Hemoglobin
+rs1427407	Hemoglobin
+rs401681	Melanoma
+rs4252120	Periodontitis
+rs2234248	Glioblastoma
+rs2234248	Glioma
+rs1326934	Nephropathy
+rs2241766	Colorectal cancer
+rs1501299	Colorectal cancer
+rs2241766	Adiponectin
+rs1501299	Adiponectin
+rs2241766	Colorectal cancer
+rs1501299	Colorectal cancer
+rs2241766	Body mass index
+rs1501299	Body mass index
+rs1934951	Neuropathy
+rs1934951	Anemia
+rs662	Obesity
+rs12979860	Hepatocellular carcinoma
+rs738409	Hepatocellular carcinoma
+rs4444903	Hepatocellular carcinoma
+rs12979860	Hepatitis C virus
+rs738409	Hepatitis C virus
+rs4444903	Hepatitis C virus
+rs12979860	Cirrhosis
+rs738409	Cirrhosis
+rs4444903	Cirrhosis
+rs1801028	Schizophrenia
+rs1801028	Schizophrenia
+rs1501299	Pancreatic cancer
+rs2237895	Pancreatic cancer
+rs1501299	Pancreatic cancer
+rs671	Gastric cancer
+rs698	Gastric cancer
+rs1229984	Gastric cancer
+rs671	Gastric cancer
+rs698	Gastric cancer
+rs1229984	Gastric cancer
+rs1344706	Schizophrenia
+rs25487	Hypertension
+rs11615	Prostate cancer aggressiveness
+rs17503908	Prostate cancer aggressiveness
+rs11615	Prostate cancer
+rs17503908	Prostate cancer
+rs1421085	Obesity
+rs8043757	Obesity
+rs17817449	Obesity
+rs1421085	Obesity
+rs8043757	Obesity
+rs17817449	Obesity
+rs1421085	Obesity
+rs8043757	Obesity
+rs17817449	Obesity
+rs6941539	Gastric cancer
+rs6912200	Gastric cancer
+rs3789210	Gastric cancer
+rs6939861	Gastric cancer
+rs6010620	Glioma
+rs6010620	Glioma
+rs6010620	Glioma
+rs361525	Breast cancer
+rs4073	Breast cancer
+rs28362491	Breast cancer
+rs1800629	Breast cancer
+rs1800871	Breast cancer
+rs2233406	Breast cancer
+rs1867277	Papillary thyroid carcinoma
+rs6983267	Papillary thyroid carcinoma
+rs966513	Papillary thyroid carcinoma
+rs944289	Papillary thyroid carcinoma
+rs2439302	Papillary thyroid carcinoma
+rs1867277	Thyroid carcinoma
+rs6983267	Thyroid carcinoma
+rs966513	Thyroid carcinoma
+rs944289	Thyroid carcinoma
+rs2439302	Thyroid carcinoma
+rs1867277	Thyroid cancer
+rs6983267	Thyroid cancer
+rs966513	Thyroid cancer
+rs944289	Thyroid cancer
+rs2439302	Thyroid cancer
+rs2043211	Inflammatory bowel disease
+rs1800795	Diffuse Large B Cell Lymphoma
+rs6449182	Diffuse Large B Cell Lymphoma
+rs1800795	B cell lymphoma
+rs6449182	B cell lymphoma
+rs1800795	Lymphoma
+rs6449182	Lymphoma
+rs1800795	DLBCL
+rs6449182	DLBCL
+rs2267437	Hepatocellular carcinoma
+rs132793	Hepatocellular carcinoma
+rs132770	Hepatocellular carcinoma
+rs5751129	Hepatocellular carcinoma
+rs2267437	Renal cell carcinoma
+rs132793	Renal cell carcinoma
+rs132770	Renal cell carcinoma
+rs5751129	Renal cell carcinoma
+rs2267437	Breast cancer
+rs132793	Breast cancer
+rs132770	Breast cancer
+rs5751129	Breast cancer
+rs548181	Schizophrenia
+rs17603876	Schizophrenia
+rs3864075	Schizophrenia
+rs328	Obesity
+rs5882	Obesity
+rs2294008	Gastric cancer
+rs2294008	Gastric cancer
+rs2294008	Gastric cancer
+rs1800625	Oral cancer
+rs1800625	Oral squamous cell carcinoma
+rs1800625	Squamous cell carcinoma
+rs1036477	Aortic aneurysm
+rs2118181	Aortic aneurysm
+rs1036477	Aneurysm
+rs2118181	Aneurysm
+rs75932628	Amyotrophic lateral sclerosis
+rs1675126	Breast cancer
+rs2071214	Breast cancer
+rs12979860	Aspartate aminotransferase
+rs2920502	Epilepsy
+rs3773364	Epilepsy
+rs3755724	Epilepsy
+rs437168	NPHS1
+rs941576	Type 1 diabetes
+rs941576	Birth weight
+rs941576	Diabetes
+rs2069837	Takayasu arteritis
+rs11666543	Takayasu arteritis
+rs2836878	Takayasu arteritis
+rs1411832	Schizophrenia
+rs2244613	Neutropenia
+rs10156191	Migraine
+rs5219	Obesity
+rs328	Obesity
+rs4402960	Obesity
+rs320	Obesity
+rs1801133	Obesity
+rs2292832	Breast cancer
+rs3746444	Breast cancer
+rs1805087	Cholesterol level
+rs363050	Autism
+rs1799945	Hypertension
+rs361525	Diabetes
+rs1799724	Diabetes
+rs1800629	Diabetes
+rs17782313	Obesity
+rs11084753	Obesity
+rs543874	Obesity
+rs2241423	Obesity
+rs140490	Autoimmune disease
+rs738409	Non alcoholic fatty liver disease
+rs738409	Fatty liver disease
+rs738409	Fatty liver
+rs6503527	Asthma
+rs6755028	Asthma
+rs738409	Fatty liver disease
+rs738409	Fatty liver
+rs738409	Diabetes
+rs738409	Insulin resistance
+rs1260326	Gout susceptibility
+rs2188380	Gout susceptibility
+rs4073582	Gout susceptibility
+rs1260326	Diabetes mellitus
+rs2188380	Diabetes mellitus
+rs4073582	Diabetes mellitus
+rs1260326	Diabetes
+rs2188380	Diabetes
+rs4073582	Diabetes
+rs4444235	Colorectal cancer
+rs10816625	Breast cancer
+rs13294895	Breast cancer
+rs505922	Pancreatic cancer
+rs2910164	Diabetes mellitus
+rs2910164	Ischemic stroke
+rs2910164	Hypertension
+rs2910164	Diabetes
+rs2910164	Stroke
+rs2910164	Ischemic stroke
+rs2910164	Stroke
+rs12979860	Hepatitis C virus
+rs20541	Hepatocellular carcinoma
+rs1800925	Hepatocellular carcinoma
+rs20541	Hepatitis B virus
+rs1800925	Hepatitis B virus
+rs4938723	Gastric cancer
+rs11066280	Gastric cancer
+rs11866002	Osteosarcoma
+rs11209026	Inflammatory bowel disease
+rs11209026	Gastric cancer
+rs12912233	Epilepsy
+rs880626	Epilepsy
+rs3812718	Epilepsy
+rs9446777	Periodontitis
+rs2392510	Periodontitis
+rs1695	Breast cancer
+rs25531	Major depressive disorder
+rs10911021	Coronary heart disease
+rs10911021	Diabetes
+rs10911021	Diabetes
+rs10859871	Endometriosis
+rs17694933	Endometriosis
+rs4141819	Endometriosis
+rs10859871	Endometriosis
+rs4833095	H. pylori infection
+rs1799964	Diabetes
+rs1800630	Diabetes
+rs35975099	Migraine
+rs1718119	Diabetes
+rs2228315	Ischemic stroke
+rs2228315	Stroke
+rs2294008	Gastric cancer
+rs2294008	H. pylori infection
+rs7539020	Hypertension
+rs3789678	Hypertension
+rs7539020	Diabetes
+rs3789678	Diabetes
+rs1800682	Hepatocellular carcinoma
+rs16998248	Coronary artery disease
+rs35720349	Coronary artery disease
+rs9939609	Obesity
+rs9939609	Obesity
+rs4402960	Diabetes
+rs7754840	Diabetes
+rs5215	Diabetes
+rs11615	Osteosarcoma
+rs9939609	Obesity
+rs10956514	Mycobacterium tuberculosis
+rs10956514	Tuberculosis infection
+rs10956514	Tuberculosis
+rs133885	Dyslexia
+rs7574865	Enthesitis related arthritis
+rs12252	Influenza
+rs3771863	Sicca syndrome
+rs738409	Fatty liver disease
+rs738409	Fatty liver
+rs738409	NASH
+rs738409	NASH
+rs4646	Breast cancer
+rs11708067	Diabetes
+rs11614913	Gastric cancer
+rs2910164	Gastric cancer
+rs3746444	Gastric cancer
+rs6813195	Diabetes
+rs17106184	Diabetes
+rs7548189	Diarrhea
+rs738409	Non alcoholic fatty liver disease
+rs738409	Fatty liver disease
+rs738409	Fatty liver
+rs6276	Hypertension
+rs12998	Breast cancer
+rs5780218	Breast cancer
+rs5780218	Breast cancer
+rs146021107	Body mass index
+rs6929846	Body mass index
+rs2116519	Body mass index
+rs1671021	Body mass index
+rs146021107	Hypertension
+rs6929846	Hypertension
+rs2116519	Hypertension
+rs1671021	Hypertension
+rs146021107	Body mass index
+rs6929846	Body mass index
+rs2116519	Body mass index
+rs1671021	Body mass index
+rs2074388	Hypertriglyceridemia
+rs6929846	Hypertriglyceridemia
+rs2569512	Hypertriglyceridemia
+rs2074379	Hypertriglyceridemia
+rs1042522	Endometriosis
+rs299290	Breast cancer
+rs2426618	Breast cancer
+rs769217	Body mass index
+rs11571833	Squamous cell carcinoma
+rs11571833	Breast cancer
+rs751141	Diabetes mellitus
+rs17110453	Diabetes mellitus
+rs751141	Hypertension
+rs17110453	Hypertension
+rs751141	Diabetes
+rs17110453	Diabetes
+rs11568818	Gene expression
+rs198977	Prostate cancer
+rs6967330	Asthma
+rs1367610	Hereditary breast cancer
+rs1367610	Breast cancer
+rs8034191	Lung cancer
+rs2284659	Myocardial infarction
+rs763780	Tuberculosis
+rs2275913	Tuberculosis
+rs1432679	Breast cancer susceptibility
+rs3757318	Breast cancer susceptibility
+rs17817449	Breast cancer susceptibility
+rs12710696	Breast cancer susceptibility
+rs1432679	Breast cancer
+rs3757318	Breast cancer
+rs17817449	Breast cancer
+rs12710696	Breast cancer
+rs9674559	Diabetes mellitus
+rs1051690	Diabetes mellitus
+rs7211818	Diabetes mellitus
+rs1799817	Diabetes mellitus
+rs9674559	Nephropathy
+rs1051690	Nephropathy
+rs7211818	Nephropathy
+rs1799817	Nephropathy
+rs9674559	Diabetes
+rs1051690	Diabetes
+rs7211818	Diabetes
+rs1799817	Diabetes
+rs7212142	Diabetes mellitus
+rs7212142	Nephropathy
+rs7212142	Diabetes
+rs2059806	Diabetes mellitus
+rs7212142	Diabetes mellitus
+rs2059806	Nephropathy
+rs7212142	Nephropathy
+rs2059806	Diabetes
+rs7212142	Diabetes
+rs3212986	Glioma
+rs13181	Glioma
+rs12051272	High density lipoprotein cholesterol
+rs12051272	Metabolic syndrome
+rs12051272	Cholesterol level
+rs12051272	Plasma glucose
+rs12051272	Adiponectin
+rs3761624	Tuberculosis
+rs3764879	Tuberculosis
+rs3761624	Tuberculosis
+rs3764880	Tuberculosis
+rs3093024	Psoriasis
+rs8702	Cataract
+rs3117582	Lung cancer
+rs2808629	Diabetes
+rs7193144	Body mass index
+rs7193144	Obesity
+rs1042522	Endometriosis
+rs2059614	Breast cancer
+rs653178	Celiac disease
+rs16944	Cervical cancer
+rs6457617	Cervical cancer
+rs1800372	Osteosarcoma
+rs12979860	Hepatitis C virus infection
+rs12979860	Hepatitis C virus
+rs2228570	Diabetes
+rs2228570	Diabetes
+rs8081059	Renal cell carcinoma
+rs4969054	Bladder cancer
+rs11871756	Bladder cancer
+rs9913017	Bladder cancer
+rs11077654	Bladder cancer
+rs2069885	Asthma
+rs1859430	Asthma
+rs11741137	Asthma
+rs4795067	Psoriasis
+rs680	Insulin resistance
+rs35705950	Interstitial lung disease
+rs35705950	Lung disease
+rs4129218	Body mass index
+rs1048943	Cervical cancer
+rs1801282	Diabetes mellitus
+rs8192673	Diabetes mellitus
+rs1801282	Diabetes
+rs8192673	Diabetes
+rs1801282	Obesity
+rs8192673	Obesity
+rs4818	Migraine
+rs4680	Migraine
+rs7205423	H. pylori infection
+rs2709800	H. pylori infection
+rs2111235	H. pylori infection
+rs718226	H. pylori infection
+rs738409	Non alcoholic fatty liver disease
+rs738409	Fatty liver disease
+rs738409	Fatty liver
+rs738409	Obesity
+rs12252	Influenza
+rs12252	Influenza
+rs12979860	Hepatitis C virus
+rs1778155	Ischemic stroke
+rs35724886	Ischemic stroke
+rs1778155	Stroke
+rs35724886	Stroke
+rs6965571	Asthma
+rs13222905	Asthma
+rs189037	Ataxia telangiectasia
+rs189037	Ataxia telangiectasia
+rs189037	Telangiectasia
+rs189037	Ataxia
+rs12979860	Hepatitis C virus
+rs861539	Gastric cancer
+rs861539	Gastric cancer
+rs12731181	Hypertension
+rs12731181	Blood pressure regulation
+rs12731181	Hypertension
+rs3783553	Oral squamous cell carcinoma
+rs3783553	Squamous cell carcinoma
+rs1800624	Lung cancer susceptibility
+rs1800624	Breast cancer
+rs1800624	Lung cancer
+rs2070600	Lung cancer
+rs1800264	Breast cancer
+rs1800264	Lung cancer
+rs3794405	Adenocarcinoma
+rs1127354	Hemolytic anemia
+rs1127354	Anemia
+rs2302685	Stroke
+rs10743980	Stroke
+rs2075241	Stroke
+rs7975614	Stroke
+rs10492120	Stroke
+rs11172113	Stroke
+rs2241880	Obesity
+rs429358	Obesity
+rs1137100	Obesity
+rs7412	Obesity
+rs266729	Adiponectin
+rs2107595	Stroke
+rs6795970	Heart block
+rs1625579	Schizophrenia susceptibility
+rs1625579	Schizophrenia
+rs523349	Prostate cancer
+rs3045215	Coronary artery disease
+rs2736122	Coronary heart disease
+rs2853668	Coronary heart disease
+rs2736122	Stroke
+rs2853668	Stroke
+rs13208321	Migraine
+rs4379368	Migraine
+rs1535500	Diabetes
+rs11196218	Diabetes mellitus
+rs11196218	Diabetes
+rs11196218	Diabetes mellitus
+rs11196218	Diabetes
+rs11206510	Hypertension
+rs9277534	Acute GVHD
+rs9277534	Acute GVHD
+rs588765	Lung cancer
+rs16969968	Lung cancer
+rs1183201	Uric acid concentration
+rs780094	Uric acid concentration
+rs505802	Uric acid concentration
+rs1183201	Uric acid concentration
+rs780094	Uric acid concentration
+rs505802	Uric acid concentration
+rs5767743	Body mass index
+rs2031920	Gastric cancer
+rs804270	Gastric cancer
+rs2279744	Gastric cancer
+rs2275008	Gastric cancer
+rs2031920	Gastric cancer
+rs804270	Gastric cancer
+rs2279744	Gastric cancer
+rs2275008	Gastric cancer
+rs1211375	Malaria
+rs2243250	Malaria
+rs1805015	Malaria
+rs1126535	Malaria
+rs1800750	Malaria
+rs8078340	Malaria
+rs17561	Malaria
+rs909253	Gastric cancer
+rs2294008	Gastric cancer
+rs3765524	Gastric cancer
+rs10509670	Gastric cancer
+rs804270	Gastric cancer
+rs2279115	Gastric cancer
+rs219780	Bone mineral density
+rs361525	Alpha 1 antitrypsin deficiency
+rs361525	COPD
+rs1983891	Prostate cancer
+rs1800947	Ischemic stroke
+rs1800947	Stroke
+rs7797466	Ovarian cancer
+rs6902123	Diabetes
+rs3734254	Diabetes
+rs4578621	Diabetes
+rs894160	Diabetes
+rs4578621	Obesity
+rs894160	Obesity
+rs1799854	Diabetes
+rs4506565	Diabetes
+rs12255372	Diabetes
+rs7901695	Diabetes
+rs7903146	Diabetes
+rs11196205	Diabetes
+rs2076530	Sarcoidosis
+rs3087456	Myocardial infarction
+rs3087456	Rheumatoid arthritis
+rs3087456	Multiple sclerosis
+rs7903146	Diabetes
+rs2664155	Prostate cancer
+rs198977	Prostate cancer
+rs1545620	Inflammatory bowel disease
+rs1545620	Celiac disease
+rs6903874	Schizophrenia
+rs6937506	Schizophrenia
+rs7452939	Schizophrenia
+rs6903874	Schizophrenia
+rs2234678	Asthma
+rs2234678	Asthma
+rs12233372	Diabetes
+rs2004640	Systemic lupus erythematosus
+rs2280714	Systemic lupus erythematosus
+rs2004640	Lupus erythematosus
+rs2280714	Lupus erythematosus
+rs601341	Diffuse Large B Cell Lymphoma
+rs601341	Follicular lymphoma
+rs601341	B cell lymphoma
+rs601341	Lymphoma
+rs2476601	Rheumatoid arthritis
+rs125701	Bladder cancer
+rs5186	Metabolic syndrome
+rs5182	Metabolic syndrome
+rs4906902	Childhood absence epilepsy
+rs4906902	Epilepsy
+rs324420	Obesity
+rs7566605	Obesity
+rs7566605	Obesity
+rs10508266	Lung cancer
+rs3750861	Prostate cancer
+rs3750861	Lung cancer
+rs6857715	Obesity
+rs162430	Obesity
+rs6311	Tourette syndrome
+rs2166975	Cleft palate
+rs1800206	Plasma glucose
+rs1800206	Diabetes
+rs4253778	Diabetes
+rs4253776	Diabetes
+rs2304595	Hypertension
+rs4253325	Hypertension
+rs4641	Metabolic syndrome
+rs4641	Diabetes
+rs7903146	Diabetes mellitus
+rs7903146	Adiponectin
+rs7903146	Diabetes
+rs7903146	Diabetes mellitus
+rs7903146	Diabetes
+rs17599586	Myocardial infarction
+rs2781668	Myocardial infarction
+rs2781666	Myocardial infarction
+rs2781667	Myocardial infarction
+rs3770502	Glioma
+rs9288516	Glioma
+rs828704	Glioma
+rs6519265	Glioma
+rs2720709	Plasmacytoma
+rs6983267	Prostate cancer
+rs187269	Schizophrenia
+rs1801260	Insomnia
+rs13387042	Breast cancer
+rs3803662	Breast cancer
+rs3803662	Breast cancer
+rs5882	Longevity
+rs1990760	Type 1 diabetes
+rs1990760	Diabetes
+rs11568821	Systemic lupus erythematosus
+rs11568821	Rheumatoid arthritis
+rs11568821	Lupus erythematosus
+rs28757218	Schizophrenia
+rs2277499	Schizophrenia
+rs2359612	Coronary heart disease
+rs2359612	Stroke
+rs2075555	Myopia
+rs2269336	Myopia
+rs2075555	Myopia
+rs2269336	Myopia
+rs1107946	Myopia
+rs884115	Diabetes
+rs13283456	Diabetes
+rs10987883	Diabetes
+rs4837240	Diabetes
+rs1322784	Schizophrenia
+rs2075800	Sarcoidosis
+rs7903146	Body mass index
+rs7903146	Diabetes
+rs7903146	Birth weight
+rs3924999	Schizophrenia
+rs3924999	Schizophrenia
+rs1333049	Coronary artery disease
+rs599839	Coronary artery disease
+rs17465637	Coronary artery disease
+rs501120	Coronary artery disease
+rs17228212	Coronary artery disease
+rs8702	Cataract
+rs6265	Multiple sclerosis
+rs2076530	Sarcoidosis
+rs2076530	Sarcoidosis
+rs212528	Hypertension
+rs1946519	Cervical cancer
+rs360718	Cervical cancer
+rs1946519	Cervical cancer
+rs360718	Cervical cancer
+rs1401296	Ischemic stroke
+rs1401296	Stroke
+rs1801200	Breast cancer
+rs12255372	Diabetes mellitus
+rs7903146	Diabetes mellitus
+rs12255372	Diabetes
+rs7903146	Diabetes
+rs4680	Schizophrenia
+rs737865	Schizophrenia
+rs165599	Schizophrenia
+rs2097603	Schizophrenia
+rs2046934	Venous thromboembolism
+rs5853517	Venous thromboembolism
+rs6809699	Venous thromboembolism
+rs10935838	Venous thromboembolism
+rs2046934	Myocardial infarction
+rs5853517	Myocardial infarction
+rs6809699	Myocardial infarction
+rs10935838	Myocardial infarction
+rs2046934	Ischemic stroke
+rs5853517	Ischemic stroke
+rs6809699	Ischemic stroke
+rs10935838	Ischemic stroke
+rs2046934	Thromboembolism
+rs5853517	Thromboembolism
+rs6809699	Thromboembolism
+rs10935838	Thromboembolism
+rs2046934	Stroke
+rs5853517	Stroke
+rs6809699	Stroke
+rs10935838	Stroke
+rs1801133	Osteoporosis
+rs1231202	Breast cancer
+rs10109984	Breast cancer
+rs2230009	Breast cancer
+rs8178097	Breast cancer
+rs4986850	Breast cancer
+rs9300039	Diabetes
+rs1111875	Diabetes
+rs10811661	Diabetes
+rs4402960	Diabetes
+rs1111875	Acute insulin response
+rs2540317	Diabetes
+rs10515353	Diabetes
+rs2242400	Diabetes
+rs1700	Schizophrenia
+rs17578796	Schizophrenia
+rs1630498	Birth weight
+rs2002064	Birth weight
+rs1800849	Insulin resistance
+rs659366	Insulin resistance
+rs1800849	Obesity
+rs659366	Obesity
+rs1800849	Insulin resistance
+rs659366	Insulin resistance
+rs1800849	Obesity
+rs659366	Obesity
+rs13447075	Diabetes
+rs2648862	Diabetes
+rs2056202	Autism
+rs6265	Schizophrenia
+rs2008691	Osteoporosis
+rs2454873	Osteoporosis
+rs4988300	Osteoporosis
+rs1884052	Osteoporosis
+rs1801133	Osteoporosis
+rs10519297	Osteoporosis
+rs10510418	Osteoporosis
+rs379016	Osteoporosis
+rs2075555	Osteoporosis
+rs2938392	Osteoporosis
+rs2189480	Osteoporosis
+rs3778099	Osteoporosis
+rs7903146	Diabetes
+rs7100927	Diabetes
+rs2410373	Prostate cancer
+rs905883	Prostate cancer
+rs7558615	Prostate cancer
+rs9325782	Prostate cancer
+rs7564590	Prostate cancer
+rs2410373	Breast cancer
+rs905883	Breast cancer
+rs7558615	Breast cancer
+rs9325782	Breast cancer
+rs7564590	Breast cancer
+rs1447295	Prostate cancer
+rs34330	Lung cancer
+rs1625895	Lung cancer
+rs2243248	Glioma
+rs1800795	Glioma
+rs1421085	Body mass index
+rs9939609	Body mass index
+rs17817449	Body mass index
+rs1421085	Obesity
+rs9939609	Obesity
+rs17817449	Obesity
+rs7923837	Diabetes
+rs1111875	Diabetes
+rs5015480	Diabetes
+rs10811661	Diabetes
+rs7756992	Diabetes
+rs13266634	Diabetes
+rs1045485	Breast cancer
+rs7574865	Systemic lupus erythematosus
+rs7574865	Rheumatoid arthritis
+rs7574865	Lupus erythematosus
+rs4986938	Coronary heart disease
+rs4986938	Endometriosis
+rs9939609	Diabetes
+rs11946004	Panic disorder
+rs11724320	Panic disorder
+rs2209972	PCOS
+rs1008805	Breast cancer
+rs10499194	Rheumatoid arthritis
+rs6920220	Rheumatoid arthritis
+rs10499194	Rheumatoid arthritis
+rs3771300	Atopy
+rs6908425	Diabetes
+rs889312	Breast cancer
+rs3809865	Autism
+rs1042173	Autism
+rs6822844	Celiac disease
+rs780094	Insulin resistance
+rs780094	Diabetes
+rs1468271	Hypercholesterolemia
+rs2241220	Hypercholesterolemia
+rs4072032	Hypercholesterolemia
+rs1468271	Hypertriglyceridemia
+rs2241220	Hypertriglyceridemia
+rs4072032	Hypertriglyceridemia
+rs10757274	Myocardial infarction
+rs2383207	Myocardial infarction
+rs2383206	Myocardial infarction
+rs10757278	Myocardial infarction
+rs4646	Breast cancer
+rs10046	Breast cancer
+rs10012946	Diabetes
+rs1233478	Diabetes
+rs7566605	Obesity
+rs1571801	Prostate cancer
+rs1633445	Schizophrenia
+rs175174	Schizophrenia
+rs1633445	Schizophrenia
+rs1633445	Schizophrenia
+rs20541	Psoriasis
+rs848	Psoriasis
+rs1800925	Psoriasis
+rs4804611	Diabetes mellitus
+rs3742207	Diabetes mellitus
+rs4804611	Body mass index
+rs3742207	Body mass index
+rs4804611	Hypertension
+rs3742207	Hypertension
+rs4804611	Diabetes
+rs3742207	Diabetes
+rs4779584	Colorectal cancer
+rs731236	Ovarian carcinoma
+rs1544410	Ovarian carcinoma
+rs10735810	Ovarian carcinoma
+rs11568820	Ovarian carcinoma
+rs7975232	Ovarian carcinoma
+rs731236	Ovarian cancer
+rs1544410	Ovarian cancer
+rs10735810	Ovarian cancer
+rs11568820	Ovarian cancer
+rs7975232	Ovarian cancer
+rs1883832	Osteoporosis
+rs1121980	Obesity
+rs13266634	Diabetes
+rs2227098	Schizophrenia
+rs1034428	Schizophrenia
+rs989638	Schizophrenia
+rs5335	Hypertension
+rs1064891	Obesity
+rs40184	Major depressive disorder
+rs361525	Prostate cancer
+rs1799964	Prostate cancer
+rs1800630	Prostate cancer
+rs1800629	Prostate cancer
+rs1799724	Prostate cancer
+rs1800610	Prostate cancer
+rs361525	Ovarian cancer
+rs1799964	Ovarian cancer
+rs1800630	Ovarian cancer
+rs1800629	Ovarian cancer
+rs1799724	Ovarian cancer
+rs1800610	Ovarian cancer
+rs1799724	Prostate cancer
+rs2499953	Plasma glucose
+rs10823406	Plasma glucose
+rs20455	Atherosclerosis
+rs647126	Diabetes
+rs1800006	Diabetes
+rs591758	Diabetes
+rs668514	Diabetes
+rs2165241	Glaucoma
+rs3825942	Glaucoma
+rs1048661	Glaucoma
+rs1136287	Age related macular degeneration
+rs1136287	Macular degeneration
+rs12325817	Breast cancer
+rs12676	Breast cancer
+rs3733890	Breast cancer
+rs1800795	Breast cancer
+rs9939609	Obesity
+rs9939609	Plasma glucose
+rs9939609	Obesity
+rs549908	Rheumatoid arthritis
+rs549908	Asthma
+rs721048	Prostate cancer
+rs5945572	Prostate cancer
+rs7903146	Colorectal cancer
+rs7903146	Colon cancer
+rs7903146	Colon cancer
+rs2308237	Colorectal cancer
+rs7566605	Obesity
+rs7566605	Body mass index
+rs7566605	Obesity
+rs1801282	Diabetes
+rs1801282	Obesity
+rs10399805	Schizophrenia
+rs35490896	Breast cancer
+rs1883832	Lymphoma
+rs7903146	Diabetes
+rs4149601	Hypertension
+rs3865418	Hypertension
+rs2075799	Schizophrenia
+rs2227956	Schizophrenia
+rs2075799	Schizophrenia
+rs2234693	Myocardial infarction
+rs1867226	Hypertension
+rs9791170	Hypertension
+rs13181	Squamous cell carcinoma
+rs13181	Breast cancer
+rs13181	Breast cancer
+rs3759223	Myopia
+rs3741834	Myopia
+rs3759223	Myopia
+rs6457327	Follicular lymphoma
+rs6457327	Lymphoma
+rs7975232	Asthma
+rs17576	Glaucoma
+rs2250889	Glaucoma
+rs1800057	Prostate cancer
+rs4149056	Myopathy
+rs10947803	Stroke
+rs2294008	Bladder cancer
+rs6678616	Cataract
+rs4646903	Coronary heart disease
+rs4646903	Lung cancer
+rs8034191	Lung cancer
+rs3117582	Lung cancer
+rs4975616	Lung cancer
+rs909253	Hodgkin lymphoma
+rs1800629	Hodgkin lymphoma
+rs909253	Lymphoma
+rs1800629	Lymphoma
+rs909253	HIV 1
+rs1800629	HIV 1
+rs2077647	Prostate cancer
+rs2228480	Prostate cancer
+rs4986938	Prostate cancer
+rs1801132	Prostate cancer
+rs746432	Prostate cancer
+rs8018687	Prostate cancer
+rs928554	Prostate cancer
+rs851982	Prostate cancer
+rs2273206	Prostate cancer
+rs4986938	Prostate cancer
+rs2228480	Prostate cancer
+rs746432	Prostate cancer
+rs188703	Gastric cancer
+rs160277	Gastric cancer
+rs1800795	Neuroblastoma
+rs1800795	Neuroblastoma
+rs1801132	Migraine
+rs2234693	Migraine
+rs1042838	Migraine
+rs11986220	Prostate cancer
+rs1858830	Autism
+rs1858830	Autism
+rs9561778	Breast cancer
+rs13312840	Breast cancer
+rs769416	Breast cancer
+rs290487	Diabetes
+rs7756992	Diabetes
+rs11196218	Diabetes
+rs9652490	Essential tremor
+rs9652490	Tremor
+rs760805	H. pylori infection
+rs6672420	H. pylori infection
+rs760805	Gastric cancer
+rs6672420	Gastric cancer
+rs16906252	Colorectal cancer
+rs2943641	Insulin resistance
+rs2855192	Ovarian cancer
+rs12858139	Sarcoidosis
+rs7337610	Sarcoidosis
+rs2296283	Sarcoidosis
+rs7667298	Sarcoidosis
+rs7691507	Sarcoidosis
+rs2125489	Sarcoidosis
+rs13266634	Diabetes
+rs6897932	Multiple sclerosis
+rs6897932	Diabetes
+rs1801282	Diabetes
+rs6295	Schizophrenia
+rs4880	Age related macular degeneration
+rs4880	Macular degeneration
+rs731236	Multiple sclerosis
+rs7975232	Multiple sclerosis
+rs1800896	Colorectal cancer
+rs3024496	Colorectal cancer
+rs1800890	Colorectal cancer
+rs3024498	Colorectal cancer
+rs10181656	Systemic lupus erythematosus
+rs10181656	Lupus erythematosus
+rs3741378	Breast cancer
+rs746429	Breast cancer
+rs931127	Breast cancer
+rs5443	Thyroid carcinoma
+rs7577851	PARK3
+rs1047552	HIV 1
+rs1800566	Schizophrenia
+rs1006737	Schizophrenia
+rs9925481	Diabetes mellitus
+rs7913948	Diabetes mellitus
+rs12632110	Diabetes mellitus
+rs9925481	Hypertension
+rs7913948	Hypertension
+rs12632110	Hypertension
+rs9925481	Diabetes
+rs7913948	Diabetes
+rs12632110	Diabetes
+rs12449782	Nephropathy
+rs1799752	Nephropathy
+rs1800764	Nephropathy
+rs1219648	Breast cancer
+rs13387042	Breast cancer
+rs864745	Diabetes
+rs20541	Atopy
+rs1881457	Atopy
+rs1800925	Atopy
+rs1805010	Asthma
+rs20541	COPD
+rs2066960	COPD
+rs1295685	COPD
+rs2250747	COPD
+rs11200638	Age related macular degeneration
+rs11200638	Macular degeneration
+rs3917356	Insulin resistance
+rs16944	Insulin resistance
+rs1143634	Insulin resistance
+rs3917356	Diabetes
+rs16944	Diabetes
+rs1143634	Diabetes
+rs855791	Hemoglobin
+rs9357271	Obsessive compulsive disorder
+rs4657139	QT interval
+rs16847548	QT interval
+rs11523871	Breast cancer
+rs2981745	Breast cancer
+rs599839	Coronary artery disease
+rs599839	Coronary artery disease
+rs599839	Myocardial infarction
+rs1800925	Malaria
+rs1881457	Malaria
+rs1800925	Malaria
+rs1990760	Type 1 diabetes
+rs1990760	Diabetes
+rs406193	Colorectal cancer
+rs535586	Colorectal cancer
+rs2229416	Hypertriglyceridemia
+rs2241220	Hypercholesterolemia
+rs1468271	Hypercholesterolemia
+rs1266175	Hypertriglyceridemia
+rs12453407	Hypertriglyceridemia
+rs9906543	Hypertriglyceridemia
+rs1266175	Hyperlipidemia
+rs12453407	Hyperlipidemia
+rs9906543	Hyperlipidemia
+rs2854482	Breast cancer
+rs5848	Frontotemporal lobar degeneration
+rs11614913	Breast cancer
+rs3746444	Breast cancer
+rs2910164	Breast cancer
+rs9389370	Schizophrenia
+rs12078839	Hypertension
+rs645106	Hypertension
+rs4854344	Obesity
+rs2867125	Obesity
+rs10913469	Obesity
+rs6548238	Obesity
+rs7561317	Obesity
+rs2270628	Ovarian cancer
+rs529038	Myocardial infarction
+rs619203	Myocardial infarction
+rs7903146	Diabetes
+rs62078748	Obesity
+rs2229425	Obesity
+rs2229422	Obesity
+rs17848939	Obesity
+rs2229422	Diabetes
+rs5918	Ovarian cancer
+rs11209026	Inflammatory bowel disease
+rs11209026	Psoriasis
+rs10516487	DcSSc
+rs3733197	DcSSc
+rs9607267	Hypertension
+rs1537415	Periodontitis
+rs1695	DLBCL
+rs1048943	Lymphoma
+rs1048943	DLBCL
+rs3738414	Breast cancer
+rs10801935	Breast cancer
+rs4934	Aneurysm
+rs1435879	Asthma
+rs6052761	Asthma
+rs10515807	Asthma
+rs1137070	Hyperuricemia
+rs1695	Breast cancer
+rs7903146	Coronary artery disease
+rs7903146	Diabetes
+rs7903146	Coronary artery disease
+rs7903146	Diabetes
+rs1801157	Breast cancer
+rs1801157	Lymphoma
+rs7903146	Diabetes
+rs7950226	Prostate cancer
+rs2292912	Prostate cancer
+rs1534891	Prostate cancer
+rs2289591	Prostate cancer
+rs895521	Prostate cancer
+rs1369481	Prostate cancer
+rs885747	Prostate cancer
+rs12315175	Prostate cancer
+rs7602358	Prostate cancer
+rs17024926	Prostate cancer
+rs1012477	Prostate cancer
+rs11133373	Prostate cancer
+rs10494366	Diabetes
+rs10494366	Diabetes
+rs738409	Cirrhosis
+rs11169571	Ovarian cancer
+rs6505162	Ovarian cancer
+rs895819	Ovarian cancer
+rs2077647	Prostate cancer
+rs10046	Prostate cancer
+rs2736100	Adenocarcinoma
+rs4975616	Adenocarcinoma
+rs2736100	Lung cancer
+rs4975616	Lung cancer
+rs1990760	Type 1 diabetes
+rs1990760	Diabetes
+rs6969502	Prostate cancer
+rs6949149	Prostate cancer
+rs7805828	Prostate cancer
+rs6969502	Breast cancer
+rs6949149	Breast cancer
+rs7805828	Breast cancer
+rs7550380	Breast cancer
+rs1828591	Pulmonary disease
+rs13118928	Pulmonary disease
+rs1828591	COPD
+rs13118928	COPD
+rs861539	Breast cancer
+rs8050136	Diabetes
+rs8050136	Obesity
+rs3809508	Obesity
+rs3809508	Obesity
+rs2414096	Polycystic ovary syndrome
+rs2414096	Hyperandrogenism
+rs2414096	PCOS
+rs2276109	Asthma
+rs2276109	Asthma
+rs2383207	Ischemic stroke
+rs10757274	Ischemic stroke
+rs2383207	Stroke
+rs10757274	Stroke
+rs1169288	C reactive protein
+rs2464196	C reactive protein
+rs2786098	Asthma
+rs3790433	Insulin resistance
+rs3790433	Insulin resistance
+rs7903146	Diabetes
+rs6746030	Erythromelalgia
+rs1111875	PCOS
+rs7903146	PCOS
+rs324419	Obesity
+rs873978	Obesity
+rs324420	Obesity
+rs2295632	Obesity
+rs324420	Obesity
+rs2917666	Asthma
+rs1800624	Diabetes mellitus
+rs1800624	Diabetes
+rs1705236	Diabetes
+rs7520850	Obesity
+rs6429600	Obesity
+rs324418	Obesity
+rs2295633	Obesity
+rs324419	Obesity
+rs324420	Obesity
+rs290487	Diabetes mellitus
+rs290487	Diabetes
+rs2295190	Ovarian cancer
+rs2295190	Ovarian cancer
+rs2431238	Pancreatic cancer
+rs10145182	Pancreatic cancer
+rs2431238	Pancreatic cancer
+rs10145182	Pancreatic cancer
+rs2431238	Body mass index
+rs10145182	Body mass index
+rs11706052	Neutropenia
+rs2736100	Lung cancer susceptibility
+rs2736100	Lung cancer
+rs35180395	Obesity
+rs9386126	Obesity
+rs3734354	Obesity
+rs5219	Body mass index
+rs5219	Diabetes
+rs2144908	Diabetes
+rs1800797	Obesity
+rs2294008	Bladder cancer
+rs2294008	Gastric cancer
+rs2294008	Bladder cancer
+rs1800629	Mantle cell lymphoma
+rs1800629	Lymphoma
+rs1800890	Diffuse Large B Cell Lymphoma
+rs1800890	Mantle cell lymphoma
+rs1800890	B cell lymphoma
+rs1800890	Lymphoma
+rs25531	Major depressive disorder
+rs1044498	Insulin resistance
+rs1044498	Diabetes
+rs1625649	Colorectal cancer
+rs10483813	Breast cancer
+rs930395	Breast cancer
+rs10941679	Breast cancer
+rs2067980	Breast cancer
+rs4415084	Breast cancer
+rs7903146	Obesity
+rs560191	Lung cancer
+rs560191	Lung cancer
+rs361072	Insulin resistance
+rs7903146	Insulin resistance
+rs7903146	Diabetes
+rs17286604	Hypertension
+rs4499545	Hypertension
+rs11712619	Hypertension
+rs17286604	Diabetes
+rs4499545	Diabetes
+rs11712619	Diabetes
+rs12487736	Myocardial infarction
+rs2228314	Myocardial infarction
+rs1799971	Schizophrenia
+rs1800871	Lung cancer
+rs1799964	Lung cancer
+rs1800871	Lung cancer
+rs6822844	Autoimmune disease
+rs1143634	Migraine
+rs1800629	Migraine
+rs17561	Migraine
+rs11915160	Diabetes mellitus
+rs11915160	Type 1 diabetes
+rs11915160	Diabetes
+rs11915160	End stage renal disease
+rs13250096	Schizophrenia
+rs1128397	Schizophrenia
+rs4567028	Schizophrenia
+rs35667974	Hemochromatosis
+rs9652490	Essential tremor
+rs9652490	Tremor
+rs7903146	Diabetes
+rs4939827	Colon cancer
+rs1295371	Colon cancer
+rs3742879	Asthma
+rs17249437	Asthma
+rs13266634	Diabetes
+rs10941679	Breast cancer
+rs4415084	Breast cancer
+rs4415084	Breast cancer
+rs6451770	Breast cancer
+rs13156930	Breast cancer
+rs12515012	Breast cancer
+rs16901937	Breast cancer
+rs2107425	Breast cancer
+rs3817198	Breast cancer
+rs889312	Breast cancer
+rs17468277	Breast cancer
+rs13281615	Breast cancer
+rs1801274	Systemic lupus erythematosus
+rs1801274	Lupus erythematosus
+rs1801274	Autoimmune disease
+rs1801274	Type 1 diabetes
+rs1801274	Diabetes
+rs1035938	Meningioma
+rs3219466	Meningioma
+rs1800067	Meningioma
+rs25406	Meningioma
+rs1805794	Meningioma
+rs1136410	Acoustic neuroma
+rs1799793	Acoustic neuroma
+rs17655	Acoustic neuroma
+rs1799782	Glioma
+rs7574865	Inflammatory bowel disease
+rs301430	Autism
+rs361525	Polyposis
+rs16944	Polyposis
+rs1800629	Polyposis
+rs17561	Polyposis
+rs3812316	Stroke
+rs4846914	Stroke
+rs17145738	Stroke
+rs2244012	Asthma
+rs1063355	Asthma
+rs10811661	Diabetes
+rs10946398	Diabetes
+rs7903146	Diabetes
+rs8050136	Plasma glucose
+rs11134527	Cervical cancer
+rs2566	Cervical cancer
+rs11134527	Cervical cancer
+rs2566	Cervical cancer
+rs11134527	Cervical cancer
+rs2566	Cervical cancer
+rs2476601	Autoimmune disease
+rs2268388	Nephropathy
+rs2268388	Diabetes
+rs2268388	Proteinuria
+rs2268388	Diabetes
+rs2268388	End stage renal disease
+rs2268388	Diabetes
+rs4986938	Bile duct cancer
+rs9997745	Insulin resistance
+rs361525	Insulin resistance
+rs2229094	Insulin resistance
+rs1800630	Insulin resistance
+rs1800629	Insulin resistance
+rs1041981	Insulin resistance
+rs1800610	Insulin resistance
+rs361525	Metabolic syndrome
+rs2229094	Metabolic syndrome
+rs1800630	Metabolic syndrome
+rs1800629	Metabolic syndrome
+rs1041981	Metabolic syndrome
+rs1800610	Metabolic syndrome
+rs361525	Body mass index
+rs2229094	Body mass index
+rs1800630	Body mass index
+rs1800629	Body mass index
+rs1041981	Body mass index
+rs1800610	Body mass index
+rs361525	Diabetes
+rs2229094	Diabetes
+rs1800630	Diabetes
+rs1800629	Diabetes
+rs1041981	Diabetes
+rs1800610	Diabetes
+rs2229094	Diabetes
+rs1800630	Diabetes
+rs1801282	Diabetes
+rs162049	Breast cancer
+rs1799930	Breast cancer
+rs7799039	Body mass index
+rs1137101	Body mass index
+rs1137100	Body mass index
+rs7799039	Obesity
+rs1137101	Obesity
+rs1137100	Obesity
+rs501192	Myocardial infarction
+rs35898099	Diabetes
+rs1570056	Diabetes
+rs7775356	Diabetes
+rs1570056	Diabetes
+rs873079	Diabetes
+rs6064099	Diabetes
+rs6068916	Diabetes
+rs873079	Diabetes
+rs6064099	Diabetes
+rs6064099	Obesity
+rs11614913	Nonsmall cell lung cancer
+rs11614913	Breast cancer
+rs11614913	Lung cancer
+rs6140264	Childhood ALL
+rs1360756	Childhood ALL
+rs3776932	Childhood ALL
+rs9388856	Childhood ALL
+rs9388857	Childhood ALL
+rs6897932	Multiple sclerosis
+rs16936752	Hemorrhage
+rs3111754	Hemorrhage
+rs10986769	Hemorrhage
+rs1324694	Hemorrhage
+rs12679196	Hemorrhage
+rs2016520	Diabetes
+rs2016520	Obesity
+rs2016520	High density lipoprotein cholesterol
+rs2016520	Body mass index
+rs2016520	Diabetes
+rs17782313	Body mass index
+rs17782313	Obesity
+rs17782313	Obesity
+rs2241880	Inflammatory bowel disease
+rs3743073	Lung cancer
+rs361525	Body mass index
+rs361525	COPD
+rs1800871	Lymphoma
+rs1800871	AIDS
+rs1800896	Lymphoma
+rs1800872	Lymphoma
+rs1800871	Lymphoma
+rs2981582	Breast cancer
+rs1862513	Diabetes
+rs1545620	Inflammatory bowel disease
+rs884419	Prostate cancer
